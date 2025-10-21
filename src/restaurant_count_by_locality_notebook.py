@@ -139,14 +139,20 @@ def _(gpd, restaurant_df):
 
 
 @app.cell
+def _(restaurant_gdf):
+    restaurant_gdf_cleaned = restaurant_gdf.dropna(subset=['name'])
+    return (restaurant_gdf_cleaned,)
+
+
+@app.cell
 def _(localities_df):
     print(localities_df.crs)
     return
 
 
 @app.cell
-def _(localities_df, restaurant_gdf):
-    restaurant_gdf_crs = restaurant_gdf.to_crs(localities_df.crs)
+def _(localities_df, restaurant_gdf_cleaned):
+    restaurant_gdf_crs = restaurant_gdf_cleaned.to_crs(localities_df.crs)
     return (restaurant_gdf_crs,)
 
 
@@ -194,11 +200,6 @@ def _(Path, df):
     output_dir.mkdir(parents=True, exist_ok=True)
 
     df.write_csv(output_dir / "restaurant_count_by_locality.csv")
-    return
-
-
-@app.cell
-def _():
     return
 
 

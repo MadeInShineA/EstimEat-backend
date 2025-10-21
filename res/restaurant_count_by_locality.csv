@@ -30,10 +30,10 @@ Aarberg,2022,12
 Aarberg,2021,12
 Aarberg,2020,12
 Aarberg,2019,14
-Aarberg,2018,14
-Aarberg,2017,13
-Aarberg,2016,13
-Aarberg,2015,14
+Aarberg,2018,13
+Aarberg,2017,12
+Aarberg,2016,12
+Aarberg,2015,13
 Aarberg,2014,7
 Aarburg,2025,12
 Aarburg,2024,8
@@ -60,21 +60,21 @@ Acquarossa,2020,5
 Acquarossa,2019,5
 Acquarossa,2018,5
 Acquarossa,2017,5
-Acquarossa,2016,3
-Acquarossa,2015,4
-Acquarossa,2014,3
-Adelboden,2025,30
-Adelboden,2024,27
-Adelboden,2023,27
-Adelboden,2022,27
-Adelboden,2021,26
-Adelboden,2020,26
-Adelboden,2019,23
-Adelboden,2018,18
-Adelboden,2017,18
-Adelboden,2016,17
-Adelboden,2015,16
-Adelboden,2014,13
+Acquarossa,2016,2
+Acquarossa,2015,3
+Acquarossa,2014,2
+Adelboden,2025,27
+Adelboden,2024,23
+Adelboden,2023,23
+Adelboden,2022,23
+Adelboden,2021,22
+Adelboden,2020,22
+Adelboden,2019,19
+Adelboden,2018,16
+Adelboden,2017,15
+Adelboden,2016,13
+Adelboden,2015,13
+Adelboden,2014,10
 Adligenswil,2025,5
 Adligenswil,2024,5
 Adligenswil,2023,5
@@ -95,18 +95,13 @@ Adliswil,2017,11
 Adliswil,2016,15
 Adliswil,2015,15
 Adliswil,2014,15
-Aedermannsdorf,2025,5
-Aedermannsdorf,2024,5
-Aedermannsdorf,2023,4
-Aedermannsdorf,2022,4
-Aedermannsdorf,2021,4
-Aedermannsdorf,2020,4
-Aedermannsdorf,2019,4
-Aedermannsdorf,2018,2
-Aedermannsdorf,2017,2
-Aedermannsdorf,2016,1
-Aedermannsdorf,2015,1
-Aedermannsdorf,2014,1
+Aedermannsdorf,2025,4
+Aedermannsdorf,2024,4
+Aedermannsdorf,2023,3
+Aedermannsdorf,2022,3
+Aedermannsdorf,2021,3
+Aedermannsdorf,2020,3
+Aedermannsdorf,2019,3
 Aegerten,2025,3
 Aegerten,2024,3
 Aegerten,2023,3
@@ -119,14 +114,14 @@ Aegerten,2017,3
 Aegerten,2016,3
 Aegerten,2015,3
 Aegerten,2014,3
-Aesch (BL),2025,7
-Aesch (BL),2024,7
-Aesch (BL),2023,7
-Aesch (BL),2022,7
-Aesch (BL),2021,3
-Aesch (BL),2020,3
-Aesch (BL),2019,3
-Aesch (BL),2018,3
+Aesch (BL),2025,5
+Aesch (BL),2024,5
+Aesch (BL),2023,5
+Aesch (BL),2022,5
+Aesch (BL),2021,1
+Aesch (BL),2020,1
+Aesch (BL),2019,1
+Aesch (BL),2018,1
 Aesch (BL),2017,1
 Aesch (BL),2016,1
 Aesch (BL),2015,1
@@ -183,25 +178,24 @@ Affoltern am Albis,2024,15
 Affoltern am Albis,2023,14
 Affoltern am Albis,2022,14
 Affoltern am Albis,2021,14
-Affoltern am Albis,2020,13
-Affoltern am Albis,2019,12
+Affoltern am Albis,2020,12
+Affoltern am Albis,2019,11
 Affoltern am Albis,2018,10
 Affoltern am Albis,2017,10
 Affoltern am Albis,2016,9
 Affoltern am Albis,2015,8
 Affoltern am Albis,2014,8
-Affoltern im Emmental,2025,3
-Affoltern im Emmental,2024,3
-Affoltern im Emmental,2023,3
-Affoltern im Emmental,2022,3
-Affoltern im Emmental,2021,3
-Affoltern im Emmental,2020,4
-Affoltern im Emmental,2019,4
-Affoltern im Emmental,2018,3
-Affoltern im Emmental,2017,2
-Affoltern im Emmental,2016,2
-Affoltern im Emmental,2015,2
-Affoltern im Emmental,2014,1
+Affoltern im Emmental,2025,2
+Affoltern im Emmental,2024,2
+Affoltern im Emmental,2023,2
+Affoltern im Emmental,2022,2
+Affoltern im Emmental,2021,2
+Affoltern im Emmental,2020,3
+Affoltern im Emmental,2019,3
+Affoltern im Emmental,2018,2
+Affoltern im Emmental,2017,1
+Affoltern im Emmental,2016,1
+Affoltern im Emmental,2015,1
 Agarn,2025,2
 Agarn,2024,2
 Agarn,2023,2
@@ -234,17 +228,17 @@ Agno,2016,2
 Agno,2015,2
 Agno,2014,2
 Aigle,2025,22
-Aigle,2024,21
-Aigle,2023,21
-Aigle,2022,20
-Aigle,2021,18
-Aigle,2020,18
-Aigle,2019,18
-Aigle,2018,16
+Aigle,2024,20
+Aigle,2023,20
+Aigle,2022,18
+Aigle,2021,16
+Aigle,2020,16
+Aigle,2019,16
+Aigle,2018,14
 Aigle,2017,13
 Aigle,2016,12
-Aigle,2015,12
-Aigle,2014,12
+Aigle,2015,11
+Aigle,2014,11
 Aire-la-Ville,2025,1
 Aire-la-Ville,2024,1
 Airolo,2025,12
@@ -271,30 +265,30 @@ Alberswil,2017,2
 Alberswil,2016,2
 Alberswil,2015,2
 Alberswil,2014,1
-Albinen,2025,5
-Albinen,2024,5
-Albinen,2023,5
-Albinen,2022,5
-Albinen,2021,5
-Albinen,2020,5
+Albinen,2025,4
+Albinen,2024,4
+Albinen,2023,4
+Albinen,2022,3
+Albinen,2021,3
+Albinen,2020,3
 Albinen,2019,4
 Albinen,2018,4
 Albinen,2017,4
 Albinen,2016,2
 Albinen,2015,2
 Albinen,2014,2
-Albula/Alvra,2025,7
-Albula/Alvra,2024,7
-Albula/Alvra,2023,7
-Albula/Alvra,2022,7
-Albula/Alvra,2021,7
-Albula/Alvra,2020,7
-Albula/Alvra,2019,7
-Albula/Alvra,2018,7
-Albula/Alvra,2017,6
-Albula/Alvra,2016,6
-Albula/Alvra,2015,6
-Albula/Alvra,2014,7
+Albula/Alvra,2025,6
+Albula/Alvra,2024,6
+Albula/Alvra,2023,6
+Albula/Alvra,2022,6
+Albula/Alvra,2021,6
+Albula/Alvra,2020,6
+Albula/Alvra,2019,6
+Albula/Alvra,2018,6
+Albula/Alvra,2017,5
+Albula/Alvra,2016,5
+Albula/Alvra,2015,5
+Albula/Alvra,2014,6
 Allaman,2025,1
 Allaman,2024,1
 Allaman,2023,1
@@ -319,20 +313,20 @@ Allmendingen,2017,1
 Allschwil,2025,14
 Allschwil,2024,14
 Allschwil,2023,14
-Allschwil,2022,15
-Allschwil,2021,14
-Allschwil,2020,14
-Allschwil,2019,13
-Allschwil,2018,13
-Allschwil,2017,14
-Allschwil,2016,14
-Allschwil,2015,11
-Allschwil,2014,12
+Allschwil,2022,14
+Allschwil,2021,13
+Allschwil,2020,13
+Allschwil,2019,12
+Allschwil,2018,12
+Allschwil,2017,12
+Allschwil,2016,12
+Allschwil,2015,9
+Allschwil,2014,8
 Alpnach,2025,8
 Alpnach,2024,8
 Alpnach,2023,8
 Alpnach,2022,5
-Alpnach,2021,5
+Alpnach,2021,4
 Alpnach,2020,4
 Alpnach,2019,3
 Alpnach,2018,3
@@ -418,15 +412,15 @@ Alto Malcantone,2017,3
 Alto Malcantone,2016,2
 Alto Malcantone,2015,2
 Alto Malcantone,2014,2
-Altstätten,2025,24
-Altstätten,2024,17
-Altstätten,2023,17
-Altstätten,2022,17
-Altstätten,2021,17
-Altstätten,2020,16
-Altstätten,2019,14
-Altstätten,2018,14
-Altstätten,2017,12
+Altstätten,2025,22
+Altstätten,2024,16
+Altstätten,2023,16
+Altstätten,2022,16
+Altstätten,2021,15
+Altstätten,2020,14
+Altstätten,2019,12
+Altstätten,2018,12
+Altstätten,2017,10
 Altstätten,2016,10
 Altstätten,2015,5
 Altstätten,2014,6
@@ -512,14 +506,14 @@ Andermatt,2022,16
 Andermatt,2021,16
 Andermatt,2020,14
 Andermatt,2019,13
-Andermatt,2018,14
+Andermatt,2018,13
 Andermatt,2017,9
 Andermatt,2016,8
 Andermatt,2015,8
 Andermatt,2014,10
-Andwil (SG),2025,2
-Andwil (SG),2024,2
-Andwil (SG),2023,2
+Andwil (SG),2025,1
+Andwil (SG),2024,1
+Andwil (SG),2023,1
 Anières,2025,4
 Anières,2024,4
 Anières,2023,4
@@ -527,21 +521,21 @@ Anières,2022,4
 Anières,2021,4
 Anières,2020,4
 Anières,2019,4
-Anières,2018,2
-Anières,2017,2
-Anières,2016,2
-Anniviers,2025,28
-Anniviers,2024,28
-Anniviers,2023,25
-Anniviers,2022,25
-Anniviers,2021,27
-Anniviers,2020,26
-Anniviers,2019,26
-Anniviers,2018,26
-Anniviers,2017,24
-Anniviers,2016,23
-Anniviers,2015,21
-Anniviers,2014,20
+Anières,2018,1
+Anières,2017,1
+Anières,2016,1
+Anniviers,2025,27
+Anniviers,2024,27
+Anniviers,2023,23
+Anniviers,2022,23
+Anniviers,2021,25
+Anniviers,2020,24
+Anniviers,2019,24
+Anniviers,2018,24
+Anniviers,2017,22
+Anniviers,2016,21
+Anniviers,2015,18
+Anniviers,2014,17
 Anwil,2024,2
 Anwil,2023,2
 Anwil,2022,2
@@ -584,16 +578,16 @@ Arbedo-Castione,2015,3
 Arbedo-Castione,2014,3
 Arbon,2025,21
 Arbon,2024,19
-Arbon,2023,20
-Arbon,2022,19
-Arbon,2021,18
-Arbon,2020,17
-Arbon,2019,15
-Arbon,2018,15
-Arbon,2017,13
+Arbon,2023,19
+Arbon,2022,18
+Arbon,2021,17
+Arbon,2020,16
+Arbon,2019,14
+Arbon,2018,14
+Arbon,2017,12
 Arbon,2016,10
-Arbon,2015,13
-Arbon,2014,11
+Arbon,2015,12
+Arbon,2014,10
 Arch,2025,2
 Arch,2024,1
 Arch,2023,1
@@ -682,18 +676,18 @@ Arogno,2017,3
 Arogno,2016,1
 Arogno,2015,1
 Arogno,2014,1
-Arosa,2025,39
-Arosa,2024,37
-Arosa,2023,35
-Arosa,2022,35
-Arosa,2021,35
-Arosa,2020,34
-Arosa,2019,35
-Arosa,2018,31
-Arosa,2017,27
-Arosa,2016,26
-Arosa,2015,18
-Arosa,2014,11
+Arosa,2025,38
+Arosa,2024,36
+Arosa,2023,34
+Arosa,2022,34
+Arosa,2021,33
+Arosa,2020,32
+Arosa,2019,33
+Arosa,2018,29
+Arosa,2017,25
+Arosa,2016,24
+Arosa,2015,16
+Arosa,2014,10
 Arth,2025,22
 Arth,2024,24
 Arth,2023,17
@@ -702,10 +696,10 @@ Arth,2021,18
 Arth,2020,18
 Arth,2019,18
 Arth,2018,17
-Arth,2017,14
-Arth,2016,14
-Arth,2015,10
-Arth,2014,10
+Arth,2017,13
+Arth,2016,12
+Arth,2015,9
+Arth,2014,9
 Arzier-Le Muids,2025,2
 Arzier-Le Muids,2024,2
 Arzier-Le Muids,2023,2
@@ -721,15 +715,15 @@ Arzier-Le Muids,2014,2
 Ascona,2025,36
 Ascona,2024,35
 Ascona,2023,34
-Ascona,2022,32
-Ascona,2021,31
-Ascona,2020,32
-Ascona,2019,29
-Ascona,2018,29
+Ascona,2022,30
+Ascona,2021,29
+Ascona,2020,30
+Ascona,2019,28
+Ascona,2018,28
 Ascona,2017,26
 Ascona,2016,24
-Ascona,2015,18
-Ascona,2014,17
+Ascona,2015,17
+Ascona,2014,16
 Assens,2025,2
 Assens,2024,3
 Assens,2023,3
@@ -766,14 +760,14 @@ Attinghausen,2017,2
 Attinghausen,2016,2
 Attinghausen,2015,3
 Attinghausen,2014,4
-Attiswil,2025,4
-Attiswil,2024,4
-Attiswil,2023,4
-Attiswil,2022,4
-Attiswil,2021,4
-Attiswil,2020,4
-Attiswil,2019,4
-Attiswil,2018,4
+Attiswil,2025,3
+Attiswil,2024,3
+Attiswil,2023,3
+Attiswil,2022,3
+Attiswil,2021,3
+Attiswil,2020,3
+Attiswil,2019,3
+Attiswil,2018,3
 Attiswil,2017,3
 Attiswil,2016,3
 Attiswil,2015,3
@@ -790,12 +784,12 @@ Au (SG),2017,8
 Au (SG),2016,7
 Au (SG),2015,6
 Au (SG),2014,5
-Aubonne,2025,8
-Aubonne,2024,7
-Aubonne,2023,6
-Aubonne,2022,6
-Aubonne,2021,5
-Aubonne,2020,5
+Aubonne,2025,7
+Aubonne,2024,6
+Aubonne,2023,5
+Aubonne,2022,5
+Aubonne,2021,4
+Aubonne,2020,4
 Aubonne,2019,3
 Aubonne,2018,3
 Aubonne,2017,3
@@ -844,7 +838,7 @@ Avegno Gordevio,2019,7
 Avegno Gordevio,2018,7
 Avegno Gordevio,2017,7
 Avegno Gordevio,2016,7
-Avegno Gordevio,2015,3
+Avegno Gordevio,2015,2
 Avegno Gordevio,2014,1
 Avenches,2025,12
 Avenches,2024,8
@@ -898,12 +892,12 @@ Ayent,2023,10
 Ayent,2022,8
 Ayent,2021,4
 Ayent,2020,4
-Ayent,2019,4
-Ayent,2018,4
-Ayent,2017,4
-Ayent,2016,3
-Ayent,2015,3
-Ayent,2014,3
+Ayent,2019,2
+Ayent,2018,2
+Ayent,2017,2
+Ayent,2016,1
+Ayent,2015,1
+Ayent,2014,1
 Baar,2025,32
 Baar,2024,31
 Baar,2023,26
@@ -924,18 +918,18 @@ Bachenbülach,2021,2
 Bachenbülach,2020,2
 Bachs,2025,1
 Bachs,2024,1
-Bad Ragaz,2025,22
-Bad Ragaz,2024,22
-Bad Ragaz,2023,23
-Bad Ragaz,2022,23
-Bad Ragaz,2021,23
-Bad Ragaz,2020,15
-Bad Ragaz,2019,15
-Bad Ragaz,2018,14
-Bad Ragaz,2017,12
-Bad Ragaz,2016,12
-Bad Ragaz,2015,11
-Bad Ragaz,2014,10
+Bad Ragaz,2025,21
+Bad Ragaz,2024,20
+Bad Ragaz,2023,21
+Bad Ragaz,2022,21
+Bad Ragaz,2021,21
+Bad Ragaz,2020,13
+Bad Ragaz,2019,13
+Bad Ragaz,2018,12
+Bad Ragaz,2017,10
+Bad Ragaz,2016,10
+Bad Ragaz,2015,9
+Bad Ragaz,2014,8
 Baden,2025,55
 Baden,2024,62
 Baden,2023,63
@@ -1022,18 +1016,16 @@ Bannwil,2022,1
 Bannwil,2021,1
 Bannwil,2020,1
 Bannwil,2019,1
-Bardonnex,2025,1
-Bardonnex,2024,1
-Bardonnex,2023,2
-Bardonnex,2022,2
-Bardonnex,2021,2
-Bardonnex,2020,2
-Bardonnex,2019,2
-Bardonnex,2018,2
-Bardonnex,2017,2
-Bardonnex,2016,2
-Bardonnex,2015,2
-Bardonnex,2014,2
+Bardonnex,2023,1
+Bardonnex,2022,1
+Bardonnex,2021,1
+Bardonnex,2020,1
+Bardonnex,2019,1
+Bardonnex,2018,1
+Bardonnex,2017,1
+Bardonnex,2016,1
+Bardonnex,2015,1
+Bardonnex,2014,1
 Bargen (BE),2025,3
 Bargen (BE),2024,3
 Bargen (BE),2023,3
@@ -1069,24 +1061,18 @@ Basadingen-Schlattingen,2017,2
 Basadingen-Schlattingen,2016,2
 Basadingen-Schlattingen,2015,3
 Basadingen-Schlattingen,2014,1
-Basel,2025,386
-Basel,2024,380
-Basel,2023,370
-Basel,2022,351
-Basel,2021,336
-Basel,2020,299
-Basel,2019,280
-Basel,2018,252
-Basel,2017,231
-Basel,2016,207
-Basel,2015,184
-Basel,2014,171
-Basse-Allaine,2023,1
-Basse-Allaine,2022,1
-Basse-Allaine,2021,1
-Basse-Allaine,2020,1
-Basse-Allaine,2019,1
-Basse-Allaine,2018,1
+Basel,2025,383
+Basel,2024,374
+Basel,2023,367
+Basel,2022,348
+Basel,2021,333
+Basel,2020,295
+Basel,2019,269
+Basel,2018,240
+Basel,2017,215
+Basel,2016,193
+Basel,2015,167
+Basel,2014,157
 Bassersdorf,2025,10
 Bassersdorf,2024,9
 Bassersdorf,2023,8
@@ -1096,9 +1082,9 @@ Bassersdorf,2020,9
 Bassersdorf,2019,10
 Bassersdorf,2018,9
 Bassersdorf,2017,9
-Bassersdorf,2016,5
-Bassersdorf,2015,5
-Bassersdorf,2014,4
+Bassersdorf,2016,2
+Bassersdorf,2015,2
+Bassersdorf,2014,2
 Bassins,2025,2
 Bassins,2024,1
 Bassins,2023,1
@@ -1158,18 +1144,18 @@ Beatenberg,2017,6
 Beatenberg,2016,6
 Beatenberg,2015,5
 Beatenberg,2014,4
-Beckenried,2025,11
+Beckenried,2025,10
 Beckenried,2024,10
 Beckenried,2023,10
-Beckenried,2022,7
-Beckenried,2021,7
-Beckenried,2020,7
-Beckenried,2019,7
-Beckenried,2018,7
-Beckenried,2017,7
-Beckenried,2016,7
-Beckenried,2015,7
-Beckenried,2014,7
+Beckenried,2022,6
+Beckenried,2021,6
+Beckenried,2020,6
+Beckenried,2019,6
+Beckenried,2018,6
+Beckenried,2017,6
+Beckenried,2016,6
+Beckenried,2015,6
+Beckenried,2014,5
 Bedano,2025,1
 Bedano,2024,1
 Bedano,2023,1
@@ -1182,18 +1168,18 @@ Bedano,2017,1
 Bedano,2016,1
 Bedano,2015,1
 Bedano,2014,1
-Bedretto,2025,3
-Bedretto,2024,4
-Bedretto,2023,4
-Bedretto,2022,4
-Bedretto,2021,4
-Bedretto,2020,4
-Bedretto,2019,4
-Bedretto,2018,4
-Bedretto,2017,4
-Bedretto,2016,4
-Bedretto,2015,3
-Bedretto,2014,3
+Bedretto,2025,1
+Bedretto,2024,2
+Bedretto,2023,2
+Bedretto,2022,2
+Bedretto,2021,2
+Bedretto,2020,2
+Bedretto,2019,2
+Bedretto,2018,2
+Bedretto,2017,2
+Bedretto,2016,2
+Bedretto,2015,1
+Bedretto,2014,1
 Begnins,2025,3
 Begnins,2024,3
 Begnins,2023,3
@@ -1215,11 +1201,11 @@ Beinwil (SO),2022,3
 Beinwil (SO),2021,3
 Beinwil (SO),2020,3
 Beinwil (SO),2019,3
-Beinwil (SO),2018,3
-Beinwil (SO),2017,3
-Beinwil (SO),2016,3
-Beinwil (SO),2015,3
-Beinwil (SO),2014,3
+Beinwil (SO),2018,2
+Beinwil (SO),2017,2
+Beinwil (SO),2016,2
+Beinwil (SO),2015,2
+Beinwil (SO),2014,2
 Beinwil am See,2025,1
 Beinwil am See,2024,4
 Beinwil am See,2023,4
@@ -1232,7 +1218,7 @@ Beinwil am See,2017,6
 Beinwil am See,2016,6
 Beinwil am See,2015,6
 Beinwil am See,2014,6
-Belfaux,2025,4
+Belfaux,2025,3
 Belfaux,2024,3
 Belfaux,2023,3
 Belfaux,2022,3
@@ -1267,28 +1253,26 @@ Bellikon,2021,1
 Bellikon,2020,1
 Bellikon,2019,1
 Bellikon,2018,1
-Bellinzona,2025,77
-Bellinzona,2024,69
-Bellinzona,2023,68
-Bellinzona,2022,68
-Bellinzona,2021,67
-Bellinzona,2020,67
-Bellinzona,2019,49
-Bellinzona,2018,48
-Bellinzona,2017,45
-Bellinzona,2016,42
-Bellinzona,2015,28
-Bellinzona,2014,25
+Bellinzona,2025,75
+Bellinzona,2024,68
+Bellinzona,2023,67
+Bellinzona,2022,67
+Bellinzona,2021,66
+Bellinzona,2020,66
+Bellinzona,2019,48
+Bellinzona,2018,47
+Bellinzona,2017,44
+Bellinzona,2016,40
+Bellinzona,2015,24
+Bellinzona,2014,21
 Bellmund,2025,1
 Bellmund,2024,1
 Bellwald,2025,4
 Bellwald,2024,4
 Bellwald,2023,4
-Bellwald,2022,4
-Bellwald,2021,4
-Bellwald,2020,5
-Bellwald,2019,1
-Bellwald,2018,1
+Bellwald,2022,3
+Bellwald,2021,3
+Bellwald,2020,3
 Bellwald,2014,1
 Belmont-Broye,2025,5
 Belmont-Broye,2024,3
@@ -1350,18 +1334,6 @@ Benken (ZH),2017,2
 Benken (ZH),2016,1
 Benken (ZH),2015,1
 Benken (ZH),2014,1
-Bennwil,2025,1
-Bennwil,2024,1
-Bennwil,2023,1
-Bennwil,2022,1
-Bennwil,2021,1
-Bennwil,2020,1
-Bennwil,2019,1
-Bennwil,2018,1
-Bennwil,2017,1
-Bennwil,2016,1
-Bennwil,2015,1
-Bennwil,2014,1
 Bercher,2025,1
 Bercher,2024,1
 Bercher,2023,1
@@ -1392,24 +1364,24 @@ Bergdietikon,2023,2
 Bergdietikon,2022,2
 Bergdietikon,2021,2
 Bergdietikon,2020,2
-Bergdietikon,2019,2
-Bergdietikon,2018,2
-Bergdietikon,2017,2
-Bergdietikon,2016,2
-Bergdietikon,2015,2
-Bergdietikon,2014,2
-Bergün Filisur,2025,8
-Bergün Filisur,2024,7
-Bergün Filisur,2023,7
-Bergün Filisur,2022,7
-Bergün Filisur,2021,6
-Bergün Filisur,2020,5
-Bergün Filisur,2019,4
-Bergün Filisur,2018,3
-Bergün Filisur,2017,2
-Bergün Filisur,2016,2
-Bergün Filisur,2015,2
-Bergün Filisur,2014,3
+Bergdietikon,2019,1
+Bergdietikon,2018,1
+Bergdietikon,2017,1
+Bergdietikon,2016,1
+Bergdietikon,2015,1
+Bergdietikon,2014,1
+Bergün Filisur,2025,7
+Bergün Filisur,2024,6
+Bergün Filisur,2023,6
+Bergün Filisur,2022,6
+Bergün Filisur,2021,5
+Bergün Filisur,2020,4
+Bergün Filisur,2019,2
+Bergün Filisur,2018,2
+Bergün Filisur,2017,1
+Bergün Filisur,2016,1
+Bergün Filisur,2015,1
+Bergün Filisur,2014,1
 Berikon,2025,4
 Berikon,2024,4
 Berikon,2023,4
@@ -1459,10 +1431,10 @@ Bern,2022,387
 Bern,2021,387
 Bern,2020,375
 Bern,2019,363
-Bern,2018,349
-Bern,2017,348
-Bern,2016,331
-Bern,2015,325
+Bern,2018,348
+Bern,2017,346
+Bern,2016,329
+Bern,2015,324
 Bern,2014,261
 Berneck,2025,4
 Berneck,2024,4
@@ -1510,18 +1482,6 @@ Besenbüren,2017,2
 Besenbüren,2016,2
 Besenbüren,2015,1
 Besenbüren,2014,1
-Bettenhausen,2025,1
-Bettenhausen,2024,1
-Bettenhausen,2023,1
-Bettenhausen,2022,1
-Bettenhausen,2021,1
-Bettenhausen,2020,1
-Bettenhausen,2019,1
-Bettenhausen,2018,1
-Bettenhausen,2017,1
-Bettenhausen,2016,1
-Bettenhausen,2015,1
-Bettenhausen,2014,1
 Bettingen,2025,1
 Bettingen,2024,1
 Bettingen,2023,1
@@ -1549,14 +1509,14 @@ Bettlach,2014,3
 Bettmeralp,2025,7
 Bettmeralp,2024,9
 Bettmeralp,2023,9
-Bettmeralp,2022,9
+Bettmeralp,2022,8
 Bettmeralp,2021,6
 Bettmeralp,2020,5
 Bettmeralp,2019,7
 Bettmeralp,2018,5
 Bettmeralp,2017,6
-Bettmeralp,2016,6
-Bettmeralp,2015,6
+Bettmeralp,2016,5
+Bettmeralp,2015,5
 Bettmeralp,2014,2
 Bettwiesen,2025,1
 Bettwiesen,2024,1
@@ -1656,18 +1616,18 @@ Biel-Benken,2017,4
 Biel-Benken,2016,1
 Biel-Benken,2015,1
 Biel-Benken,2014,1
-Biel/Bienne,2025,113
-Biel/Bienne,2024,107
-Biel/Bienne,2023,107
-Biel/Bienne,2022,99
-Biel/Bienne,2021,87
-Biel/Bienne,2020,89
-Biel/Bienne,2019,81
-Biel/Bienne,2018,66
-Biel/Bienne,2017,57
-Biel/Bienne,2016,49
-Biel/Bienne,2015,41
-Biel/Bienne,2014,40
+Biel/Bienne,2025,111
+Biel/Bienne,2024,105
+Biel/Bienne,2023,105
+Biel/Bienne,2022,97
+Biel/Bienne,2021,86
+Biel/Bienne,2020,88
+Biel/Bienne,2019,79
+Biel/Bienne,2018,64
+Biel/Bienne,2017,56
+Biel/Bienne,2016,48
+Biel/Bienne,2015,39
+Biel/Bienne,2014,38
 Biezwil,2024,1
 Biezwil,2023,1
 Biezwil,2022,1
@@ -1715,18 +1675,18 @@ Binn,2017,3
 Binn,2016,3
 Binn,2015,3
 Binn,2014,4
-Binningen,2025,12
-Binningen,2024,12
-Binningen,2023,10
-Binningen,2022,9
-Binningen,2021,8
-Binningen,2020,8
-Binningen,2019,8
-Binningen,2018,7
-Binningen,2017,7
-Binningen,2016,8
-Binningen,2015,7
-Binningen,2014,7
+Binningen,2025,11
+Binningen,2024,11
+Binningen,2023,8
+Binningen,2022,7
+Binningen,2021,5
+Binningen,2020,5
+Binningen,2019,4
+Binningen,2018,3
+Binningen,2017,3
+Binningen,2016,4
+Binningen,2015,2
+Binningen,2014,2
 Bioggio,2025,1
 Bioggio,2024,1
 Bioggio,2023,1
@@ -1792,7 +1752,7 @@ Birrhard,2020,1
 Birrhard,2019,1
 Birrhard,2018,1
 Birrhard,2017,1
-Birrhard,2016,2
+Birrhard,2016,1
 Birrwil,2025,1
 Birrwil,2024,2
 Birrwil,2023,2
@@ -1901,36 +1861,36 @@ Blenio,2025,5
 Blenio,2024,4
 Blenio,2023,4
 Blenio,2022,4
-Blenio,2021,5
-Blenio,2020,5
-Blenio,2019,5
-Blenio,2018,5
-Blenio,2017,5
-Blenio,2016,6
-Blenio,2015,6
-Blenio,2014,6
-Blonay - Saint-Légier,2025,9
-Blonay - Saint-Légier,2024,6
-Blonay - Saint-Légier,2023,6
-Blonay - Saint-Légier,2022,6
-Blonay - Saint-Légier,2021,6
-Blonay - Saint-Légier,2020,6
-Blonay - Saint-Légier,2019,6
-Blonay - Saint-Légier,2018,6
-Blonay - Saint-Légier,2017,6
-Blonay - Saint-Légier,2016,7
-Blonay - Saint-Légier,2015,9
-Blonay - Saint-Légier,2014,10
+Blenio,2021,4
+Blenio,2020,4
+Blenio,2019,4
+Blenio,2018,4
+Blenio,2017,3
+Blenio,2016,3
+Blenio,2015,3
+Blenio,2014,2
+Blonay - Saint-Légier,2025,8
+Blonay - Saint-Légier,2024,5
+Blonay - Saint-Légier,2023,5
+Blonay - Saint-Légier,2022,5
+Blonay - Saint-Légier,2021,4
+Blonay - Saint-Légier,2020,4
+Blonay - Saint-Légier,2019,4
+Blonay - Saint-Légier,2018,4
+Blonay - Saint-Légier,2017,4
+Blonay - Saint-Légier,2016,5
+Blonay - Saint-Légier,2015,6
+Blonay - Saint-Légier,2014,7
 Blumenstein,2025,1
 Blumenstein,2024,1
 Blumenstein,2023,1
 Blumenstein,2022,2
-Blumenstein,2021,2
-Blumenstein,2020,2
-Blumenstein,2019,2
-Blumenstein,2018,2
-Blumenstein,2017,2
-Blumenstein,2016,2
+Blumenstein,2021,1
+Blumenstein,2020,1
+Blumenstein,2019,1
+Blumenstein,2018,1
+Blumenstein,2017,1
+Blumenstein,2016,1
 Bodensee (TG),2020,1
 Bodensee (TG),2019,1
 Bodensee (TG),2018,1
@@ -1963,18 +1923,17 @@ Bolligen,2021,7
 Bolligen,2020,6
 Bolligen,2019,6
 Bolligen,2018,7
-Bolligen,2017,8
-Bolligen,2016,8
-Bolligen,2015,8
-Bolligen,2014,7
-Boltigen,2025,3
-Boltigen,2024,3
-Boltigen,2023,3
-Boltigen,2022,3
-Boltigen,2021,2
-Boltigen,2020,2
-Boltigen,2019,2
-Boltigen,2018,1
+Bolligen,2017,7
+Bolligen,2016,7
+Bolligen,2015,7
+Bolligen,2014,6
+Boltigen,2025,2
+Boltigen,2024,2
+Boltigen,2023,2
+Boltigen,2022,2
+Boltigen,2021,1
+Boltigen,2020,1
+Boltigen,2019,1
 Boltigen,2014,2
 Bonaduz,2025,3
 Bonaduz,2024,3
@@ -2009,7 +1968,6 @@ Boppelsen,2017,1
 Boppelsen,2016,1
 Boppelsen,2015,1
 Boppelsen,2014,1
-Borex,2025,1
 Bosco/Gurin,2025,4
 Bosco/Gurin,2024,4
 Bosco/Gurin,2023,4
@@ -2020,8 +1978,8 @@ Bosco/Gurin,2019,4
 Bosco/Gurin,2018,4
 Bosco/Gurin,2017,4
 Bosco/Gurin,2016,4
-Bosco/Gurin,2015,2
-Bosco/Gurin,2014,2
+Bosco/Gurin,2015,1
+Bosco/Gurin,2014,1
 Bossonnens,2025,1
 Bossonnens,2024,1
 Bossonnens,2023,1
@@ -2076,27 +2034,26 @@ Bottighofen,2014,2
 Bottmingen,2025,2
 Bottmingen,2024,3
 Bottmingen,2023,3
-Bottmingen,2022,3
-Bottmingen,2021,3
-Bottmingen,2020,3
-Bottmingen,2019,3
-Bottmingen,2018,2
-Bottmingen,2017,2
-Bottmingen,2016,2
-Bottmingen,2015,2
-Bottmingen,2014,1
+Bottmingen,2022,2
+Bottmingen,2021,2
+Bottmingen,2020,2
+Bottmingen,2019,2
+Bottmingen,2018,1
+Bottmingen,2017,1
+Bottmingen,2016,1
+Bottmingen,2015,1
 Boudry,2025,11
 Boudry,2024,10
 Boudry,2023,10
 Boudry,2022,7
 Boudry,2021,7
-Boudry,2020,7
-Boudry,2019,6
-Boudry,2018,6
-Boudry,2017,6
-Boudry,2016,6
-Boudry,2015,6
-Boudry,2014,6
+Boudry,2020,6
+Boudry,2019,4
+Boudry,2018,4
+Boudry,2017,4
+Boudry,2016,4
+Boudry,2015,4
+Boudry,2014,4
 Bougy-Villars,2025,3
 Bougy-Villars,2024,2
 Bougy-Villars,2023,1
@@ -2142,9 +2099,9 @@ Bourg-en-Lavaux,2020,14
 Bourg-en-Lavaux,2019,14
 Bourg-en-Lavaux,2018,14
 Bourg-en-Lavaux,2017,13
-Bourg-en-Lavaux,2016,12
-Bourg-en-Lavaux,2015,12
-Bourg-en-Lavaux,2014,12
+Bourg-en-Lavaux,2016,11
+Bourg-en-Lavaux,2015,11
+Bourg-en-Lavaux,2014,11
 Bournens,2025,1
 Bournens,2024,1
 Bournens,2023,1
@@ -2189,18 +2146,18 @@ Bowil,2017,2
 Bowil,2016,2
 Bowil,2015,2
 Bowil,2014,2
-Bregaglia,2025,13
-Bregaglia,2024,15
-Bregaglia,2023,15
-Bregaglia,2022,16
-Bregaglia,2021,15
-Bregaglia,2020,14
-Bregaglia,2019,14
-Bregaglia,2018,12
-Bregaglia,2017,10
-Bregaglia,2016,5
-Bregaglia,2015,5
-Bregaglia,2014,4
+Bregaglia,2025,12
+Bregaglia,2024,13
+Bregaglia,2023,13
+Bregaglia,2022,14
+Bregaglia,2021,13
+Bregaglia,2020,13
+Bregaglia,2019,12
+Bregaglia,2018,10
+Bregaglia,2017,8
+Bregaglia,2016,3
+Bregaglia,2015,3
+Bregaglia,2014,1
 Breggia,2025,3
 Breggia,2024,3
 Breggia,2023,3
@@ -2299,12 +2256,12 @@ Brienz (BE),2025,10
 Brienz (BE),2024,8
 Brienz (BE),2023,8
 Brienz (BE),2022,8
-Brienz (BE),2021,7
-Brienz (BE),2020,7
-Brienz (BE),2019,7
-Brienz (BE),2018,6
-Brienz (BE),2017,10
-Brienz (BE),2016,9
+Brienz (BE),2021,6
+Brienz (BE),2020,6
+Brienz (BE),2019,6
+Brienz (BE),2018,5
+Brienz (BE),2017,9
+Brienz (BE),2016,8
 Brienz (BE),2015,9
 Brienz (BE),2014,10
 Brienzwiler,2025,2
@@ -2364,9 +2321,9 @@ Brissago,2020,13
 Brissago,2019,13
 Brissago,2018,13
 Brissago,2017,8
-Brissago,2016,8
-Brissago,2015,8
-Brissago,2014,8
+Brissago,2016,7
+Brissago,2015,7
+Brissago,2014,7
 Brittnau,2025,3
 Brittnau,2024,3
 Brittnau,2023,3
@@ -2387,12 +2344,12 @@ Brot-Plamboz,2022,3
 Brot-Plamboz,2021,3
 Brot-Plamboz,2020,3
 Brot-Plamboz,2019,3
-Brot-Plamboz,2018,3
-Brot-Plamboz,2017,3
-Brot-Plamboz,2016,3
+Brot-Plamboz,2018,2
+Brot-Plamboz,2017,2
+Brot-Plamboz,2016,2
 Brot-Plamboz,2015,2
 Brot-Plamboz,2014,2
-Brugg,2025,20
+Brugg,2025,19
 Brugg,2024,17
 Brugg,2023,16
 Brugg,2022,16
@@ -2419,23 +2376,15 @@ Brusino Arsizio,2014,3
 Brusio,2025,1
 Brusio,2024,1
 Brusio,2023,1
-Brusio,2022,1
-Brusio,2021,1
-Brusio,2020,1
-Brusio,2019,1
-Brusio,2018,1
-Brusio,2017,2
-Brusio,2016,2
-Brusio,2015,2
-Brusio,2014,2
+Brusio,2017,1
 Brügg,2025,3
 Brügg,2024,3
 Brügg,2023,3
 Brügg,2022,4
 Brügg,2021,4
 Brügg,2020,3
-Brügg,2019,4
-Brügg,2018,3
+Brügg,2019,3
+Brügg,2018,2
 Brügg,2017,2
 Brügg,2016,2
 Brügg,2015,2
@@ -2555,18 +2504,18 @@ Buchs (AG),2017,4
 Buchs (AG),2016,3
 Buchs (AG),2015,2
 Buchs (AG),2014,1
-Buchs (SG),2025,20
-Buchs (SG),2024,23
-Buchs (SG),2023,17
-Buchs (SG),2022,16
-Buchs (SG),2021,13
-Buchs (SG),2020,13
-Buchs (SG),2019,13
-Buchs (SG),2018,12
-Buchs (SG),2017,11
-Buchs (SG),2016,9
-Buchs (SG),2015,9
-Buchs (SG),2014,8
+Buchs (SG),2025,19
+Buchs (SG),2024,20
+Buchs (SG),2023,14
+Buchs (SG),2022,13
+Buchs (SG),2021,11
+Buchs (SG),2020,11
+Buchs (SG),2019,11
+Buchs (SG),2018,10
+Buchs (SG),2017,9
+Buchs (SG),2016,7
+Buchs (SG),2015,7
+Buchs (SG),2014,6
 Buchs (ZH),2025,4
 Buchs (ZH),2024,4
 Buchs (ZH),2023,4
@@ -2591,7 +2540,7 @@ Buckten,2017,1
 Buckten,2016,1
 Buckten,2015,1
 Buckten,2014,1
-Bulle,2025,34
+Bulle,2025,33
 Bulle,2024,25
 Bulle,2023,23
 Bulle,2022,19
@@ -2627,27 +2576,18 @@ Buochs,2017,4
 Buochs,2016,4
 Buochs,2015,3
 Buochs,2014,7
-Burgdorf,2025,31
-Burgdorf,2024,30
-Burgdorf,2023,26
-Burgdorf,2022,25
-Burgdorf,2021,27
-Burgdorf,2020,25
-Burgdorf,2019,25
-Burgdorf,2018,24
+Burgdorf,2025,30
+Burgdorf,2024,29
+Burgdorf,2023,24
+Burgdorf,2022,23
+Burgdorf,2021,25
+Burgdorf,2020,23
+Burgdorf,2019,23
+Burgdorf,2018,23
 Burgdorf,2017,27
 Burgdorf,2016,27
-Burgdorf,2015,27
+Burgdorf,2015,26
 Burgdorf,2014,24
-Burgistein,2025,1
-Burgistein,2024,1
-Burgistein,2023,1
-Burgistein,2022,1
-Burgistein,2021,1
-Burgistein,2020,1
-Burgistein,2019,1
-Burgistein,2018,1
-Burgistein,2017,1
 Bursinel,2025,1
 Bursinel,2024,1
 Bursinel,2023,1
@@ -2667,10 +2607,6 @@ Bursins,2022,1
 Bursins,2021,1
 Bursins,2020,1
 Bursins,2019,1
-Buseno,2025,1
-Buseno,2024,1
-Buseno,2023,1
-Buseno,2022,1
 Bussigny,2025,6
 Bussigny,2024,5
 Bussigny,2023,3
@@ -2730,15 +2666,15 @@ Buus,2016,1
 Buus,2015,1
 Buus,2014,1
 Bäretswil,2025,11
-Bäretswil,2024,10
-Bäretswil,2023,10
-Bäretswil,2022,10
-Bäretswil,2021,9
-Bäretswil,2020,9
-Bäretswil,2019,9
-Bäretswil,2018,9
-Bäretswil,2017,9
-Bäretswil,2016,9
+Bäretswil,2024,9
+Bäretswil,2023,9
+Bäretswil,2022,9
+Bäretswil,2021,8
+Bäretswil,2020,8
+Bäretswil,2019,8
+Bäretswil,2018,8
+Bäretswil,2017,8
+Bäretswil,2016,8
 Bäretswil,2015,7
 Bäretswil,2014,3
 Bäriswil,2025,1
@@ -2808,18 +2744,18 @@ Böttstein,2018,1
 Böttstein,2017,1
 Böttstein,2016,1
 Böttstein,2015,1
-Bözberg,2025,2
-Bözberg,2024,2
-Bözberg,2023,2
-Bözberg,2022,2
-Bözberg,2021,2
-Bözberg,2020,2
-Bözberg,2019,2
-Bözberg,2018,2
-Bözberg,2017,2
-Bözberg,2016,2
-Bözberg,2015,2
-Bözberg,2014,2
+Bözberg,2025,1
+Bözberg,2024,1
+Bözberg,2023,1
+Bözberg,2022,1
+Bözberg,2021,1
+Bözberg,2020,1
+Bözberg,2019,1
+Bözberg,2018,1
+Bözberg,2017,1
+Bözberg,2016,1
+Bözberg,2015,1
+Bözberg,2014,1
 Böztal,2025,8
 Böztal,2024,7
 Böztal,2023,7
@@ -2850,10 +2786,10 @@ Bühler,2022,1
 Bühler,2021,1
 Bühler,2020,1
 Bühler,2019,1
-Bülach,2025,29
-Bülach,2024,26
-Bülach,2023,26
-Bülach,2022,26
+Bülach,2025,28
+Bülach,2024,25
+Bülach,2023,25
+Bülach,2022,25
 Bülach,2021,24
 Bülach,2020,26
 Bülach,2019,27
@@ -2898,11 +2834,11 @@ Büren an der Aare,2017,5
 Büren an der Aare,2016,5
 Büren an der Aare,2015,5
 Büren an der Aare,2014,5
-Bürglen (TG),2025,5
-Bürglen (TG),2024,5
-Bürglen (TG),2023,6
-Bürglen (TG),2022,6
-Bürglen (TG),2021,6
+Bürglen (TG),2025,1
+Bürglen (TG),2024,1
+Bürglen (TG),2023,1
+Bürglen (TG),2022,1
+Bürglen (TG),2021,1
 Bürglen (TG),2020,1
 Bürglen (TG),2019,1
 Bürglen (TG),2018,1
@@ -2923,7 +2859,6 @@ Bürglen (UR),2015,2
 Bürglen (UR),2014,2
 Büron,2024,1
 Büron,2023,1
-Büron,2014,1
 Büsingen am Hochrhein,2025,2
 Büsingen am Hochrhein,2024,3
 Büsingen am Hochrhein,2023,3
@@ -3005,7 +2940,7 @@ Cadenazzo,2022,2
 Cadenazzo,2021,2
 Cadenazzo,2020,2
 Cadenazzo,2019,2
-Cadenazzo,2014,2
+Cadenazzo,2014,1
 Calanca,2025,2
 Calanca,2024,2
 Calanca,2023,2
@@ -3056,22 +2991,22 @@ Capriasca,2021,9
 Capriasca,2020,8
 Capriasca,2019,7
 Capriasca,2018,7
-Capriasca,2017,7
-Capriasca,2016,5
-Capriasca,2015,5
-Capriasca,2014,5
-Carouge (GE),2025,75
-Carouge (GE),2024,56
-Carouge (GE),2023,52
-Carouge (GE),2022,49
-Carouge (GE),2021,47
-Carouge (GE),2020,46
-Carouge (GE),2019,43
-Carouge (GE),2018,41
-Carouge (GE),2017,38
-Carouge (GE),2016,36
-Carouge (GE),2015,33
-Carouge (GE),2014,32
+Capriasca,2017,6
+Capriasca,2016,4
+Capriasca,2015,4
+Capriasca,2014,4
+Carouge (GE),2025,74
+Carouge (GE),2024,55
+Carouge (GE),2023,51
+Carouge (GE),2022,48
+Carouge (GE),2021,46
+Carouge (GE),2020,45
+Carouge (GE),2019,42
+Carouge (GE),2018,40
+Carouge (GE),2017,37
+Carouge (GE),2016,34
+Carouge (GE),2015,30
+Carouge (GE),2014,29
 Cartigny,2025,1
 Cartigny,2024,1
 Cartigny,2023,1
@@ -3087,12 +3022,12 @@ Caslano,2024,10
 Caslano,2023,10
 Caslano,2022,10
 Caslano,2021,12
-Caslano,2020,13
-Caslano,2019,13
+Caslano,2020,12
+Caslano,2019,12
 Caslano,2018,12
 Caslano,2017,11
-Caslano,2016,5
-Caslano,2015,5
+Caslano,2016,3
+Caslano,2015,3
 Caslano,2014,1
 Castaneda,2025,2
 Castaneda,2024,2
@@ -3140,11 +3075,11 @@ Celerina/Schlarigna,2017,6
 Celerina/Schlarigna,2016,6
 Celerina/Schlarigna,2015,6
 Celerina/Schlarigna,2014,6
-Centovalli,2025,12
-Centovalli,2024,12
-Centovalli,2023,11
-Centovalli,2022,18
-Centovalli,2021,18
+Centovalli,2025,11
+Centovalli,2024,11
+Centovalli,2023,10
+Centovalli,2022,17
+Centovalli,2021,17
 Centovalli,2020,15
 Centovalli,2019,15
 Centovalli,2018,14
@@ -3170,8 +3105,8 @@ Cevio,2019,15
 Cevio,2018,15
 Cevio,2017,15
 Cevio,2016,15
-Cevio,2015,15
-Cevio,2014,15
+Cevio,2015,14
+Cevio,2014,13
 Chalais,2025,9
 Chalais,2024,8
 Chalais,2023,7
@@ -3185,27 +3120,27 @@ Chalais,2016,5
 Cham,2025,13
 Cham,2024,12
 Cham,2023,13
-Cham,2022,14
-Cham,2021,13
-Cham,2020,14
-Cham,2019,14
-Cham,2018,13
+Cham,2022,13
+Cham,2021,12
+Cham,2020,13
+Cham,2019,13
+Cham,2018,12
 Cham,2017,9
 Cham,2016,9
 Cham,2015,8
 Cham,2014,9
 Chamoson,2025,12
-Chamoson,2024,12
-Chamoson,2023,12
-Chamoson,2022,12
-Chamoson,2021,7
-Chamoson,2020,7
+Chamoson,2024,11
+Chamoson,2023,11
+Chamoson,2022,11
+Chamoson,2021,6
+Chamoson,2020,6
 Chamoson,2019,7
-Chamoson,2018,7
-Chamoson,2017,6
-Chamoson,2016,6
-Chamoson,2015,6
-Chamoson,2014,6
+Chamoson,2018,6
+Chamoson,2017,5
+Chamoson,2016,5
+Chamoson,2015,5
+Chamoson,2014,5
 Champagne,2025,2
 Champagne,2024,2
 Champagne,2023,1
@@ -3230,18 +3165,18 @@ Champoz,2017,1
 Champoz,2016,1
 Champoz,2015,1
 Champoz,2014,1
-Champéry,2025,17
-Champéry,2024,16
-Champéry,2023,16
-Champéry,2022,16
-Champéry,2021,17
-Champéry,2020,17
-Champéry,2019,16
-Champéry,2018,16
-Champéry,2017,16
-Champéry,2016,17
-Champéry,2015,18
-Champéry,2014,18
+Champéry,2025,16
+Champéry,2024,13
+Champéry,2023,13
+Champéry,2022,12
+Champéry,2021,12
+Champéry,2020,11
+Champéry,2019,11
+Champéry,2018,11
+Champéry,2017,11
+Champéry,2016,10
+Champéry,2015,10
+Champéry,2014,10
 Chancy,2025,2
 Chancy,2024,2
 Chancy,2023,2
@@ -3277,9 +3212,9 @@ Chavannes-près-Renens,2021,6
 Chavannes-près-Renens,2020,5
 Chavannes-près-Renens,2019,5
 Chavannes-près-Renens,2018,3
-Chavannes-près-Renens,2017,3
-Chavannes-près-Renens,2016,4
-Chavannes-près-Renens,2015,4
+Chavannes-près-Renens,2017,2
+Chavannes-près-Renens,2016,2
+Chavannes-près-Renens,2015,2
 Chavannes-près-Renens,2014,2
 Chavornay,2025,6
 Chavornay,2024,6
@@ -3291,8 +3226,8 @@ Chavornay,2019,5
 Chavornay,2018,5
 Chavornay,2017,5
 Chavornay,2016,5
-Chavornay,2015,3
-Chavornay,2014,3
+Chavornay,2015,2
+Chavornay,2014,2
 Cheseaux-Noréaz,2025,3
 Cheseaux-Noréaz,2024,3
 Cheseaux-Noréaz,2023,3
@@ -3354,7 +3289,7 @@ Chiasso,2019,17
 Chiasso,2018,15
 Chiasso,2017,15
 Chiasso,2016,14
-Chiasso,2015,15
+Chiasso,2015,12
 Chippis,2025,2
 Chippis,2024,2
 Chippis,2023,2
@@ -3374,15 +3309,15 @@ Chur,2025,76
 Chur,2024,68
 Chur,2023,62
 Chur,2022,56
-Chur,2021,54
-Chur,2020,51
-Chur,2019,48
-Chur,2018,44
+Chur,2021,53
+Chur,2020,49
+Chur,2019,46
+Chur,2018,43
 Chur,2017,33
 Chur,2016,24
 Chur,2015,18
 Chur,2014,17
-Churwalden,2025,15
+Churwalden,2025,14
 Churwalden,2024,10
 Churwalden,2023,8
 Churwalden,2022,7
@@ -3391,31 +3326,31 @@ Churwalden,2020,7
 Churwalden,2019,7
 Churwalden,2018,7
 Churwalden,2017,7
-Churwalden,2016,5
-Churwalden,2015,5
-Churwalden,2014,5
+Churwalden,2016,4
+Churwalden,2015,4
+Churwalden,2014,4
 Château-d'Oex,2025,10
 Château-d'Oex,2024,8
 Château-d'Oex,2023,8
 Château-d'Oex,2022,8
-Château-d'Oex,2021,10
-Château-d'Oex,2020,9
-Château-d'Oex,2019,8
-Château-d'Oex,2018,10
-Château-d'Oex,2017,10
-Château-d'Oex,2016,10
-Château-d'Oex,2015,11
-Château-d'Oex,2014,11
-Châtel-Saint-Denis,2025,8
-Châtel-Saint-Denis,2024,6
-Châtel-Saint-Denis,2023,6
-Châtel-Saint-Denis,2022,6
-Châtel-Saint-Denis,2021,6
-Châtel-Saint-Denis,2020,6
-Châtel-Saint-Denis,2019,7
-Châtel-Saint-Denis,2018,7
-Châtel-Saint-Denis,2017,7
-Châtel-Saint-Denis,2016,7
+Château-d'Oex,2021,9
+Château-d'Oex,2020,7
+Château-d'Oex,2019,6
+Château-d'Oex,2018,8
+Château-d'Oex,2017,8
+Château-d'Oex,2016,8
+Château-d'Oex,2015,8
+Château-d'Oex,2014,8
+Châtel-Saint-Denis,2025,7
+Châtel-Saint-Denis,2024,5
+Châtel-Saint-Denis,2023,5
+Châtel-Saint-Denis,2022,5
+Châtel-Saint-Denis,2021,5
+Châtel-Saint-Denis,2020,5
+Châtel-Saint-Denis,2019,6
+Châtel-Saint-Denis,2018,6
+Châtel-Saint-Denis,2017,6
+Châtel-Saint-Denis,2016,6
 Châtel-Saint-Denis,2015,6
 Châtel-Saint-Denis,2014,6
 Châtel-sur-Montsalvens,2025,1
@@ -3459,8 +3394,8 @@ Chéserex,2017,2
 Chéserex,2016,2
 Chéserex,2015,2
 Chéserex,2014,2
-Chêne-Bougeries,2025,8
-Chêne-Bougeries,2024,6
+Chêne-Bougeries,2025,7
+Chêne-Bougeries,2024,5
 Chêne-Bougeries,2023,5
 Chêne-Bougeries,2022,4
 Chêne-Bougeries,2021,4
@@ -3471,18 +3406,18 @@ Chêne-Bougeries,2017,3
 Chêne-Bougeries,2016,3
 Chêne-Bougeries,2015,3
 Chêne-Bougeries,2014,2
-Chêne-Bourg,2025,6
-Chêne-Bourg,2024,6
-Chêne-Bourg,2023,6
-Chêne-Bourg,2022,4
-Chêne-Bourg,2021,4
-Chêne-Bourg,2020,3
-Chêne-Bourg,2019,3
-Chêne-Bourg,2018,3
-Chêne-Bourg,2017,3
-Chêne-Bourg,2016,3
-Chêne-Bourg,2015,3
-Chêne-Bourg,2014,2
+Chêne-Bourg,2025,5
+Chêne-Bourg,2024,5
+Chêne-Bourg,2023,5
+Chêne-Bourg,2022,3
+Chêne-Bourg,2021,3
+Chêne-Bourg,2020,2
+Chêne-Bourg,2019,2
+Chêne-Bourg,2018,2
+Chêne-Bourg,2017,2
+Chêne-Bourg,2016,2
+Chêne-Bourg,2015,2
+Chêne-Bourg,2014,1
 Clos du Doubs,2025,8
 Clos du Doubs,2024,7
 Clos du Doubs,2023,10
@@ -3491,15 +3426,14 @@ Clos du Doubs,2021,11
 Clos du Doubs,2020,10
 Clos du Doubs,2019,7
 Clos du Doubs,2018,6
-Clos du Doubs,2017,5
-Clos du Doubs,2016,5
-Clos du Doubs,2015,5
-Clos du Doubs,2014,5
-Coldrerio,2014,2
+Clos du Doubs,2017,4
+Clos du Doubs,2016,4
+Clos du Doubs,2015,4
+Clos du Doubs,2014,4
 Collex-Bossy,2025,3
 Collex-Bossy,2024,2
 Collex-Bossy,2023,2
-Collina d'Oro,2025,13
+Collina d'Oro,2025,12
 Collina d'Oro,2024,10
 Collina d'Oro,2023,8
 Collina d'Oro,2022,8
@@ -3575,24 +3509,23 @@ Confignon,2025,2
 Confignon,2024,2
 Confignon,2023,2
 Confignon,2022,2
-Confignon,2021,2
-Confignon,2020,2
-Confignon,2019,2
-Confignon,2018,3
-Confignon,2017,2
-Confignon,2016,1
+Confignon,2021,1
+Confignon,2020,1
+Confignon,2019,1
+Confignon,2018,2
+Confignon,2017,1
 Conthey,2025,30
-Conthey,2024,31
-Conthey,2023,31
-Conthey,2022,33
-Conthey,2021,9
-Conthey,2020,8
-Conthey,2019,6
-Conthey,2018,6
-Conthey,2017,5
-Conthey,2016,6
-Conthey,2015,6
-Conthey,2014,6
+Conthey,2024,30
+Conthey,2023,30
+Conthey,2022,32
+Conthey,2021,7
+Conthey,2020,7
+Conthey,2019,4
+Conthey,2018,4
+Conthey,2017,3
+Conthey,2016,3
+Conthey,2015,3
+Conthey,2014,3
 Coppet,2025,2
 Coppet,2024,1
 Coppet,2023,1
@@ -3646,9 +3579,8 @@ Cormoret,2023,1
 Cormoret,2022,1
 Cormoret,2021,1
 Cormoret,2020,1
-Cormoret,2019,2
-Cormoret,2018,2
-Cormoret,2017,1
+Cormoret,2019,1
+Cormoret,2018,1
 Cornaux,2025,1
 Corseaux,2025,2
 Corseaux,2024,2
@@ -3691,17 +3623,17 @@ Cortébert,2016,2
 Cortébert,2015,2
 Cortébert,2014,2
 Cossonay,2025,8
-Cossonay,2024,8
-Cossonay,2023,7
-Cossonay,2022,8
-Cossonay,2021,7
-Cossonay,2020,7
-Cossonay,2019,7
-Cossonay,2018,7
-Cossonay,2017,7
-Cossonay,2016,7
-Cossonay,2015,7
-Cossonay,2014,7
+Cossonay,2024,7
+Cossonay,2023,6
+Cossonay,2022,7
+Cossonay,2021,6
+Cossonay,2020,6
+Cossonay,2019,6
+Cossonay,2018,6
+Cossonay,2017,6
+Cossonay,2016,6
+Cossonay,2015,6
+Cossonay,2014,6
 Cottens (FR),2025,1
 Cottens (FR),2024,1
 Cottens (FR),2023,1
@@ -3780,7 +3712,7 @@ Crans (VD),2024,3
 Crans (VD),2023,2
 Crans (VD),2022,2
 Crans (VD),2021,2
-Crans-Montana,2025,40
+Crans-Montana,2025,39
 Crans-Montana,2024,37
 Crans-Montana,2023,36
 Crans-Montana,2022,35
@@ -3788,10 +3720,10 @@ Crans-Montana,2021,32
 Crans-Montana,2020,32
 Crans-Montana,2019,32
 Crans-Montana,2018,32
-Crans-Montana,2017,16
-Crans-Montana,2016,13
-Crans-Montana,2015,13
-Crans-Montana,2014,15
+Crans-Montana,2017,15
+Crans-Montana,2016,12
+Crans-Montana,2015,12
+Crans-Montana,2014,13
 Crassier,2025,2
 Crassier,2024,2
 Crassier,2023,2
@@ -3810,18 +3742,18 @@ Cressier (FR),2019,1
 Cressier (FR),2018,1
 Cressier (FR),2017,1
 Cressier (NE),2025,1
-Crissier,2025,14
-Crissier,2024,12
-Crissier,2023,12
-Crissier,2022,12
-Crissier,2021,8
-Crissier,2020,8
-Crissier,2019,6
-Crissier,2018,4
-Crissier,2017,5
-Crissier,2016,4
-Crissier,2015,4
-Crissier,2014,4
+Crissier,2025,13
+Crissier,2024,11
+Crissier,2023,11
+Crissier,2022,11
+Crissier,2021,7
+Crissier,2020,7
+Crissier,2019,5
+Crissier,2018,3
+Crissier,2017,4
+Crissier,2016,3
+Crissier,2015,3
+Crissier,2014,3
 Crémines,2025,1
 Crémines,2024,1
 Crémines,2023,1
@@ -3862,9 +3794,8 @@ Cudrefin,2020,5
 Cudrefin,2019,5
 Cudrefin,2018,4
 Cudrefin,2017,4
-Cudrefin,2016,3
-Cudrefin,2015,4
-Cudrefin,2014,2
+Cudrefin,2016,2
+Cudrefin,2015,3
 Cugnasco-Gerra,2025,4
 Cugnasco-Gerra,2024,3
 Cugnasco-Gerra,2023,3
@@ -3893,17 +3824,17 @@ Cugy (VD),2020,1
 Cugy (VD),2019,1
 Cugy (VD),2018,1
 Cugy (VD),2017,1
-Cureglia,2025,3
-Cureglia,2024,3
-Cureglia,2023,3
-Cureglia,2022,3
-Cureglia,2021,3
-Cureglia,2020,3
-Cureglia,2019,3
-Cureglia,2018,3
-Cureglia,2017,2
-Cureglia,2016,2
-Cureglia,2015,2
+Cureglia,2025,2
+Cureglia,2024,2
+Cureglia,2023,2
+Cureglia,2022,2
+Cureglia,2021,2
+Cureglia,2020,2
+Cureglia,2019,2
+Cureglia,2018,2
+Cureglia,2017,1
+Cureglia,2016,1
+Cureglia,2015,1
 Cureglia,2014,1
 Céligny,2025,1
 Céligny,2024,1
@@ -3962,20 +3893,20 @@ Dardagny,2020,2
 Dardagny,2019,2
 Dardagny,2018,2
 Dardagny,2017,2
-Dardagny,2016,2
-Dardagny,2015,2
-Davos,2025,65
-Davos,2024,63
-Davos,2023,64
-Davos,2022,59
-Davos,2021,56
-Davos,2020,56
-Davos,2019,50
-Davos,2018,43
-Davos,2017,40
-Davos,2016,39
-Davos,2015,36
-Davos,2014,31
+Dardagny,2016,1
+Dardagny,2015,1
+Davos,2025,63
+Davos,2024,61
+Davos,2023,62
+Davos,2022,56
+Davos,2021,53
+Davos,2020,52
+Davos,2019,47
+Davos,2018,41
+Davos,2017,37
+Davos,2016,36
+Davos,2015,33
+Davos,2014,29
 Degersheim,2025,5
 Degersheim,2024,6
 Degersheim,2023,6
@@ -4001,20 +3932,18 @@ Delley-Portalban,2021,4
 Delley-Portalban,2020,4
 Delley-Portalban,2019,4
 Delley-Portalban,2018,1
-Delley-Portalban,2017,1
-Delley-Portalban,2016,1
-Delémont,2025,33
-Delémont,2024,29
-Delémont,2023,29
-Delémont,2022,29
-Delémont,2021,29
-Delémont,2020,28
-Delémont,2019,25
-Delémont,2018,22
-Delémont,2017,21
-Delémont,2016,7
-Delémont,2015,6
-Delémont,2014,4
+Delémont,2025,32
+Delémont,2024,28
+Delémont,2023,28
+Delémont,2022,28
+Delémont,2021,28
+Delémont,2020,26
+Delémont,2019,23
+Delémont,2018,20
+Delémont,2017,20
+Delémont,2016,5
+Delémont,2015,4
+Delémont,2014,3
 Denens,2025,1
 Denens,2024,1
 Denens,2023,1
@@ -4151,17 +4080,17 @@ Diessenhofen,2016,7
 Diessenhofen,2015,5
 Diessenhofen,2014,5
 Dietikon,2025,32
-Dietikon,2024,30
-Dietikon,2023,30
-Dietikon,2022,32
-Dietikon,2021,32
-Dietikon,2020,30
-Dietikon,2019,30
-Dietikon,2018,29
-Dietikon,2017,26
-Dietikon,2016,26
-Dietikon,2015,25
-Dietikon,2014,18
+Dietikon,2024,29
+Dietikon,2023,29
+Dietikon,2022,31
+Dietikon,2021,31
+Dietikon,2020,28
+Dietikon,2019,28
+Dietikon,2018,27
+Dietikon,2017,23
+Dietikon,2016,23
+Dietikon,2015,22
+Dietikon,2014,15
 Dietlikon,2025,11
 Dietlikon,2024,10
 Dietlikon,2023,8
@@ -4195,15 +4124,15 @@ Dinhard,2019,2
 Dinhard,2018,2
 Dinhard,2017,2
 Dinhard,2016,2
-Disentis/Mustér,2025,13
-Disentis/Mustér,2024,12
-Disentis/Mustér,2023,12
-Disentis/Mustér,2022,12
-Disentis/Mustér,2021,12
-Disentis/Mustér,2020,10
-Disentis/Mustér,2019,9
-Disentis/Mustér,2018,9
-Disentis/Mustér,2017,8
+Disentis/Mustér,2025,12
+Disentis/Mustér,2024,11
+Disentis/Mustér,2023,10
+Disentis/Mustér,2022,10
+Disentis/Mustér,2021,10
+Disentis/Mustér,2020,8
+Disentis/Mustér,2019,8
+Disentis/Mustér,2018,8
+Disentis/Mustér,2017,7
 Disentis/Mustér,2016,6
 Disentis/Mustér,2015,3
 Disentis/Mustér,2014,3
@@ -4257,7 +4186,7 @@ Donneloye,2014,2
 Doppleschwand,2025,1
 Doppleschwand,2024,1
 Doppleschwand,2023,1
-Dornach,2025,9
+Dornach,2025,8
 Dornach,2024,6
 Dornach,2023,6
 Dornach,2022,6
@@ -4266,9 +4195,6 @@ Dornach,2020,5
 Dornach,2019,4
 Dornach,2018,4
 Dornach,2017,2
-Dornach,2016,1
-Dornach,2015,1
-Dornach,2014,1
 Dottikon,2025,1
 Dottikon,2024,1
 Dottikon,2023,1
@@ -4286,16 +4212,6 @@ Dotzigen,2017,1
 Dotzigen,2016,1
 Dotzigen,2015,1
 Dotzigen,2014,1
-Drei Höfe,2025,1
-Drei Höfe,2024,1
-Drei Höfe,2023,1
-Drei Höfe,2022,1
-Drei Höfe,2021,1
-Drei Höfe,2020,1
-Drei Höfe,2019,1
-Drei Höfe,2018,1
-Drei Höfe,2017,1
-Drei Höfe,2016,1
 Duggingen,2025,1
 Dulliken,2025,3
 Dulliken,2024,3
@@ -4350,7 +4266,6 @@ Dänikon,2017,2
 Dänikon,2016,2
 Dänikon,2015,2
 Dänikon,2014,2
-Därligen,2025,1
 Därstetten,2025,1
 Därstetten,2024,1
 Därstetten,2023,1
@@ -4390,18 +4305,18 @@ Döttingen,2017,6
 Döttingen,2016,6
 Döttingen,2015,6
 Döttingen,2014,3
-Dübendorf,2025,38
-Dübendorf,2024,39
-Dübendorf,2023,38
-Dübendorf,2022,37
-Dübendorf,2021,38
-Dübendorf,2020,34
-Dübendorf,2019,33
-Dübendorf,2018,32
-Dübendorf,2017,25
-Dübendorf,2016,22
-Dübendorf,2015,21
-Dübendorf,2014,19
+Dübendorf,2025,37
+Dübendorf,2024,38
+Dübendorf,2023,37
+Dübendorf,2022,36
+Dübendorf,2021,37
+Dübendorf,2020,33
+Dübendorf,2019,32
+Dübendorf,2018,31
+Dübendorf,2017,24
+Dübendorf,2016,21
+Dübendorf,2015,20
+Dübendorf,2014,18
 Düdingen,2025,5
 Düdingen,2024,6
 Düdingen,2023,6
@@ -4438,9 +4353,9 @@ Dürrenroth,2017,3
 Dürrenroth,2016,3
 Dürrenroth,2015,2
 Dürrenroth,2014,1
-Ebikon,2025,18
-Ebikon,2024,15
-Ebikon,2023,13
+Ebikon,2025,17
+Ebikon,2024,14
+Ebikon,2023,12
 Ebikon,2022,10
 Ebikon,2021,10
 Ebikon,2020,6
@@ -4465,15 +4380,15 @@ Ebnat-Kappel,2014,5
 Echallens,2025,10
 Echallens,2024,7
 Echallens,2023,6
-Echallens,2022,6
-Echallens,2021,6
-Echallens,2020,5
+Echallens,2022,5
+Echallens,2021,5
+Echallens,2020,4
 Echallens,2019,3
 Echallens,2018,4
 Echallens,2017,4
-Echallens,2016,4
-Echallens,2015,4
-Echallens,2014,4
+Echallens,2016,3
+Echallens,2015,3
+Echallens,2014,3
 Echandens,2025,2
 Echandens,2024,2
 Echandens,2023,2
@@ -4499,18 +4414,7 @@ Echichens,2017,2
 Echichens,2016,2
 Echichens,2015,1
 Echichens,2014,1
-Eclépens,2025,2
-Eclépens,2024,1
-Eclépens,2023,1
-Eclépens,2022,1
-Eclépens,2021,1
-Eclépens,2020,1
-Eclépens,2019,1
-Eclépens,2018,1
-Eclépens,2017,1
-Eclépens,2016,1
-Eclépens,2015,1
-Eclépens,2014,1
+Eclépens,2025,1
 Ecublens (VD),2025,19
 Ecublens (VD),2024,19
 Ecublens (VD),2023,18
@@ -4521,8 +4425,8 @@ Ecublens (VD),2019,15
 Ecublens (VD),2018,15
 Ecublens (VD),2017,14
 Ecublens (VD),2016,15
-Ecublens (VD),2015,16
-Ecublens (VD),2014,13
+Ecublens (VD),2015,15
+Ecublens (VD),2014,12
 Ederswiler,2023,1
 Ederswiler,2022,1
 Ederswiler,2021,1
@@ -4562,11 +4466,11 @@ Eggerberg,2022,3
 Eggerberg,2021,3
 Eggerberg,2020,3
 Eggerberg,2019,3
-Eggerberg,2018,2
-Eggerberg,2017,2
-Eggerberg,2016,2
-Eggerberg,2015,2
-Eggerberg,2014,2
+Eggerberg,2018,1
+Eggerberg,2017,1
+Eggerberg,2016,1
+Eggerberg,2015,1
+Eggerberg,2014,1
 Eggersriet,2025,3
 Eggersriet,2024,3
 Eggersriet,2023,3
@@ -4607,13 +4511,13 @@ Egnach,2024,5
 Egnach,2023,5
 Egnach,2022,5
 Egnach,2021,5
-Egnach,2020,5
-Egnach,2019,5
-Egnach,2018,4
-Egnach,2017,3
-Egnach,2016,6
-Egnach,2015,7
-Egnach,2014,7
+Egnach,2020,4
+Egnach,2019,3
+Egnach,2018,2
+Egnach,2017,2
+Egnach,2016,5
+Egnach,2015,6
+Egnach,2014,6
 Egolzwil,2025,2
 Egolzwil,2024,2
 Egolzwil,2023,2
@@ -4653,11 +4557,11 @@ Eiken,2016,1
 Eiken,2015,1
 Eiken,2014,1
 Einsiedeln,2025,48
-Einsiedeln,2024,47
-Einsiedeln,2023,46
-Einsiedeln,2022,46
-Einsiedeln,2021,45
-Einsiedeln,2020,46
+Einsiedeln,2024,46
+Einsiedeln,2023,45
+Einsiedeln,2022,44
+Einsiedeln,2021,43
+Einsiedeln,2020,44
 Einsiedeln,2019,47
 Einsiedeln,2018,47
 Einsiedeln,2017,41
@@ -4713,15 +4617,15 @@ Embrach,2014,3
 Emmen,2025,39
 Emmen,2024,33
 Emmen,2023,32
-Emmen,2022,29
-Emmen,2021,29
-Emmen,2020,25
-Emmen,2019,24
-Emmen,2018,22
-Emmen,2017,21
-Emmen,2016,21
-Emmen,2015,21
-Emmen,2014,21
+Emmen,2022,28
+Emmen,2021,28
+Emmen,2020,23
+Emmen,2019,22
+Emmen,2018,20
+Emmen,2017,20
+Emmen,2016,20
+Emmen,2015,20
+Emmen,2014,20
 Emmetten,2025,6
 Emmetten,2024,5
 Emmetten,2023,5
@@ -4753,11 +4657,11 @@ Ennetbaden,2025,4
 Ennetbaden,2024,4
 Ennetbaden,2023,4
 Ennetbaden,2022,4
-Ennetbaden,2021,4
-Ennetbaden,2020,4
-Ennetbaden,2019,3
-Ennetbaden,2018,3
-Ennetbaden,2017,3
+Ennetbaden,2021,3
+Ennetbaden,2020,3
+Ennetbaden,2019,2
+Ennetbaden,2018,2
+Ennetbaden,2017,2
 Ennetbaden,2016,2
 Ennetbürgen,2025,11
 Ennetbürgen,2024,11
@@ -4766,12 +4670,12 @@ Ennetbürgen,2022,11
 Ennetbürgen,2021,11
 Ennetbürgen,2020,10
 Ennetbürgen,2019,10
-Ennetbürgen,2018,8
-Ennetbürgen,2017,8
-Ennetbürgen,2016,7
-Ennetbürgen,2015,6
-Ennetbürgen,2014,4
-Ennetmoos,2025,3
+Ennetbürgen,2018,7
+Ennetbürgen,2017,7
+Ennetbürgen,2016,6
+Ennetbürgen,2015,5
+Ennetbürgen,2014,3
+Ennetmoos,2025,2
 Ennetmoos,2024,2
 Ennetmoos,2023,2
 Ennetmoos,2022,2
@@ -4794,7 +4698,7 @@ Entlebuch,2018,5
 Entlebuch,2017,3
 Entlebuch,2016,3
 Entlebuch,2015,2
-Entlebuch,2014,2
+Entlebuch,2014,1
 Epalinges,2025,6
 Epalinges,2024,6
 Epalinges,2023,6
@@ -4960,36 +4864,34 @@ Ernen,2024,4
 Ernen,2023,3
 Ernen,2022,4
 Ernen,2021,4
-Ernen,2020,4
-Ernen,2019,4
-Ernen,2018,2
-Ernen,2017,2
-Ernen,2016,2
-Ernen,2015,2
-Ernen,2014,4
+Ernen,2020,3
+Ernen,2019,3
+Ernen,2018,1
+Ernen,2017,1
+Ernen,2016,1
+Ernen,2015,1
+Ernen,2014,3
 Erschwil,2025,1
 Erschwil,2024,1
 Erschwil,2023,1
-Ersigen,2025,3
-Ersigen,2024,3
-Ersigen,2023,3
-Ersigen,2022,4
-Ersigen,2021,3
-Ersigen,2020,3
-Ersigen,2019,2
-Ersigen,2018,2
-Ersigen,2017,2
-Ersigen,2016,1
-Ersigen,2015,1
-Erstfeld,2025,8
-Erstfeld,2024,10
-Erstfeld,2023,10
-Erstfeld,2022,9
-Erstfeld,2021,9
-Erstfeld,2020,9
-Erstfeld,2019,9
-Erstfeld,2018,9
-Erstfeld,2017,8
+Ersigen,2025,2
+Ersigen,2024,2
+Ersigen,2023,2
+Ersigen,2022,3
+Ersigen,2021,2
+Ersigen,2020,2
+Ersigen,2019,1
+Ersigen,2018,1
+Ersigen,2017,1
+Erstfeld,2025,7
+Erstfeld,2024,9
+Erstfeld,2023,9
+Erstfeld,2022,8
+Erstfeld,2021,8
+Erstfeld,2020,7
+Erstfeld,2019,7
+Erstfeld,2018,7
+Erstfeld,2017,7
 Erstfeld,2016,7
 Eschenbach (LU),2025,5
 Eschenbach (LU),2024,4
@@ -5017,14 +4919,14 @@ Eschenbach (SG),2015,15
 Eschenbach (SG),2014,16
 Eschenz,2025,4
 Eschenz,2024,5
-Eschenz,2023,4
-Eschenz,2022,4
-Eschenz,2021,4
-Eschenz,2020,3
-Eschenz,2019,3
-Eschenz,2018,2
-Eschenz,2017,2
-Eschenz,2016,2
+Eschenz,2023,2
+Eschenz,2022,2
+Eschenz,2021,2
+Eschenz,2020,1
+Eschenz,2019,1
+Eschenz,2018,1
+Eschenz,2017,1
+Eschenz,2016,1
 Eschenz,2015,1
 Eschenz,2014,1
 Eschert,2025,1
@@ -5032,13 +4934,13 @@ Eschert,2024,1
 Eschert,2023,1
 Eschert,2022,1
 Eschert,2021,1
-Eschlikon,2025,6
-Eschlikon,2024,4
-Eschlikon,2023,4
-Eschlikon,2022,4
-Eschlikon,2021,4
-Eschlikon,2020,4
-Eschlikon,2019,3
+Eschlikon,2025,5
+Eschlikon,2024,3
+Eschlikon,2023,3
+Eschlikon,2022,3
+Eschlikon,2021,3
+Eschlikon,2020,3
+Eschlikon,2019,2
 Eschlikon,2018,2
 Eschlikon,2017,2
 Eschlikon,2016,1
@@ -5052,10 +4954,10 @@ Escholzmatt-Marbach,2021,9
 Escholzmatt-Marbach,2020,9
 Escholzmatt-Marbach,2019,8
 Escholzmatt-Marbach,2018,8
-Escholzmatt-Marbach,2017,8
-Escholzmatt-Marbach,2016,8
-Escholzmatt-Marbach,2015,8
-Escholzmatt-Marbach,2014,7
+Escholzmatt-Marbach,2017,7
+Escholzmatt-Marbach,2016,7
+Escholzmatt-Marbach,2015,7
+Escholzmatt-Marbach,2014,4
 Essertines-sur-Rolle,2025,1
 Essertines-sur-Yverdon,2025,1
 Essertines-sur-Yverdon,2024,1
@@ -5070,15 +4972,15 @@ Essertines-sur-Yverdon,2016,1
 Estavayer,2025,14
 Estavayer,2024,13
 Estavayer,2023,13
-Estavayer,2022,14
-Estavayer,2021,13
-Estavayer,2020,13
-Estavayer,2019,12
-Estavayer,2018,12
-Estavayer,2017,12
-Estavayer,2016,13
-Estavayer,2015,13
-Estavayer,2014,9
+Estavayer,2022,13
+Estavayer,2021,11
+Estavayer,2020,11
+Estavayer,2019,10
+Estavayer,2018,11
+Estavayer,2017,11
+Estavayer,2016,12
+Estavayer,2015,12
+Estavayer,2014,8
 Etagnières,2025,3
 Etagnières,2024,3
 Etagnières,2023,3
@@ -5095,14 +4997,14 @@ Etoy,2025,5
 Etoy,2024,5
 Etoy,2023,5
 Etoy,2022,4
-Etoy,2021,4
-Etoy,2020,4
-Etoy,2019,4
-Etoy,2018,4
-Etoy,2017,4
-Etoy,2016,4
-Etoy,2015,4
-Etoy,2014,4
+Etoy,2021,3
+Etoy,2020,3
+Etoy,2019,3
+Etoy,2018,3
+Etoy,2017,3
+Etoy,2016,3
+Etoy,2015,3
+Etoy,2014,3
 Ettingen,2025,4
 Ettingen,2024,4
 Ettingen,2023,4
@@ -5158,16 +5060,16 @@ Evionnaz,2015,3
 Evionnaz,2014,3
 Evolène,2025,12
 Evolène,2024,9
-Evolène,2023,8
-Evolène,2022,8
-Evolène,2021,8
-Evolène,2020,7
-Evolène,2019,7
-Evolène,2018,7
-Evolène,2017,6
-Evolène,2016,6
-Evolène,2015,7
-Evolène,2014,7
+Evolène,2023,7
+Evolène,2022,7
+Evolène,2021,7
+Evolène,2020,6
+Evolène,2019,6
+Evolène,2018,6
+Evolène,2017,5
+Evolène,2016,5
+Evolène,2015,6
+Evolène,2014,6
 Eysins,2025,1
 Eysins,2024,1
 Eysins,2023,1
@@ -5184,22 +5086,22 @@ Fahy,2019,1
 Fahy,2018,1
 Faido,2025,18
 Faido,2024,18
-Faido,2023,18
-Faido,2022,17
-Faido,2021,18
-Faido,2020,17
-Faido,2019,18
-Faido,2018,16
-Faido,2017,12
-Faido,2016,12
-Faido,2015,12
-Faido,2014,12
+Faido,2023,17
+Faido,2022,15
+Faido,2021,16
+Faido,2020,15
+Faido,2019,16
+Faido,2018,14
+Faido,2017,11
+Faido,2016,11
+Faido,2015,11
+Faido,2014,11
 Falera,2025,4
 Falera,2024,4
 Falera,2023,4
-Falera,2022,4
-Falera,2021,4
-Falera,2020,4
+Falera,2022,3
+Falera,2021,3
+Falera,2020,3
 Falera,2019,5
 Falera,2018,5
 Falera,2017,5
@@ -5272,7 +5174,7 @@ Felsberg,2020,1
 Felsberg,2019,2
 Felsberg,2018,2
 Felsberg,2017,2
-Felsberg,2016,3
+Felsberg,2016,2
 Felsberg,2015,4
 Felsberg,2014,4
 Ferden,2025,3
@@ -5302,11 +5204,11 @@ Ferrera,2014,1
 Ferreyres,2014,2
 Feuerthalen,2025,5
 Feuerthalen,2024,5
-Feuerthalen,2023,4
-Feuerthalen,2022,4
-Feuerthalen,2021,4
-Feuerthalen,2020,3
-Feuerthalen,2019,2
+Feuerthalen,2023,3
+Feuerthalen,2022,3
+Feuerthalen,2021,3
+Feuerthalen,2020,2
+Feuerthalen,2019,1
 Feuerthalen,2018,1
 Feuerthalen,2017,1
 Feuerthalen,2016,1
@@ -5327,14 +5229,6 @@ Fey,2025,1
 Fey,2024,1
 Fey,2023,1
 Fey,2022,1
-Fey,2021,1
-Fey,2020,1
-Fey,2019,1
-Fey,2018,1
-Fey,2017,1
-Fey,2016,1
-Fey,2015,1
-Fey,2014,1
 Fideris,2025,2
 Fideris,2024,2
 Fideris,2023,2
@@ -5350,15 +5244,12 @@ Fideris,2014,2
 Fiesch,2025,5
 Fiesch,2024,5
 Fiesch,2023,5
-Fiesch,2022,5
-Fiesch,2021,5
-Fiesch,2020,6
-Fiesch,2019,3
-Fiesch,2018,3
-Fiesch,2017,1
-Fiesch,2016,3
-Fiesch,2015,3
-Fiesch,2014,6
+Fiesch,2022,3
+Fiesch,2021,3
+Fiesch,2020,3
+Fiesch,2016,2
+Fiesch,2015,2
+Fiesch,2014,5
 Fieschertal,2025,6
 Fieschertal,2024,5
 Fieschertal,2023,5
@@ -5447,7 +5338,6 @@ Fisibach,2018,2
 Fisibach,2017,2
 Fisibach,2016,1
 Fisibach,2015,1
-Fisibach,2014,1
 Fislisbach,2025,5
 Fislisbach,2024,5
 Fislisbach,2023,5
@@ -5465,9 +5355,9 @@ Flaach,2024,3
 Flaach,2023,3
 Flaach,2022,3
 Flaach,2021,3
-Flaach,2020,4
-Flaach,2019,4
-Flaach,2018,4
+Flaach,2020,3
+Flaach,2019,3
+Flaach,2018,3
 Flaach,2017,1
 Flaach,2016,1
 Flaach,2015,1
@@ -5484,18 +5374,18 @@ Flawil,2017,16
 Flawil,2016,16
 Flawil,2015,15
 Flawil,2014,13
-Flims,2025,27
-Flims,2024,24
-Flims,2023,25
-Flims,2022,26
-Flims,2021,23
-Flims,2020,23
-Flims,2019,22
-Flims,2018,23
-Flims,2017,22
-Flims,2016,19
-Flims,2015,18
-Flims,2014,17
+Flims,2025,25
+Flims,2024,23
+Flims,2023,24
+Flims,2022,24
+Flims,2021,22
+Flims,2020,22
+Flims,2019,21
+Flims,2018,22
+Flims,2017,20
+Flims,2016,17
+Flims,2015,17
+Flims,2014,16
 Flumenthal,2025,3
 Flumenthal,2024,2
 Flumenthal,2023,2
@@ -5585,30 +5475,30 @@ Forst-Längenbühl,2025,1
 Forst-Längenbühl,2024,1
 Forst-Längenbühl,2023,1
 Forst-Längenbühl,2022,1
-Fraubrunnen,2025,5
-Fraubrunnen,2024,3
-Fraubrunnen,2023,3
-Fraubrunnen,2022,3
-Fraubrunnen,2021,3
-Fraubrunnen,2020,3
+Fraubrunnen,2025,4
+Fraubrunnen,2024,2
+Fraubrunnen,2023,2
+Fraubrunnen,2022,2
+Fraubrunnen,2021,2
+Fraubrunnen,2020,2
 Fraubrunnen,2019,1
 Fraubrunnen,2018,1
 Fraubrunnen,2017,1
 Fraubrunnen,2016,1
 Fraubrunnen,2015,1
 Fraubrunnen,2014,1
-Frauenfeld,2025,55
-Frauenfeld,2024,53
-Frauenfeld,2023,48
-Frauenfeld,2022,47
-Frauenfeld,2021,45
-Frauenfeld,2020,39
-Frauenfeld,2019,38
-Frauenfeld,2018,36
-Frauenfeld,2017,35
-Frauenfeld,2016,34
-Frauenfeld,2015,24
-Frauenfeld,2014,15
+Frauenfeld,2025,53
+Frauenfeld,2024,51
+Frauenfeld,2023,46
+Frauenfeld,2022,45
+Frauenfeld,2021,44
+Frauenfeld,2020,38
+Frauenfeld,2019,37
+Frauenfeld,2018,35
+Frauenfeld,2017,34
+Frauenfeld,2016,33
+Frauenfeld,2015,22
+Frauenfeld,2014,13
 Frauenkappelen,2025,2
 Frauenkappelen,2024,2
 Frauenkappelen,2023,2
@@ -5621,17 +5511,17 @@ Frauenkappelen,2017,2
 Frauenkappelen,2016,2
 Frauenkappelen,2015,2
 Frauenkappelen,2014,2
-Freienbach,2025,17
-Freienbach,2024,17
-Freienbach,2023,17
-Freienbach,2022,17
-Freienbach,2021,17
-Freienbach,2020,17
-Freienbach,2019,15
-Freienbach,2018,15
-Freienbach,2017,13
-Freienbach,2016,13
-Freienbach,2015,12
+Freienbach,2025,16
+Freienbach,2024,16
+Freienbach,2023,16
+Freienbach,2022,16
+Freienbach,2021,16
+Freienbach,2020,16
+Freienbach,2019,14
+Freienbach,2018,14
+Freienbach,2017,12
+Freienbach,2016,12
+Freienbach,2015,11
 Freienbach,2014,10
 Freienstein-Teufen,2025,4
 Freienstein-Teufen,2024,4
@@ -5662,18 +5552,18 @@ Frenkendorf,2017,1
 Frenkendorf,2016,1
 Frenkendorf,2015,1
 Frenkendorf,2014,1
-Fribourg,2025,97
-Fribourg,2024,88
-Fribourg,2023,85
-Fribourg,2022,77
-Fribourg,2021,73
-Fribourg,2020,69
-Fribourg,2019,67
-Fribourg,2018,60
-Fribourg,2017,53
-Fribourg,2016,47
-Fribourg,2015,37
-Fribourg,2014,37
+Fribourg,2025,96
+Fribourg,2024,85
+Fribourg,2023,82
+Fribourg,2022,74
+Fribourg,2021,70
+Fribourg,2020,66
+Fribourg,2019,64
+Fribourg,2018,58
+Fribourg,2017,51
+Fribourg,2016,45
+Fribourg,2015,36
+Fribourg,2014,36
 Frick,2025,11
 Frick,2024,10
 Frick,2023,9
@@ -5686,30 +5576,30 @@ Frick,2017,6
 Frick,2016,7
 Frick,2015,4
 Frick,2014,4
-Froideville,2025,2
-Froideville,2024,2
-Froideville,2023,2
-Froideville,2022,2
-Froideville,2021,2
-Froideville,2020,2
-Froideville,2019,2
-Froideville,2018,2
-Froideville,2017,2
-Froideville,2016,2
-Froideville,2015,2
-Froideville,2014,2
+Froideville,2025,1
+Froideville,2024,1
+Froideville,2023,1
+Froideville,2022,1
+Froideville,2021,1
+Froideville,2020,1
+Froideville,2019,1
+Froideville,2018,1
+Froideville,2017,1
+Froideville,2016,1
+Froideville,2015,1
+Froideville,2014,1
 Frutigen,2025,14
 Frutigen,2024,14
 Frutigen,2023,14
 Frutigen,2022,14
-Frutigen,2021,14
-Frutigen,2020,14
-Frutigen,2019,14
-Frutigen,2018,14
-Frutigen,2017,14
-Frutigen,2016,14
-Frutigen,2015,13
-Frutigen,2014,13
+Frutigen,2021,13
+Frutigen,2020,13
+Frutigen,2019,13
+Frutigen,2018,13
+Frutigen,2017,13
+Frutigen,2016,13
+Frutigen,2015,12
+Frutigen,2014,12
 Fräschels,2025,1
 Fräschels,2024,1
 Fräschels,2023,1
@@ -5721,7 +5611,6 @@ Fräschels,2018,1
 Fräschels,2017,1
 Fräschels,2016,1
 Fräschels,2015,1
-Fräschels,2014,1
 Full-Reuenthal,2024,1
 Full-Reuenthal,2023,1
 Full-Reuenthal,2022,1
@@ -5833,17 +5722,17 @@ Gais,2016,5
 Gais,2015,5
 Gais,2014,5
 Gaiserwald,2025,7
-Gaiserwald,2024,8
-Gaiserwald,2023,9
-Gaiserwald,2022,9
-Gaiserwald,2021,9
-Gaiserwald,2020,9
-Gaiserwald,2019,9
-Gaiserwald,2018,10
-Gaiserwald,2017,10
-Gaiserwald,2016,10
-Gaiserwald,2015,9
-Gaiserwald,2014,9
+Gaiserwald,2024,7
+Gaiserwald,2023,8
+Gaiserwald,2022,8
+Gaiserwald,2021,8
+Gaiserwald,2020,8
+Gaiserwald,2019,8
+Gaiserwald,2018,9
+Gaiserwald,2017,9
+Gaiserwald,2016,9
+Gaiserwald,2015,8
+Gaiserwald,2014,8
 Galgenen,2025,6
 Galgenen,2024,6
 Galgenen,2023,7
@@ -5871,15 +5760,15 @@ Gals,2014,1
 Gambarogno,2025,16
 Gambarogno,2024,16
 Gambarogno,2023,16
-Gambarogno,2022,13
-Gambarogno,2021,13
-Gambarogno,2020,12
-Gambarogno,2019,12
-Gambarogno,2018,12
-Gambarogno,2017,12
-Gambarogno,2016,11
-Gambarogno,2015,12
-Gambarogno,2014,12
+Gambarogno,2022,12
+Gambarogno,2021,11
+Gambarogno,2020,10
+Gambarogno,2019,10
+Gambarogno,2018,10
+Gambarogno,2017,10
+Gambarogno,2016,9
+Gambarogno,2015,10
+Gambarogno,2014,10
 Gampel-Bratsch,2025,9
 Gampel-Bratsch,2024,9
 Gampel-Bratsch,2023,7
@@ -5894,7 +5783,7 @@ Gampel-Bratsch,2015,7
 Gampel-Bratsch,2014,7
 Gampelen,2025,3
 Gampelen,2024,3
-Gampelen,2023,3
+Gampelen,2023,2
 Gampelen,2022,2
 Gampelen,2021,2
 Gampelen,2020,2
@@ -5996,18 +5885,18 @@ Genthod,2017,2
 Genthod,2016,2
 Genthod,2015,2
 Genthod,2014,2
-Genève,2025,680
-Genève,2024,538
-Genève,2023,494
-Genève,2022,455
-Genève,2021,432
-Genève,2020,419
-Genève,2019,380
-Genève,2018,352
-Genève,2017,309
-Genève,2016,231
-Genève,2015,201
-Genève,2014,177
+Genève,2025,666
+Genève,2024,522
+Genève,2023,480
+Genève,2022,438
+Genève,2021,409
+Genève,2020,389
+Genève,2019,352
+Genève,2018,323
+Genève,2017,277
+Genève,2016,221
+Genève,2015,192
+Genève,2014,167
 Gerlafingen,2025,8
 Gerlafingen,2024,7
 Gerlafingen,2023,7
@@ -6187,10 +6076,10 @@ Glarus Nord,2020,50
 Glarus Nord,2019,50
 Glarus Nord,2018,48
 Glarus Nord,2017,47
-Glarus Nord,2016,44
-Glarus Nord,2015,40
-Glarus Nord,2014,40
-Glarus Süd,2025,55
+Glarus Nord,2016,43
+Glarus Nord,2015,39
+Glarus Nord,2014,38
+Glarus Süd,2025,54
 Glarus Süd,2024,54
 Glarus Süd,2023,54
 Glarus Süd,2022,54
@@ -6201,7 +6090,7 @@ Glarus Süd,2018,36
 Glarus Süd,2017,34
 Glarus Süd,2016,33
 Glarus Süd,2015,29
-Glarus Süd,2014,32
+Glarus Süd,2014,31
 Glattfelden,2025,6
 Glattfelden,2024,7
 Glattfelden,2023,7
@@ -6214,8 +6103,6 @@ Glattfelden,2017,7
 Glattfelden,2016,7
 Glattfelden,2015,7
 Glattfelden,2014,7
-Gletterens,2017,2
-Gletterens,2016,2
 Gletterens,2014,1
 Goldach,2025,8
 Goldach,2024,8
@@ -6279,15 +6166,15 @@ Gondiswil,2015,1
 Gonten,2025,4
 Gonten,2024,4
 Gonten,2023,4
-Gonten,2022,4
-Gonten,2021,4
-Gonten,2020,4
-Gonten,2019,4
-Gonten,2018,5
-Gonten,2017,5
-Gonten,2016,2
-Gonten,2015,2
-Gonten,2014,2
+Gonten,2022,3
+Gonten,2021,3
+Gonten,2020,3
+Gonten,2019,3
+Gonten,2018,4
+Gonten,2017,4
+Gonten,2016,1
+Gonten,2015,1
+Gonten,2014,1
 Gontenschwil,2025,2
 Gontenschwil,2024,2
 Gontenschwil,2023,2
@@ -6300,13 +6187,12 @@ Gontenschwil,2017,2
 Gontenschwil,2016,2
 Gontenschwil,2015,2
 Gontenschwil,2014,2
-Gordola,2025,5
-Gordola,2024,5
-Gordola,2023,5
-Gordola,2022,5
-Gordola,2021,5
-Gordola,2020,5
-Gordola,2019,1
+Gordola,2025,4
+Gordola,2024,4
+Gordola,2023,4
+Gordola,2022,4
+Gordola,2021,4
+Gordola,2020,4
 Gossau (SG),2025,18
 Gossau (SG),2024,19
 Gossau (SG),2023,19
@@ -6318,7 +6204,7 @@ Gossau (SG),2018,17
 Gossau (SG),2017,17
 Gossau (SG),2016,5
 Gossau (SG),2015,4
-Gossau (SG),2014,2
+Gossau (SG),2014,1
 Gossau (ZH),2025,10
 Gossau (ZH),2024,11
 Gossau (ZH),2023,11
@@ -6353,15 +6239,15 @@ Graben,2019,1
 Grabs,2025,8
 Grabs,2024,10
 Grabs,2023,10
-Grabs,2022,9
-Grabs,2021,9
-Grabs,2020,9
-Grabs,2019,8
-Grabs,2018,8
-Grabs,2017,8
-Grabs,2016,8
-Grabs,2015,8
-Grabs,2014,8
+Grabs,2022,8
+Grabs,2021,8
+Grabs,2020,8
+Grabs,2019,7
+Grabs,2018,7
+Grabs,2017,7
+Grabs,2016,7
+Grabs,2015,7
+Grabs,2014,7
 Grancia,2025,1
 Grancia,2024,1
 Grandcour,2025,1
@@ -6386,8 +6272,8 @@ Grandson,2019,4
 Grandson,2018,3
 Grandson,2017,2
 Grandson,2016,2
-Grandson,2015,3
-Grandson,2014,3
+Grandson,2015,2
+Grandson,2014,2
 Grandval,2025,1
 Grandval,2024,1
 Grandval,2023,1
@@ -6418,18 +6304,6 @@ Granges-Paccot,2017,2
 Granges-Paccot,2016,2
 Granges-Paccot,2015,2
 Granges-Paccot,2014,3
-Gravesano,2025,2
-Gravesano,2024,2
-Gravesano,2023,2
-Gravesano,2022,2
-Gravesano,2021,2
-Gravesano,2020,2
-Gravesano,2019,2
-Gravesano,2018,2
-Gravesano,2017,2
-Gravesano,2016,2
-Gravesano,2015,2
-Gravesano,2014,2
 Greifensee,2025,3
 Greifensee,2024,3
 Greifensee,2023,4
@@ -6457,15 +6331,15 @@ Grellingen,2014,3
 Grenchen,2025,24
 Grenchen,2024,14
 Grenchen,2023,12
-Grenchen,2022,11
-Grenchen,2021,11
-Grenchen,2020,10
-Grenchen,2019,10
-Grenchen,2018,10
-Grenchen,2017,9
-Grenchen,2016,9
-Grenchen,2015,8
-Grenchen,2014,8
+Grenchen,2022,10
+Grenchen,2021,10
+Grenchen,2020,9
+Grenchen,2019,9
+Grenchen,2018,9
+Grenchen,2017,8
+Grenchen,2016,8
+Grenchen,2015,7
+Grenchen,2014,7
 Greng,2025,1
 Greng,2024,1
 Greng,2023,1
@@ -6509,22 +6383,18 @@ Grimisuat,2021,1
 Grimisuat,2020,1
 Grimisuat,2019,1
 Grimisuat,2018,1
-Grimisuat,2017,1
-Grimisuat,2016,1
-Grimisuat,2015,1
-Grimisuat,2014,1
-Grindelwald,2025,34
-Grindelwald,2024,23
-Grindelwald,2023,23
-Grindelwald,2022,22
-Grindelwald,2021,21
-Grindelwald,2020,17
-Grindelwald,2019,18
-Grindelwald,2018,19
-Grindelwald,2017,20
-Grindelwald,2016,15
-Grindelwald,2015,13
-Grindelwald,2014,12
+Grindelwald,2025,31
+Grindelwald,2024,20
+Grindelwald,2023,20
+Grindelwald,2022,20
+Grindelwald,2021,19
+Grindelwald,2020,15
+Grindelwald,2019,16
+Grindelwald,2018,17
+Grindelwald,2017,18
+Grindelwald,2016,13
+Grindelwald,2015,11
+Grindelwald,2014,10
 Grolley-Ponthaux,2025,1
 Grolley-Ponthaux,2024,1
 Grolley-Ponthaux,2023,1
@@ -6537,11 +6407,6 @@ Grono,2024,3
 Grono,2023,3
 Grono,2022,2
 Grono,2021,2
-Grono,2020,1
-Grono,2019,1
-Grono,2018,1
-Grono,2017,1
-Grono,2016,1
 Grossaffoltern,2025,2
 Grossaffoltern,2024,2
 Grossaffoltern,2023,2
@@ -6562,18 +6427,18 @@ Grossdietwil,2021,1
 Grossdietwil,2020,1
 Grossdietwil,2019,2
 Grossdietwil,2018,2
-Grosshöchstetten,2025,3
-Grosshöchstetten,2024,3
-Grosshöchstetten,2023,3
-Grosshöchstetten,2022,3
-Grosshöchstetten,2021,3
-Grosshöchstetten,2020,3
-Grosshöchstetten,2019,4
-Grosshöchstetten,2018,4
-Grosshöchstetten,2017,4
-Grosshöchstetten,2016,4
-Grosshöchstetten,2015,4
-Grosshöchstetten,2014,4
+Grosshöchstetten,2025,2
+Grosshöchstetten,2024,2
+Grosshöchstetten,2023,2
+Grosshöchstetten,2022,2
+Grosshöchstetten,2021,2
+Grosshöchstetten,2020,2
+Grosshöchstetten,2019,3
+Grosshöchstetten,2018,3
+Grosshöchstetten,2017,3
+Grosshöchstetten,2016,3
+Grosshöchstetten,2015,1
+Grosshöchstetten,2014,1
 Grosswangen,2025,4
 Grosswangen,2024,4
 Grosswangen,2023,4
@@ -6592,15 +6457,15 @@ Grub (AR),2023,2
 Grub (AR),2022,2
 Grub (AR),2021,2
 Gruyères,2025,18
-Gruyères,2024,17
-Gruyères,2023,14
-Gruyères,2022,7
-Gruyères,2021,5
-Gruyères,2020,5
-Gruyères,2019,5
-Gruyères,2018,5
-Gruyères,2017,5
-Gruyères,2016,4
+Gruyères,2024,14
+Gruyères,2023,12
+Gruyères,2022,6
+Gruyères,2021,4
+Gruyères,2020,4
+Gruyères,2019,4
+Gruyères,2018,4
+Gruyères,2017,4
+Gruyères,2016,3
 Gruyères,2015,4
 Gruyères,2014,3
 Gryon,2025,7
@@ -6609,12 +6474,12 @@ Gryon,2023,8
 Gryon,2022,8
 Gryon,2021,8
 Gryon,2020,5
-Gryon,2019,5
-Gryon,2018,5
-Gryon,2017,5
-Gryon,2016,5
-Gryon,2015,5
-Gryon,2014,5
+Gryon,2019,4
+Gryon,2018,4
+Gryon,2017,4
+Gryon,2016,4
+Gryon,2015,4
+Gryon,2014,4
 Grächen,2025,12
 Grächen,2024,12
 Grächen,2023,10
@@ -6660,27 +6525,18 @@ Grüningen,2017,1
 Grüningen,2016,1
 Grüningen,2015,1
 Grüningen,2014,1
-Grüsch,2025,1
-Grüsch,2024,2
-Grüsch,2023,2
-Grüsch,2022,2
-Grüsch,2021,2
-Grüsch,2020,2
-Grüsch,2019,2
-Grüsch,2018,2
-Grüsch,2017,2
-Gsteig,2025,5
-Gsteig,2024,6
-Gsteig,2023,7
-Gsteig,2022,7
-Gsteig,2021,7
-Gsteig,2020,7
-Gsteig,2019,5
-Gsteig,2018,5
-Gsteig,2017,5
-Gsteig,2016,5
-Gsteig,2015,5
-Gsteig,2014,5
+Gsteig,2025,4
+Gsteig,2024,5
+Gsteig,2023,5
+Gsteig,2022,5
+Gsteig,2021,5
+Gsteig,2020,5
+Gsteig,2019,3
+Gsteig,2018,3
+Gsteig,2017,3
+Gsteig,2016,3
+Gsteig,2015,3
+Gsteig,2014,3
 Gsteigwiler,2025,1
 Gsteigwiler,2024,1
 Gsteigwiler,2023,1
@@ -6707,13 +6563,13 @@ Guggisberg,2015,2
 Guggisberg,2014,1
 Gunzgen,2025,3
 Gunzgen,2024,3
-Gunzgen,2023,3
-Gunzgen,2022,3
-Gunzgen,2021,3
-Gunzgen,2020,3
-Gunzgen,2019,2
-Gunzgen,2018,2
-Gunzgen,2017,2
+Gunzgen,2023,2
+Gunzgen,2022,2
+Gunzgen,2021,2
+Gunzgen,2020,2
+Gunzgen,2019,1
+Gunzgen,2018,1
+Gunzgen,2017,1
 Gunzgen,2016,1
 Gunzgen,2015,1
 Gunzgen,2014,1
@@ -6870,14 +6726,14 @@ Hasle (LU),2025,4
 Hasle (LU),2024,3
 Hasle (LU),2023,3
 Hasle (LU),2022,2
-Hasle (LU),2021,3
-Hasle (LU),2020,3
-Hasle (LU),2019,3
-Hasle (LU),2018,3
-Hasle (LU),2017,3
-Hasle (LU),2016,3
-Hasle (LU),2015,3
-Hasle (LU),2014,3
+Hasle (LU),2021,2
+Hasle (LU),2020,2
+Hasle (LU),2019,2
+Hasle (LU),2018,2
+Hasle (LU),2017,2
+Hasle (LU),2016,2
+Hasle (LU),2015,2
+Hasle (LU),2014,2
 Hasle bei Burgdorf,2025,3
 Hasle bei Burgdorf,2024,3
 Hasle bei Burgdorf,2023,3
@@ -6921,11 +6777,10 @@ Hauptwil-Gottshaus,2022,3
 Hauptwil-Gottshaus,2021,1
 Hauptwil-Gottshaus,2020,1
 Hauptwil-Gottshaus,2019,1
-Hauptwil-Gottshaus,2018,2
-Hauptwil-Gottshaus,2017,2
-Hauptwil-Gottshaus,2016,2
-Hauptwil-Gottshaus,2015,2
-Hauptwil-Gottshaus,2014,2
+Hauptwil-Gottshaus,2018,1
+Hauptwil-Gottshaus,2017,1
+Hauptwil-Gottshaus,2016,1
+Hauptwil-Gottshaus,2015,1
 Hausen (AG),2025,4
 Hausen (AG),2024,4
 Hausen (AG),2023,4
@@ -6974,18 +6829,18 @@ Haute-Sorne,2017,1
 Haute-Sorne,2016,1
 Haute-Sorne,2015,1
 Haute-Sorne,2014,1
-Hautemorges,2025,4
-Hautemorges,2024,4
-Hautemorges,2023,4
-Hautemorges,2022,4
-Hautemorges,2021,4
-Hautemorges,2020,4
-Hautemorges,2019,4
-Hautemorges,2018,4
-Hautemorges,2017,4
-Hautemorges,2016,4
-Hautemorges,2015,4
-Hautemorges,2014,3
+Hautemorges,2025,3
+Hautemorges,2024,3
+Hautemorges,2023,3
+Hautemorges,2022,3
+Hautemorges,2021,3
+Hautemorges,2020,3
+Hautemorges,2019,3
+Hautemorges,2018,3
+Hautemorges,2017,3
+Hautemorges,2016,3
+Hautemorges,2015,3
+Hautemorges,2014,1
 Hauterive (FR),2025,2
 Hauterive (FR),2024,2
 Hauterive (FR),2023,2
@@ -7123,12 +6978,10 @@ Herbetswil,2023,5
 Herbetswil,2022,5
 Herbetswil,2021,5
 Herbetswil,2020,5
-Herbetswil,2019,5
-Herbetswil,2018,5
-Herbetswil,2017,3
-Herbetswil,2016,1
-Herbetswil,2015,1
-Herbetswil,2014,3
+Herbetswil,2019,4
+Herbetswil,2018,3
+Herbetswil,2017,2
+Herbetswil,2014,1
 Herbligen,2017,1
 Herbligen,2016,1
 Herbligen,2015,1
@@ -7155,8 +7008,8 @@ Hergiswil (NW),2019,10
 Hergiswil (NW),2018,10
 Hergiswil (NW),2017,9
 Hergiswil (NW),2016,9
-Hergiswil (NW),2015,10
-Hergiswil (NW),2014,10
+Hergiswil (NW),2015,9
+Hergiswil (NW),2014,9
 Hergiswil bei Willisau,2025,2
 Hergiswil bei Willisau,2024,2
 Hergiswil bei Willisau,2023,1
@@ -7169,15 +7022,15 @@ Hergiswil bei Willisau,2017,1
 Hergiswil bei Willisau,2016,1
 Hergiswil bei Willisau,2015,1
 Hergiswil bei Willisau,2014,1
-Herisau,2025,22
-Herisau,2024,20
-Herisau,2023,18
-Herisau,2022,16
-Herisau,2021,14
-Herisau,2020,12
-Herisau,2019,12
-Herisau,2018,12
-Herisau,2017,11
+Herisau,2025,21
+Herisau,2024,19
+Herisau,2023,16
+Herisau,2022,14
+Herisau,2021,12
+Herisau,2020,10
+Herisau,2019,10
+Herisau,2018,10
+Herisau,2017,10
 Herisau,2016,9
 Herisau,2015,5
 Herisau,2014,5
@@ -7198,10 +7051,10 @@ Herrliberg,2022,4
 Herrliberg,2021,5
 Herrliberg,2020,5
 Herrliberg,2019,4
-Herrliberg,2018,4
-Herrliberg,2017,4
-Herrliberg,2016,4
-Herrliberg,2015,4
+Herrliberg,2018,3
+Herrliberg,2017,3
+Herrliberg,2016,3
+Herrliberg,2015,3
 Herrliberg,2014,3
 Hersberg,2025,1
 Hersberg,2024,1
@@ -7223,7 +7076,7 @@ Herznach-Ueken,2021,1
 Herznach-Ueken,2020,1
 Herznach-Ueken,2019,1
 Herznach-Ueken,2018,1
-Herzogenbuchsee,2025,12
+Herzogenbuchsee,2025,11
 Herzogenbuchsee,2024,10
 Herzogenbuchsee,2023,11
 Herzogenbuchsee,2022,11
@@ -7315,11 +7168,11 @@ Hitzkirch,2022,9
 Hitzkirch,2021,9
 Hitzkirch,2020,11
 Hitzkirch,2019,11
-Hitzkirch,2018,9
-Hitzkirch,2017,9
-Hitzkirch,2016,9
-Hitzkirch,2015,9
-Hitzkirch,2014,8
+Hitzkirch,2018,8
+Hitzkirch,2017,8
+Hitzkirch,2016,8
+Hitzkirch,2015,7
+Hitzkirch,2014,6
 Hochdorf,2025,9
 Hochdorf,2024,9
 Hochdorf,2023,9
@@ -7361,13 +7214,6 @@ Hofstetten bei Brienz,2024,2
 Hofstetten bei Brienz,2023,2
 Hofstetten bei Brienz,2022,2
 Hofstetten bei Brienz,2021,2
-Hofstetten bei Brienz,2020,1
-Hofstetten bei Brienz,2019,1
-Hofstetten bei Brienz,2018,1
-Hofstetten bei Brienz,2017,1
-Hofstetten bei Brienz,2016,1
-Hofstetten bei Brienz,2015,1
-Hofstetten bei Brienz,2014,1
 Hofstetten-Flüh,2025,4
 Hofstetten-Flüh,2024,4
 Hofstetten-Flüh,2023,4
@@ -7402,7 +7248,6 @@ Hohentannen,2019,2
 Hohentannen,2018,2
 Hohentannen,2017,2
 Holderbank (AG),2015,1
-Holderbank (AG),2014,1
 Holderbank (SO),2025,1
 Holderbank (SO),2024,2
 Holderbank (SO),2023,2
@@ -7450,31 +7295,30 @@ Homburg,2018,2
 Homburg,2017,2
 Homburg,2016,2
 Homburg,2015,2
-Homburg,2014,1
-Horgen,2025,29
-Horgen,2024,29
-Horgen,2023,28
-Horgen,2022,27
-Horgen,2021,27
-Horgen,2020,28
-Horgen,2019,29
-Horgen,2018,25
-Horgen,2017,25
-Horgen,2016,24
-Horgen,2015,24
-Horgen,2014,21
-Horn,2025,5
-Horn,2024,5
-Horn,2023,5
-Horn,2022,5
-Horn,2021,5
-Horn,2020,5
-Horn,2019,5
-Horn,2018,4
-Horn,2017,3
-Horn,2016,3
-Horn,2015,3
-Horn,2014,4
+Horgen,2025,28
+Horgen,2024,28
+Horgen,2023,27
+Horgen,2022,26
+Horgen,2021,26
+Horgen,2020,27
+Horgen,2019,28
+Horgen,2018,24
+Horgen,2017,24
+Horgen,2016,23
+Horgen,2015,23
+Horgen,2014,20
+Horn,2025,4
+Horn,2024,4
+Horn,2023,4
+Horn,2022,4
+Horn,2021,4
+Horn,2020,4
+Horn,2019,4
+Horn,2018,3
+Horn,2017,2
+Horn,2016,2
+Horn,2015,2
+Horn,2014,3
 Horrenbach-Buchen,2025,1
 Horrenbach-Buchen,2024,1
 Horrenbach-Buchen,2023,1
@@ -7490,8 +7334,8 @@ Horrenbach-Buchen,2014,1
 Horriwil,2025,1
 Horriwil,2024,1
 Horriwil,2023,1
-Horw,2025,15
-Horw,2024,14
+Horw,2025,14
+Horw,2024,13
 Horw,2023,12
 Horw,2022,12
 Horw,2021,12
@@ -7551,15 +7395,15 @@ Häfelfingen,2023,1
 Hägendorf,2025,4
 Hägendorf,2024,5
 Hägendorf,2023,5
-Hägendorf,2022,6
-Hägendorf,2021,5
-Hägendorf,2020,3
-Hägendorf,2019,3
-Hägendorf,2018,3
-Hägendorf,2017,3
-Hägendorf,2016,3
-Hägendorf,2015,3
-Hägendorf,2014,3
+Hägendorf,2022,5
+Hägendorf,2021,4
+Hägendorf,2020,2
+Hägendorf,2019,2
+Hägendorf,2018,2
+Hägendorf,2017,2
+Hägendorf,2016,2
+Hägendorf,2015,2
+Hägendorf,2014,2
 Häggenschwil,2025,1
 Häggenschwil,2024,1
 Häggenschwil,2023,2
@@ -7607,18 +7451,18 @@ Häutligen,2018,1
 Häutligen,2017,1
 Häutligen,2016,1
 Häutligen,2015,1
-Hérémence,2025,6
-Hérémence,2024,4
-Hérémence,2023,4
-Hérémence,2022,4
-Hérémence,2021,5
-Hérémence,2020,5
-Hérémence,2019,6
-Hérémence,2018,3
-Hérémence,2017,3
-Hérémence,2016,3
-Hérémence,2015,2
-Hérémence,2014,2
+Hérémence,2025,4
+Hérémence,2024,3
+Hérémence,2023,3
+Hérémence,2022,3
+Hérémence,2021,4
+Hérémence,2020,4
+Hérémence,2019,5
+Hérémence,2018,2
+Hérémence,2017,2
+Hérémence,2016,2
+Hérémence,2015,1
+Hérémence,2014,1
 Höri,2024,1
 Höri,2023,1
 Höri,2022,1
@@ -7630,12 +7474,12 @@ Höri,2017,1
 Höri,2016,1
 Höri,2015,1
 Höri,2014,1
-Hünenberg,2025,11
-Hünenberg,2024,10
-Hünenberg,2023,10
-Hünenberg,2022,10
-Hünenberg,2021,10
-Hünenberg,2020,9
+Hünenberg,2025,10
+Hünenberg,2024,9
+Hünenberg,2023,9
+Hünenberg,2022,9
+Hünenberg,2021,9
+Hünenberg,2020,8
 Hünenberg,2019,8
 Hünenberg,2018,8
 Hünenberg,2017,8
@@ -7686,7 +7530,6 @@ Hüttwilen,2018,3
 Hüttwilen,2017,3
 Hüttwilen,2016,2
 Hüttwilen,2015,2
-Hüttwilen,2014,1
 Icogne,2025,1
 Icogne,2024,1
 Icogne,2023,1
@@ -7711,15 +7554,15 @@ Ilanz/Glion,2017,10
 Ilanz/Glion,2016,10
 Ilanz/Glion,2015,10
 Ilanz/Glion,2014,10
-Illnau-Effretikon,2025,27
-Illnau-Effretikon,2024,27
-Illnau-Effretikon,2023,25
-Illnau-Effretikon,2022,24
-Illnau-Effretikon,2021,24
-Illnau-Effretikon,2020,23
+Illnau-Effretikon,2025,26
+Illnau-Effretikon,2024,26
+Illnau-Effretikon,2023,24
+Illnau-Effretikon,2022,23
+Illnau-Effretikon,2021,23
+Illnau-Effretikon,2020,22
 Illnau-Effretikon,2019,20
-Illnau-Effretikon,2018,19
-Illnau-Effretikon,2017,18
+Illnau-Effretikon,2018,18
+Illnau-Effretikon,2017,17
 Illnau-Effretikon,2016,18
 Illnau-Effretikon,2015,18
 Illnau-Effretikon,2014,18
@@ -7727,14 +7570,14 @@ Inden,2014,1
 Ingenbohl,2025,25
 Ingenbohl,2024,24
 Ingenbohl,2023,24
-Ingenbohl,2022,24
-Ingenbohl,2021,22
-Ingenbohl,2020,20
-Ingenbohl,2019,19
-Ingenbohl,2018,20
-Ingenbohl,2017,20
-Ingenbohl,2016,18
-Ingenbohl,2015,19
+Ingenbohl,2022,23
+Ingenbohl,2021,21
+Ingenbohl,2020,19
+Ingenbohl,2019,18
+Ingenbohl,2018,19
+Ingenbohl,2017,19
+Ingenbohl,2016,17
+Ingenbohl,2015,18
 Ingenbohl,2014,17
 Inkwil,2025,3
 Inkwil,2024,3
@@ -7787,10 +7630,10 @@ Interlaken,2025,52
 Interlaken,2024,49
 Interlaken,2023,49
 Interlaken,2022,42
-Interlaken,2021,42
-Interlaken,2020,40
-Interlaken,2019,41
-Interlaken,2018,18
+Interlaken,2021,41
+Interlaken,2020,39
+Interlaken,2019,39
+Interlaken,2018,17
 Interlaken,2017,16
 Interlaken,2016,11
 Interlaken,2015,11
@@ -7885,13 +7728,13 @@ Jegenstorf,2024,8
 Jegenstorf,2023,8
 Jegenstorf,2022,8
 Jegenstorf,2021,6
-Jegenstorf,2020,6
+Jegenstorf,2020,5
 Jegenstorf,2019,6
-Jegenstorf,2018,3
-Jegenstorf,2017,3
-Jegenstorf,2016,5
-Jegenstorf,2015,4
-Jegenstorf,2014,3
+Jegenstorf,2018,2
+Jegenstorf,2017,2
+Jegenstorf,2016,4
+Jegenstorf,2015,3
+Jegenstorf,2014,2
 Jenaz,2025,5
 Jenaz,2024,5
 Jenaz,2023,5
@@ -7950,18 +7793,6 @@ Jonschwil,2017,3
 Jonschwil,2016,3
 Jonschwil,2015,2
 Jonschwil,2014,2
-Jorat-Menthue,2025,1
-Jorat-Menthue,2024,1
-Jorat-Menthue,2023,1
-Jorat-Menthue,2022,1
-Jorat-Menthue,2021,1
-Jorat-Menthue,2020,1
-Jorat-Menthue,2019,1
-Jorat-Menthue,2018,1
-Jorat-Menthue,2017,1
-Jorat-Menthue,2016,1
-Jorat-Menthue,2015,1
-Jorat-Menthue,2014,1
 Jorat-Mézières,2025,3
 Jorat-Mézières,2024,3
 Jorat-Mézières,2023,3
@@ -8060,7 +7891,7 @@ Kandersteg,2019,16
 Kandersteg,2018,19
 Kandersteg,2017,10
 Kandersteg,2016,11
-Kandersteg,2015,11
+Kandersteg,2015,10
 Kandersteg,2014,12
 Kappel (SO),2025,3
 Kappel (SO),2024,3
@@ -8078,18 +7909,9 @@ Kappel am Albis,2017,2
 Kappel am Albis,2016,2
 Kappel am Albis,2015,2
 Kappel am Albis,2014,2
-Kappelen,2025,4
-Kappelen,2024,4
-Kappelen,2023,2
-Kappelen,2022,1
-Kappelen,2021,1
-Kappelen,2020,1
-Kappelen,2019,1
-Kappelen,2018,1
-Kappelen,2017,1
-Kappelen,2016,1
-Kappelen,2015,1
-Kappelen,2014,1
+Kappelen,2025,3
+Kappelen,2024,3
+Kappelen,2023,1
 Kaufdorf,2025,2
 Kaufdorf,2024,1
 Kaufdorf,2023,1
@@ -8150,13 +7972,13 @@ Kerns,2015,18
 Kerns,2014,17
 Kerzers,2025,5
 Kerzers,2024,5
-Kerzers,2023,5
-Kerzers,2022,5
-Kerzers,2021,6
-Kerzers,2020,6
-Kerzers,2019,6
-Kerzers,2018,6
-Kerzers,2017,6
+Kerzers,2023,4
+Kerzers,2022,4
+Kerzers,2021,5
+Kerzers,2020,5
+Kerzers,2019,5
+Kerzers,2018,5
+Kerzers,2017,5
 Kerzers,2016,4
 Kerzers,2015,4
 Kerzers,2014,4
@@ -8193,7 +8015,7 @@ Kiesen,2017,3
 Kiesen,2016,3
 Kiesen,2015,3
 Kiesen,2014,3
-Kilchberg (ZH),2025,9
+Kilchberg (ZH),2025,8
 Kilchberg (ZH),2024,7
 Kilchberg (ZH),2023,7
 Kilchberg (ZH),2022,6
@@ -8304,13 +8126,13 @@ Klosters,2016,8
 Klosters,2015,5
 Klosters,2014,5
 Kloten,2025,49
-Kloten,2024,43
-Kloten,2023,42
-Kloten,2022,41
+Kloten,2024,42
+Kloten,2023,41
+Kloten,2022,40
 Kloten,2021,20
-Kloten,2020,21
-Kloten,2019,20
-Kloten,2018,14
+Kloten,2020,20
+Kloten,2019,19
+Kloten,2018,13
 Kloten,2017,10
 Kloten,2016,11
 Kloten,2015,11
@@ -8351,10 +8173,8 @@ Konolfingen,2017,1
 Konolfingen,2016,1
 Konolfingen,2015,1
 Konolfingen,2014,1
-Koppigen,2025,1
-Koppigen,2024,1
-Koppigen,2023,2
-Koppigen,2022,2
+Koppigen,2023,1
+Koppigen,2022,1
 Koppigen,2021,1
 Koppigen,2020,1
 Koppigen,2019,1
@@ -8422,14 +8242,14 @@ Kriens,2025,23
 Kriens,2024,22
 Kriens,2023,21
 Kriens,2022,19
-Kriens,2021,19
-Kriens,2020,18
-Kriens,2019,16
-Kriens,2018,16
+Kriens,2021,17
+Kriens,2020,17
+Kriens,2019,15
+Kriens,2018,15
 Kriens,2017,15
 Kriens,2016,16
-Kriens,2015,14
-Kriens,2014,11
+Kriens,2015,13
+Kriens,2014,9
 Känerkinden,2025,1
 Känerkinden,2024,1
 Känerkinden,2023,1
@@ -8449,9 +8269,9 @@ Kölliken,2022,2
 Kölliken,2021,3
 Kölliken,2020,3
 Kölliken,2019,2
-Kölliken,2018,4
-Kölliken,2017,3
-Kölliken,2016,3
+Kölliken,2018,3
+Kölliken,2017,2
+Kölliken,2016,2
 Kölliken,2015,3
 Kölliken,2014,2
 Köniz,2025,53
@@ -8476,17 +8296,11 @@ Küblis,2019,3
 Küblis,2018,3
 Küblis,2017,3
 Küblis,2016,3
-Küblis,2015,2
-Küblis,2014,2
 Künten,2025,1
 Künten,2024,1
 Künten,2023,1
 Künten,2019,1
 Künten,2018,1
-Künten,2017,1
-Künten,2016,1
-Künten,2015,2
-Künten,2014,2
 Küsnacht (ZH),2025,15
 Küsnacht (ZH),2024,14
 Küsnacht (ZH),2023,14
@@ -8495,18 +8309,18 @@ Küsnacht (ZH),2021,11
 Küsnacht (ZH),2020,8
 Küsnacht (ZH),2019,7
 Küsnacht (ZH),2018,1
-Küssnacht (SZ),2025,23
-Küssnacht (SZ),2024,23
-Küssnacht (SZ),2023,22
-Küssnacht (SZ),2022,21
-Küssnacht (SZ),2021,21
-Küssnacht (SZ),2020,20
-Küssnacht (SZ),2019,22
-Küssnacht (SZ),2018,22
-Küssnacht (SZ),2017,22
-Küssnacht (SZ),2016,23
-Küssnacht (SZ),2015,22
-Küssnacht (SZ),2014,22
+Küssnacht (SZ),2025,22
+Küssnacht (SZ),2024,22
+Küssnacht (SZ),2023,21
+Küssnacht (SZ),2022,20
+Küssnacht (SZ),2021,20
+Küssnacht (SZ),2020,19
+Küssnacht (SZ),2019,21
+Küssnacht (SZ),2018,21
+Küssnacht (SZ),2017,21
+Küssnacht (SZ),2016,22
+Küssnacht (SZ),2015,21
+Küssnacht (SZ),2014,21
 Küttigen,2025,4
 Küttigen,2024,5
 Küttigen,2023,6
@@ -8541,8 +8355,8 @@ L'Isle,2019,2
 L'Isle,2018,2
 L'Isle,2017,2
 L'Isle,2016,3
-L'Isle,2015,4
-L'Isle,2014,5
+L'Isle,2015,3
+L'Isle,2014,4
 La Baroche,2025,2
 La Baroche,2024,2
 La Baroche,2023,2
@@ -8557,12 +8371,12 @@ La Baroche,2015,1
 La Baroche,2014,1
 La Brévine,2025,3
 La Brévine,2024,3
-La Brévine,2023,5
-La Brévine,2022,5
-La Brévine,2021,5
-La Brévine,2020,5
-La Brévine,2019,5
-La Brévine,2018,5
+La Brévine,2023,4
+La Brévine,2022,4
+La Brévine,2021,4
+La Brévine,2020,4
+La Brévine,2019,4
+La Brévine,2018,4
 La Brévine,2017,4
 La Brévine,2016,3
 La Chaux (Cossonay),2025,1
@@ -8577,10 +8391,10 @@ La Chaux (Cossonay),2017,1
 La Chaux (Cossonay),2016,1
 La Chaux (Cossonay),2015,1
 La Chaux (Cossonay),2014,1
-La Chaux-de-Fonds,2025,76
-La Chaux-de-Fonds,2024,70
-La Chaux-de-Fonds,2023,64
-La Chaux-de-Fonds,2022,62
+La Chaux-de-Fonds,2025,75
+La Chaux-de-Fonds,2024,68
+La Chaux-de-Fonds,2023,62
+La Chaux-de-Fonds,2022,60
 La Chaux-de-Fonds,2021,49
 La Chaux-de-Fonds,2020,44
 La Chaux-de-Fonds,2019,42
@@ -8612,16 +8426,16 @@ La Grande Béroche,2025,13
 La Grande Béroche,2024,12
 La Grande Béroche,2023,12
 La Grande Béroche,2022,12
-La Grande Béroche,2021,12
-La Grande Béroche,2020,12
-La Grande Béroche,2019,11
-La Grande Béroche,2018,11
-La Grande Béroche,2017,11
-La Grande Béroche,2016,11
-La Grande Béroche,2015,11
-La Grande Béroche,2014,11
-La Neuveville,2025,13
-La Neuveville,2024,13
+La Grande Béroche,2021,11
+La Grande Béroche,2020,11
+La Grande Béroche,2019,10
+La Grande Béroche,2018,10
+La Grande Béroche,2017,10
+La Grande Béroche,2016,10
+La Grande Béroche,2015,10
+La Grande Béroche,2014,10
+La Neuveville,2025,12
+La Neuveville,2024,12
 La Neuveville,2023,8
 La Neuveville,2022,7
 La Neuveville,2021,6
@@ -8633,12 +8447,12 @@ La Neuveville,2016,4
 La Neuveville,2015,4
 La Neuveville,2014,4
 La Punt Chamues-ch,2025,4
-La Punt Chamues-ch,2024,3
-La Punt Chamues-ch,2023,3
-La Punt Chamues-ch,2022,3
-La Punt Chamues-ch,2021,3
-La Punt Chamues-ch,2020,2
-La Punt Chamues-ch,2019,2
+La Punt Chamues-ch,2024,2
+La Punt Chamues-ch,2023,2
+La Punt Chamues-ch,2022,2
+La Punt Chamues-ch,2021,2
+La Punt Chamues-ch,2020,1
+La Punt Chamues-ch,2019,1
 La Rippe,2025,1
 La Rippe,2024,1
 La Rippe,2023,1
@@ -8666,18 +8480,18 @@ La Sagne,2017,2
 La Sagne,2016,2
 La Sagne,2015,2
 La Sagne,2014,2
-La Sarraz,2025,5
-La Sarraz,2024,4
-La Sarraz,2023,4
-La Sarraz,2022,4
-La Sarraz,2021,5
-La Sarraz,2020,5
-La Sarraz,2019,5
-La Sarraz,2018,5
-La Sarraz,2017,5
+La Sarraz,2025,4
+La Sarraz,2024,3
+La Sarraz,2023,3
+La Sarraz,2022,3
+La Sarraz,2021,4
+La Sarraz,2020,4
+La Sarraz,2019,4
+La Sarraz,2018,4
+La Sarraz,2017,4
 La Sarraz,2016,4
-La Sarraz,2015,4
-La Sarraz,2014,6
+La Sarraz,2015,3
+La Sarraz,2014,5
 La Sonnaz,2025,1
 La Sonnaz,2024,1
 La Sonnaz,2023,1
@@ -8710,24 +8524,24 @@ La Verrerie,2021,1
 La Verrerie,2020,1
 La Verrerie,2019,1
 La Verrerie,2018,1
-Laax,2025,16
-Laax,2024,14
-Laax,2023,14
-Laax,2022,15
-Laax,2021,16
-Laax,2020,14
-Laax,2019,14
-Laax,2018,14
+Laax,2025,15
+Laax,2024,13
+Laax,2023,13
+Laax,2022,14
+Laax,2021,15
+Laax,2020,13
+Laax,2019,13
+Laax,2018,13
 Laax,2017,10
 Laax,2016,9
 Laax,2015,8
 Laax,2014,8
-Lachen,2025,21
+Lachen,2025,20
 Lachen,2024,21
 Lachen,2023,21
 Lachen,2022,22
-Lachen,2021,20
-Lachen,2020,18
+Lachen,2021,19
+Lachen,2020,17
 Lachen,2019,16
 Lachen,2018,16
 Lachen,2017,16
@@ -8745,20 +8559,18 @@ Lamone,2019,1
 Lamone,2018,1
 Lamone,2017,1
 Lampenberg,2017,1
-Lampenberg,2016,1
-Lampenberg,2015,1
-Lancy,2025,36
-Lancy,2024,32
-Lancy,2023,29
-Lancy,2022,28
-Lancy,2021,26
-Lancy,2020,25
-Lancy,2019,21
-Lancy,2018,21
-Lancy,2017,21
-Lancy,2016,18
-Lancy,2015,17
-Lancy,2014,17
+Lancy,2025,32
+Lancy,2024,27
+Lancy,2023,24
+Lancy,2022,22
+Lancy,2021,21
+Lancy,2020,20
+Lancy,2019,18
+Lancy,2018,18
+Lancy,2017,18
+Lancy,2016,16
+Lancy,2015,15
+Lancy,2014,15
 Landiswil,2025,1
 Landiswil,2024,1
 Landiswil,2023,1
@@ -8789,9 +8601,9 @@ Langenbruck,2023,6
 Langenbruck,2022,6
 Langenbruck,2021,6
 Langenbruck,2020,5
-Langenbruck,2019,4
-Langenbruck,2018,4
-Langenbruck,2017,3
+Langenbruck,2019,3
+Langenbruck,2018,3
+Langenbruck,2017,2
 Langenbruck,2016,2
 Langenbruck,2015,3
 Langenbruck,2014,3
@@ -8810,12 +8622,12 @@ Langendorf,2014,3
 Langenthal,2025,40
 Langenthal,2024,41
 Langenthal,2023,42
-Langenthal,2022,31
-Langenthal,2021,30
-Langenthal,2020,25
-Langenthal,2019,16
-Langenthal,2018,14
-Langenthal,2017,10
+Langenthal,2022,29
+Langenthal,2021,28
+Langenthal,2020,22
+Langenthal,2019,14
+Langenthal,2018,13
+Langenthal,2017,9
 Langenthal,2016,6
 Langenthal,2015,5
 Langenthal,2014,5
@@ -8863,16 +8675,16 @@ Lantsch/Lenz,2015,4
 Lantsch/Lenz,2014,4
 Laténa,2025,16
 Laténa,2024,16
-Laténa,2023,14
-Laténa,2022,14
-Laténa,2021,14
-Laténa,2020,14
-Laténa,2019,15
-Laténa,2018,15
-Laténa,2017,14
-Laténa,2016,14
-Laténa,2015,8
-Laténa,2014,10
+Laténa,2023,13
+Laténa,2022,13
+Laténa,2021,12
+Laténa,2020,12
+Laténa,2019,11
+Laténa,2018,11
+Laténa,2017,10
+Laténa,2016,10
+Laténa,2015,4
+Laténa,2014,6
 Lauenen,2024,1
 Lauenen,2023,1
 Lauenen,2022,1
@@ -8906,30 +8718,29 @@ Laufen,2016,6
 Laufen,2015,3
 Laufen,2014,1
 Laufen-Uhwiesen,2025,3
-Laufen-Uhwiesen,2024,3
-Laufen-Uhwiesen,2023,3
-Laufen-Uhwiesen,2022,3
-Laufen-Uhwiesen,2021,3
-Laufen-Uhwiesen,2020,3
-Laufen-Uhwiesen,2019,3
-Laufen-Uhwiesen,2018,3
-Laufen-Uhwiesen,2017,2
-Laufen-Uhwiesen,2016,2
-Laufen-Uhwiesen,2015,2
-Laufen-Uhwiesen,2014,1
-Laufenburg,2025,4
-Laufenburg,2024,2
-Laufenburg,2023,3
-Laufenburg,2022,4
-Laufenburg,2021,4
-Laufenburg,2020,4
-Laufenburg,2019,4
-Laufenburg,2018,4
-Laufenburg,2017,4
-Laufenburg,2016,4
-Laufenburg,2015,4
-Laufenburg,2014,4
-Laupen,2025,6
+Laufen-Uhwiesen,2024,2
+Laufen-Uhwiesen,2023,2
+Laufen-Uhwiesen,2022,2
+Laufen-Uhwiesen,2021,2
+Laufen-Uhwiesen,2020,2
+Laufen-Uhwiesen,2019,2
+Laufen-Uhwiesen,2018,1
+Laufen-Uhwiesen,2017,1
+Laufen-Uhwiesen,2016,1
+Laufen-Uhwiesen,2015,1
+Laufenburg,2025,3
+Laufenburg,2024,1
+Laufenburg,2023,2
+Laufenburg,2022,3
+Laufenburg,2021,3
+Laufenburg,2020,3
+Laufenburg,2019,3
+Laufenburg,2018,3
+Laufenburg,2017,3
+Laufenburg,2016,3
+Laufenburg,2015,3
+Laufenburg,2014,3
+Laupen,2025,5
 Laupen,2024,6
 Laupen,2023,6
 Laupen,2022,5
@@ -8941,12 +8752,12 @@ Laupen,2017,4
 Laupen,2016,4
 Laupen,2015,5
 Laupen,2014,5
-Laupersdorf,2025,4
-Laupersdorf,2024,3
-Laupersdorf,2023,2
-Laupersdorf,2022,2
-Laupersdorf,2021,2
-Laupersdorf,2020,2
+Laupersdorf,2025,3
+Laupersdorf,2024,2
+Laupersdorf,2023,1
+Laupersdorf,2022,1
+Laupersdorf,2021,1
+Laupersdorf,2020,1
 Laupersdorf,2019,1
 Laupersdorf,2014,2
 Lauperswil,2025,1
@@ -8959,36 +8770,36 @@ Lauperswil,2019,1
 Lauperswil,2018,1
 Lauperswil,2015,2
 Lauperswil,2014,2
-Lausanne,2025,322
+Lausanne,2025,321
 Lausanne,2024,292
-Lausanne,2023,271
-Lausanne,2022,259
-Lausanne,2021,245
-Lausanne,2020,237
-Lausanne,2019,217
-Lausanne,2018,199
-Lausanne,2017,181
-Lausanne,2016,172
-Lausanne,2015,148
-Lausanne,2014,118
+Lausanne,2023,269
+Lausanne,2022,256
+Lausanne,2021,239
+Lausanne,2020,227
+Lausanne,2019,211
+Lausanne,2018,191
+Lausanne,2017,174
+Lausanne,2016,167
+Lausanne,2015,142
+Lausanne,2014,112
 Lausen,2025,4
 Lausen,2024,3
 Lausen,2023,3
 Lausen,2022,3
 Lausen,2021,1
 Lausen,2020,1
-Lauterbrunnen,2025,22
-Lauterbrunnen,2024,21
-Lauterbrunnen,2023,21
-Lauterbrunnen,2022,19
-Lauterbrunnen,2021,19
-Lauterbrunnen,2020,17
-Lauterbrunnen,2019,18
-Lauterbrunnen,2018,17
-Lauterbrunnen,2017,15
-Lauterbrunnen,2016,11
-Lauterbrunnen,2015,12
-Lauterbrunnen,2014,10
+Lauterbrunnen,2025,21
+Lauterbrunnen,2024,20
+Lauterbrunnen,2023,20
+Lauterbrunnen,2022,18
+Lauterbrunnen,2021,18
+Lauterbrunnen,2020,16
+Lauterbrunnen,2019,17
+Lauterbrunnen,2018,16
+Lauterbrunnen,2017,14
+Lauterbrunnen,2016,10
+Lauterbrunnen,2015,11
+Lauterbrunnen,2014,9
 Lauwil,2025,1
 Lauwil,2024,1
 Lauwil,2023,1
@@ -9002,34 +8813,34 @@ Lauwil,2016,1
 Lauwil,2015,1
 Lauwil,2014,1
 Lavey-Morcles,2025,3
-Lavey-Morcles,2024,2
-Lavey-Morcles,2023,2
-Lavey-Morcles,2022,2
-Lavey-Morcles,2021,2
-Lavey-Morcles,2020,2
-Lavey-Morcles,2019,2
-Lavey-Morcles,2018,2
-Lavey-Morcles,2017,2
-Lavey-Morcles,2016,2
-Lavey-Morcles,2015,2
-Lavey-Morcles,2014,2
+Lavey-Morcles,2024,1
+Lavey-Morcles,2023,1
+Lavey-Morcles,2022,1
+Lavey-Morcles,2021,1
+Lavey-Morcles,2020,1
+Lavey-Morcles,2019,1
+Lavey-Morcles,2018,1
+Lavey-Morcles,2017,1
+Lavey-Morcles,2016,1
+Lavey-Morcles,2015,1
+Lavey-Morcles,2014,1
 Lavigny,2025,1
 Lavigny,2024,1
 Lavigny,2023,1
 Lavigny,2022,1
 Lavigny,2021,1
 Lavizzara,2025,6
-Lavizzara,2024,6
-Lavizzara,2023,6
-Lavizzara,2022,6
-Lavizzara,2021,9
-Lavizzara,2020,9
-Lavizzara,2019,10
-Lavizzara,2018,10
-Lavizzara,2017,10
-Lavizzara,2016,10
-Lavizzara,2015,9
-Lavizzara,2014,9
+Lavizzara,2024,5
+Lavizzara,2023,5
+Lavizzara,2022,5
+Lavizzara,2021,8
+Lavizzara,2020,8
+Lavizzara,2019,8
+Lavizzara,2018,8
+Lavizzara,2017,8
+Lavizzara,2016,8
+Lavizzara,2015,6
+Lavizzara,2014,6
 Le Bémont (JU),2025,1
 Le Bémont (JU),2024,1
 Le Bémont (JU),2023,1
@@ -9049,8 +8860,8 @@ Le Chenit,2019,5
 Le Chenit,2018,5
 Le Chenit,2017,5
 Le Chenit,2016,6
-Le Chenit,2015,6
-Le Chenit,2014,3
+Le Chenit,2015,4
+Le Chenit,2014,2
 Le Châtelard,2025,1
 Le Châtelard,2024,1
 Le Châtelard,2023,1
@@ -9081,18 +8892,18 @@ Le Grand-Saconnex,2017,9
 Le Grand-Saconnex,2016,9
 Le Grand-Saconnex,2015,8
 Le Grand-Saconnex,2014,7
-Le Landeron,2025,11
-Le Landeron,2024,10
-Le Landeron,2023,8
-Le Landeron,2022,8
-Le Landeron,2021,8
-Le Landeron,2020,7
-Le Landeron,2019,7
-Le Landeron,2018,6
-Le Landeron,2017,5
-Le Landeron,2016,5
-Le Landeron,2015,5
-Le Landeron,2014,4
+Le Landeron,2025,9
+Le Landeron,2024,8
+Le Landeron,2023,6
+Le Landeron,2022,5
+Le Landeron,2021,5
+Le Landeron,2020,5
+Le Landeron,2019,5
+Le Landeron,2018,4
+Le Landeron,2017,3
+Le Landeron,2016,3
+Le Landeron,2015,3
+Le Landeron,2014,3
 Le Lieu,2025,3
 Le Lieu,2024,3
 Le Lieu,2023,3
@@ -9105,18 +8916,18 @@ Le Lieu,2017,4
 Le Lieu,2016,4
 Le Lieu,2015,4
 Le Lieu,2014,2
-Le Locle,2025,24
-Le Locle,2024,22
-Le Locle,2023,16
-Le Locle,2022,16
-Le Locle,2021,17
-Le Locle,2020,16
-Le Locle,2019,16
-Le Locle,2018,15
-Le Locle,2017,13
-Le Locle,2016,13
-Le Locle,2015,12
-Le Locle,2014,12
+Le Locle,2025,22
+Le Locle,2024,19
+Le Locle,2023,12
+Le Locle,2022,12
+Le Locle,2021,13
+Le Locle,2020,12
+Le Locle,2019,12
+Le Locle,2018,11
+Le Locle,2017,9
+Le Locle,2016,9
+Le Locle,2015,8
+Le Locle,2014,8
 Le Mont-sur-Lausanne,2025,8
 Le Mont-sur-Lausanne,2024,8
 Le Mont-sur-Lausanne,2023,8
@@ -9130,18 +8941,13 @@ Le Mont-sur-Lausanne,2016,2
 Le Mont-sur-Lausanne,2015,2
 Le Mont-sur-Lausanne,2014,1
 Le Mouret,2014,3
-Le Noirmont,2025,4
-Le Noirmont,2024,4
-Le Noirmont,2023,4
-Le Noirmont,2022,4
-Le Noirmont,2021,4
-Le Noirmont,2020,4
-Le Noirmont,2019,4
-Le Noirmont,2018,3
-Le Noirmont,2017,3
-Le Noirmont,2016,3
-Le Noirmont,2015,3
-Le Noirmont,2014,3
+Le Noirmont,2025,3
+Le Noirmont,2024,3
+Le Noirmont,2023,2
+Le Noirmont,2022,1
+Le Noirmont,2021,1
+Le Noirmont,2020,1
+Le Noirmont,2019,1
 Le Pâquier (FR),2025,1
 Le Pâquier (FR),2024,1
 Le Pâquier (FR),2023,1
@@ -9150,17 +8956,13 @@ Le Pâquier (FR),2021,1
 Le Pâquier (FR),2020,1
 Le Pâquier (FR),2019,1
 Le Pâquier (FR),2018,1
-Le Pâquier (FR),2017,2
-Le Pâquier (FR),2016,2
-Le Pâquier (FR),2015,2
-Le Pâquier (FR),2014,2
 Le Vaud,2025,2
 Le Vaud,2024,2
 Le Vaud,2023,2
 Le Vaud,2022,2
 Le Vaud,2021,2
 Le Vaud,2020,2
-Le Vaud,2019,2
+Le Vaud,2019,1
 Le Vaud,2018,1
 Le Vaud,2017,1
 Le Vaud,2016,1
@@ -9228,18 +9030,18 @@ Lengwil,2017,1
 Lengwil,2016,1
 Lengwil,2015,1
 Lengwil,2014,1
-Lenk,2025,20
-Lenk,2024,20
-Lenk,2023,20
-Lenk,2022,19
-Lenk,2021,19
-Lenk,2020,19
-Lenk,2019,15
-Lenk,2018,12
-Lenk,2017,13
-Lenk,2016,12
-Lenk,2015,10
-Lenk,2014,14
+Lenk,2025,19
+Lenk,2024,19
+Lenk,2023,19
+Lenk,2022,17
+Lenk,2021,17
+Lenk,2020,17
+Lenk,2019,13
+Lenk,2018,11
+Lenk,2017,11
+Lenk,2016,10
+Lenk,2015,8
+Lenk,2014,12
 Lens,2025,15
 Lens,2024,13
 Lens,2023,13
@@ -9263,7 +9065,7 @@ Lenzburg,2018,16
 Lenzburg,2017,13
 Lenzburg,2016,11
 Lenzburg,2015,11
-Lenzburg,2014,8
+Lenzburg,2014,7
 Les Bois,2025,4
 Les Bois,2024,4
 Les Bois,2023,3
@@ -9347,27 +9149,27 @@ Leuggern,2017,1
 Leuggern,2016,1
 Leuggern,2015,1
 Leuggern,2014,1
-Leuk,2025,14
+Leuk,2025,13
 Leuk,2024,13
 Leuk,2023,12
-Leuk,2022,12
-Leuk,2021,13
-Leuk,2020,14
-Leuk,2019,14
-Leuk,2018,13
-Leuk,2017,13
-Leuk,2016,12
-Leuk,2015,11
-Leuk,2014,11
+Leuk,2022,11
+Leuk,2021,12
+Leuk,2020,13
+Leuk,2019,12
+Leuk,2018,11
+Leuk,2017,11
+Leuk,2016,10
+Leuk,2015,9
+Leuk,2014,9
 Leukerbad,2025,22
 Leukerbad,2024,22
 Leukerbad,2023,21
 Leukerbad,2022,13
 Leukerbad,2021,11
-Leukerbad,2020,11
-Leukerbad,2019,11
-Leukerbad,2018,11
-Leukerbad,2017,9
+Leukerbad,2020,9
+Leukerbad,2019,8
+Leukerbad,2018,8
+Leukerbad,2017,8
 Leukerbad,2016,8
 Leukerbad,2015,6
 Leukerbad,2014,6
@@ -9450,11 +9252,11 @@ Liedertswil,2019,1
 Liedertswil,2018,1
 Liedertswil,2017,1
 Liedertswil,2016,1
-Liestal,2025,30
+Liestal,2025,29
 Liestal,2024,24
 Liestal,2023,22
-Liestal,2022,23
-Liestal,2021,20
+Liestal,2022,22
+Liestal,2021,19
 Liestal,2020,18
 Liestal,2019,11
 Liestal,2018,10
@@ -9538,9 +9340,9 @@ Locarno,2020,43
 Locarno,2019,42
 Locarno,2018,39
 Locarno,2017,38
-Locarno,2016,38
-Locarno,2015,27
-Locarno,2014,10
+Locarno,2016,37
+Locarno,2015,24
+Locarno,2014,6
 Lohn (SH),2025,2
 Lohn (SH),2024,2
 Lohn (SH),2023,1
@@ -9570,17 +9372,8 @@ Lommis,2016,1
 Lommis,2015,1
 Lommiswil,2025,1
 Lommiswil,2024,2
-Lommiswil,2023,1
-Lommiswil,2022,1
-Lommiswil,2021,1
-Lommiswil,2020,1
-Lommiswil,2019,1
-Lommiswil,2018,1
-Lommiswil,2017,1
-Lommiswil,2016,1
-Lommiswil,2015,1
 Lonay,2025,3
-Lonay,2024,3
+Lonay,2024,2
 Lonay,2023,2
 Lonay,2022,2
 Lonay,2021,2
@@ -9591,11 +9384,11 @@ Lonay,2017,1
 Lonay,2016,1
 Lonay,2015,1
 Lonay,2014,1
-Losone,2025,19
-Losone,2024,19
-Losone,2023,18
-Losone,2022,18
-Losone,2021,17
+Losone,2025,18
+Losone,2024,18
+Losone,2023,17
+Losone,2022,17
+Losone,2021,16
 Losone,2020,17
 Losone,2019,17
 Losone,2018,15
@@ -9625,18 +9418,18 @@ Lotzwil,2015,3
 Lotzwil,2014,3
 Loveresse,2014,1
 Lucens,2025,1
-Lugano,2025,154
-Lugano,2024,131
-Lugano,2023,122
-Lugano,2022,115
-Lugano,2021,111
-Lugano,2020,108
-Lugano,2019,101
-Lugano,2018,99
-Lugano,2017,91
-Lugano,2016,79
+Lugano,2025,152
+Lugano,2024,128
+Lugano,2023,120
+Lugano,2022,112
+Lugano,2021,109
+Lugano,2020,106
+Lugano,2019,99
+Lugano,2018,97
+Lugano,2017,89
+Lugano,2016,78
 Lugano,2015,68
-Lugano,2014,63
+Lugano,2014,62
 Luins,2025,1
 Luins,2024,1
 Luins,2023,1
@@ -9652,9 +9445,6 @@ Lully (FR),2021,1
 Lully (FR),2020,1
 Lully (FR),2019,1
 Lully (FR),2014,1
-Lumino,2025,1
-Lumino,2024,1
-Lumino,2023,1
 Lumino,2022,1
 Lumino,2021,1
 Lumino,2020,1
@@ -9762,18 +9552,18 @@ Luzein,2017,9
 Luzein,2016,6
 Luzein,2015,4
 Luzein,2014,4
-Luzern,2025,228
-Luzern,2024,229
+Luzern,2025,227
+Luzern,2024,228
 Luzern,2023,225
-Luzern,2022,221
-Luzern,2021,216
-Luzern,2020,212
-Luzern,2019,213
+Luzern,2022,220
+Luzern,2021,215
+Luzern,2020,211
+Luzern,2019,211
 Luzern,2018,194
-Luzern,2017,192
-Luzern,2016,161
-Luzern,2015,144
-Luzern,2014,136
+Luzern,2017,191
+Luzern,2016,159
+Luzern,2015,142
+Luzern,2014,134
 Lyss,2025,19
 Lyss,2024,18
 Lyss,2023,18
@@ -9795,12 +9585,12 @@ Lyssach,2020,2
 Lyssach,2019,2
 Lyssach,2018,2
 Lyssach,2017,1
-Läufelfingen,2025,3
-Läufelfingen,2024,5
-Läufelfingen,2023,5
-Läufelfingen,2022,5
-Läufelfingen,2021,5
-Läufelfingen,2020,4
+Läufelfingen,2025,2
+Läufelfingen,2024,4
+Läufelfingen,2023,4
+Läufelfingen,2022,4
+Läufelfingen,2021,4
+Läufelfingen,2020,3
 Läufelfingen,2019,4
 Läufelfingen,2018,4
 Läufelfingen,2017,4
@@ -9819,10 +9609,7 @@ Lüscherz,2017,3
 Lüscherz,2016,3
 Lüscherz,2015,3
 Lüscherz,2014,3
-Lüsslingen-Nennigkofen,2025,1
-Lüsslingen-Nennigkofen,2024,1
-Lüsslingen-Nennigkofen,2023,1
-Lüsslingen-Nennigkofen,2022,2
+Lüsslingen-Nennigkofen,2022,1
 Lüsslingen-Nennigkofen,2021,1
 Lüsslingen-Nennigkofen,2020,1
 Lüsslingen-Nennigkofen,2019,1
@@ -9870,7 +9657,7 @@ Madulain,2025,1
 Madulain,2024,1
 Madulain,2023,1
 Madulain,2022,1
-Maggia,2025,13
+Maggia,2025,12
 Maggia,2024,11
 Maggia,2023,11
 Maggia,2022,11
@@ -9891,7 +9678,7 @@ Magliaso,2020,2
 Magliaso,2019,2
 Magliaso,2018,2
 Magliaso,2017,1
-Maienfeld,2025,3
+Maienfeld,2025,2
 Maienfeld,2024,2
 Maienfeld,2023,2
 Maienfeld,2022,3
@@ -9905,15 +9692,6 @@ Maienfeld,2015,2
 Maienfeld,2014,2
 Maisprach,2025,1
 Maisprach,2024,1
-Maisprach,2023,1
-Maisprach,2022,1
-Maisprach,2021,1
-Maisprach,2020,1
-Maisprach,2019,1
-Maisprach,2018,1
-Maisprach,2017,1
-Maisprach,2016,1
-Maisprach,2015,1
 Malans,2025,3
 Malans,2024,1
 Malans,2023,1
@@ -9968,17 +9746,17 @@ Marbach (SG),2016,1
 Marbach (SG),2015,1
 Marbach (SG),2014,1
 Marly,2025,7
-Marly,2024,5
-Marly,2023,4
-Marly,2022,3
-Marly,2021,3
-Marly,2020,3
-Marly,2019,3
-Marly,2018,3
-Marly,2017,3
-Marly,2016,3
-Marly,2015,2
-Marly,2014,2
+Marly,2024,4
+Marly,2023,3
+Marly,2022,2
+Marly,2021,2
+Marly,2020,2
+Marly,2019,2
+Marly,2018,2
+Marly,2017,2
+Marly,2016,2
+Marly,2015,1
+Marly,2014,1
 Marsens,2025,1
 Marsens,2024,1
 Marsens,2023,1
@@ -9995,30 +9773,30 @@ Marthalen,2017,2
 Marthalen,2016,2
 Marthalen,2015,1
 Marthalen,2014,1
-Martigny,2025,56
-Martigny,2024,51
-Martigny,2023,50
-Martigny,2022,48
-Martigny,2021,49
+Martigny,2025,55
+Martigny,2024,50
+Martigny,2023,49
+Martigny,2022,47
+Martigny,2021,47
 Martigny,2020,41
-Martigny,2019,41
+Martigny,2019,40
 Martigny,2018,40
 Martigny,2017,36
 Martigny,2016,33
 Martigny,2015,31
 Martigny,2014,24
-Martigny-Combe,2025,4
-Martigny-Combe,2024,4
-Martigny-Combe,2023,4
-Martigny-Combe,2022,4
-Martigny-Combe,2021,5
-Martigny-Combe,2020,4
-Martigny-Combe,2019,3
-Martigny-Combe,2018,3
-Martigny-Combe,2017,3
-Martigny-Combe,2016,3
-Martigny-Combe,2015,3
-Martigny-Combe,2014,3
+Martigny-Combe,2025,3
+Martigny-Combe,2024,3
+Martigny-Combe,2023,3
+Martigny-Combe,2022,3
+Martigny-Combe,2021,3
+Martigny-Combe,2020,2
+Martigny-Combe,2019,1
+Martigny-Combe,2018,1
+Martigny-Combe,2017,1
+Martigny-Combe,2016,1
+Martigny-Combe,2015,1
+Martigny-Combe,2014,1
 Maschwanden,2025,1
 Maschwanden,2024,1
 Maschwanden,2023,1
@@ -10031,10 +9809,10 @@ Massagno,2021,11
 Massagno,2020,11
 Massagno,2019,11
 Massagno,2018,11
-Massagno,2017,9
-Massagno,2016,7
-Massagno,2015,7
-Massagno,2014,7
+Massagno,2017,8
+Massagno,2016,6
+Massagno,2015,6
+Massagno,2014,6
 Massongex,2025,4
 Massongex,2024,4
 Massongex,2023,4
@@ -10075,7 +9853,6 @@ Matten bei Interlaken,2018,2
 Matten bei Interlaken,2017,2
 Matten bei Interlaken,2016,2
 Matten bei Interlaken,2015,2
-Matten bei Interlaken,2014,1
 Mattstetten,2018,1
 Mattstetten,2017,1
 Mattstetten,2016,1
@@ -10201,31 +9978,27 @@ Meinisberg,2025,1
 Meinisberg,2024,1
 Meinisberg,2023,1
 Meinisberg,2022,1
-Meinisberg,2021,1
-Meinisberg,2020,1
-Meinisberg,2019,1
-Meinisberg,2018,1
 Meiringen,2025,15
 Meiringen,2024,16
 Meiringen,2023,15
-Meiringen,2022,11
-Meiringen,2021,9
-Meiringen,2020,6
-Meiringen,2019,6
-Meiringen,2018,6
+Meiringen,2022,10
+Meiringen,2021,8
+Meiringen,2020,5
+Meiringen,2019,5
+Meiringen,2018,5
 Meiringen,2017,4
 Meiringen,2016,4
 Meiringen,2015,3
 Meiringen,2014,3
-Meisterschwanden,2025,5
-Meisterschwanden,2024,5
-Meisterschwanden,2023,4
-Meisterschwanden,2022,4
-Meisterschwanden,2021,4
-Meisterschwanden,2020,4
-Meisterschwanden,2019,4
-Meisterschwanden,2018,4
-Meisterschwanden,2017,7
+Meisterschwanden,2025,4
+Meisterschwanden,2024,4
+Meisterschwanden,2023,3
+Meisterschwanden,2022,3
+Meisterschwanden,2021,3
+Meisterschwanden,2020,3
+Meisterschwanden,2019,3
+Meisterschwanden,2018,3
+Meisterschwanden,2017,6
 Meisterschwanden,2016,6
 Meisterschwanden,2015,6
 Meisterschwanden,2014,6
@@ -10254,7 +10027,7 @@ Melide,2016,3
 Melide,2015,1
 Melide,2014,1
 Mellikon,2015,1
-Mellingen,2025,9
+Mellingen,2025,8
 Mellingen,2024,7
 Mellingen,2023,7
 Mellingen,2022,7
@@ -10269,27 +10042,18 @@ Mellingen,2014,8
 Mels,2025,7
 Mels,2024,3
 Mels,2023,2
-Mels,2022,2
-Mels,2021,4
-Mels,2020,7
-Mels,2019,7
-Mels,2018,7
-Mels,2017,4
-Mels,2016,2
-Mels,2015,1
-Mels,2014,1
+Mels,2022,1
+Mels,2021,3
+Mels,2020,6
+Mels,2019,6
+Mels,2018,6
+Mels,2017,3
+Mels,2016,1
 Meltingen,2025,1
 Meltingen,2024,1
 Meltingen,2023,1
 Meltingen,2022,1
 Meltingen,2021,1
-Meltingen,2020,1
-Meltingen,2019,1
-Meltingen,2018,1
-Meltingen,2017,1
-Meltingen,2016,1
-Meltingen,2015,1
-Meltingen,2014,1
 Mendrisio,2025,31
 Mendrisio,2024,31
 Mendrisio,2023,27
@@ -10314,18 +10078,18 @@ Menziken,2017,1
 Menziken,2016,1
 Menziken,2015,1
 Menziken,2014,1
-Menzingen,2025,6
-Menzingen,2024,6
-Menzingen,2023,7
-Menzingen,2022,6
-Menzingen,2021,5
-Menzingen,2020,5
-Menzingen,2019,5
-Menzingen,2018,5
-Menzingen,2017,5
-Menzingen,2016,5
-Menzingen,2015,5
-Menzingen,2014,5
+Menzingen,2025,5
+Menzingen,2024,5
+Menzingen,2023,6
+Menzingen,2022,5
+Menzingen,2021,4
+Menzingen,2020,4
+Menzingen,2019,4
+Menzingen,2018,4
+Menzingen,2017,4
+Menzingen,2016,4
+Menzingen,2015,4
+Menzingen,2014,4
 Menznau,2025,3
 Menznau,2024,3
 Menznau,2023,3
@@ -10374,18 +10138,18 @@ Merishausen,2017,2
 Merishausen,2016,2
 Merishausen,2015,2
 Merishausen,2014,2
-Mesocco,2025,15
-Mesocco,2024,15
-Mesocco,2023,10
-Mesocco,2022,9
-Mesocco,2021,7
-Mesocco,2020,6
-Mesocco,2019,5
-Mesocco,2018,5
-Mesocco,2017,4
-Mesocco,2016,4
-Mesocco,2015,3
-Mesocco,2014,3
+Mesocco,2025,13
+Mesocco,2024,11
+Mesocco,2023,9
+Mesocco,2022,8
+Mesocco,2021,6
+Mesocco,2020,4
+Mesocco,2019,3
+Mesocco,2018,3
+Mesocco,2017,2
+Mesocco,2016,2
+Mesocco,2015,2
+Mesocco,2014,1
 Messen,2025,4
 Messen,2024,4
 Messen,2023,4
@@ -10395,9 +10159,9 @@ Messen,2020,4
 Messen,2019,4
 Messen,2018,4
 Messen,2017,4
-Messen,2016,2
-Messen,2015,2
-Messen,2014,2
+Messen,2016,1
+Messen,2015,1
+Messen,2014,1
 Mettauertal,2025,2
 Mettauertal,2024,3
 Mettauertal,2023,3
@@ -10408,8 +10172,8 @@ Mettauertal,2019,3
 Mettauertal,2018,3
 Mettauertal,2017,3
 Mettauertal,2016,3
-Mettauertal,2015,3
-Mettauertal,2014,3
+Mettauertal,2015,2
+Mettauertal,2014,2
 Mettmenstetten,2025,4
 Mettmenstetten,2024,4
 Mettmenstetten,2023,4
@@ -10445,20 +10209,17 @@ Meyriez,2016,1
 Meyriez,2015,1
 Meyriez,2014,1
 Meyrin,2025,45
-Meyrin,2024,29
-Meyrin,2023,27
-Meyrin,2022,27
-Meyrin,2021,26
-Meyrin,2020,24
-Meyrin,2019,22
-Meyrin,2018,21
-Meyrin,2017,20
+Meyrin,2024,28
+Meyrin,2023,26
+Meyrin,2022,26
+Meyrin,2021,25
+Meyrin,2020,23
+Meyrin,2019,21
+Meyrin,2018,20
+Meyrin,2017,19
 Meyrin,2016,19
 Meyrin,2015,20
 Meyrin,2014,19
-Mezzovico-Vira,2016,1
-Mezzovico-Vira,2015,2
-Mezzovico-Vira,2014,2
 Mies,2019,1
 Mies,2018,1
 Milvignes,2025,7
@@ -10471,20 +10232,20 @@ Milvignes,2019,5
 Milvignes,2018,5
 Milvignes,2017,5
 Milvignes,2016,5
-Milvignes,2015,3
-Milvignes,2014,3
-Minusio,2025,12
-Minusio,2024,11
-Minusio,2023,10
-Minusio,2022,10
-Minusio,2021,10
-Minusio,2020,11
-Minusio,2019,11
-Minusio,2018,9
-Minusio,2017,8
-Minusio,2016,8
-Minusio,2015,9
-Minusio,2014,7
+Milvignes,2015,2
+Milvignes,2014,2
+Minusio,2025,11
+Minusio,2024,10
+Minusio,2023,9
+Minusio,2022,9
+Minusio,2021,9
+Minusio,2020,10
+Minusio,2019,10
+Minusio,2018,8
+Minusio,2017,7
+Minusio,2016,7
+Minusio,2015,8
+Minusio,2014,6
 Mirchel,2025,1
 Mirchel,2024,1
 Mirchel,2023,1
@@ -10513,8 +10274,6 @@ Moiry,2019,1
 Moiry,2018,1
 Moiry,2017,1
 Moiry,2016,1
-Moiry,2015,1
-Moiry,2014,1
 Molondin,2025,1
 Molondin,2024,1
 Molondin,2023,1
@@ -10526,12 +10285,12 @@ Mont-Noble,2023,4
 Mont-Noble,2022,4
 Mont-Noble,2021,3
 Mont-Noble,2020,2
-Mont-Noble,2019,3
-Mont-Noble,2018,3
-Mont-Noble,2017,3
-Mont-Noble,2016,3
-Mont-Noble,2015,3
-Mont-Noble,2014,3
+Mont-Noble,2019,2
+Mont-Noble,2018,2
+Mont-Noble,2017,2
+Mont-Noble,2016,2
+Mont-Noble,2015,2
+Mont-Noble,2014,2
 Mont-Tramelan,2025,1
 Mont-Tramelan,2024,1
 Mont-Tramelan,2023,1
@@ -10550,12 +10309,12 @@ Mont-Vully,2023,9
 Mont-Vully,2022,9
 Mont-Vully,2021,8
 Mont-Vully,2020,8
-Mont-Vully,2019,9
-Mont-Vully,2018,9
+Mont-Vully,2019,8
+Mont-Vully,2018,8
 Mont-Vully,2017,9
-Mont-Vully,2016,9
-Mont-Vully,2015,9
-Mont-Vully,2014,8
+Mont-Vully,2016,8
+Mont-Vully,2015,8
+Mont-Vully,2014,7
 Mont-la-Ville,2025,3
 Mont-la-Ville,2024,3
 Mont-la-Ville,2023,3
@@ -10566,8 +10325,8 @@ Mont-la-Ville,2019,2
 Mont-la-Ville,2018,2
 Mont-la-Ville,2017,2
 Mont-la-Ville,2016,3
-Mont-la-Ville,2015,3
-Mont-la-Ville,2014,3
+Mont-la-Ville,2015,2
+Mont-la-Ville,2014,2
 Mont-sur-Rolle,2025,1
 Mont-sur-Rolle,2024,1
 Mont-sur-Rolle,2023,1
@@ -10606,22 +10365,22 @@ Montagny-près-Yverdon,2015,1
 Montagny-près-Yverdon,2014,1
 Montcherand,2025,1
 Montcherand,2024,1
-Monteceneri,2025,8
-Monteceneri,2024,7
-Monteceneri,2023,7
-Monteceneri,2022,7
+Monteceneri,2025,7
+Monteceneri,2024,6
+Monteceneri,2023,6
+Monteceneri,2022,6
 Monteceneri,2021,4
 Monteceneri,2020,4
 Monteceneri,2019,5
 Monteceneri,2018,5
 Monteceneri,2017,2
 Monteceneri,2016,2
-Monteceneri,2015,2
-Monteceneri,2014,2
-Montfaucon,2025,3
-Montfaucon,2024,3
-Montfaucon,2023,3
-Montfaucon,2022,3
+Monteceneri,2015,1
+Monteceneri,2014,1
+Montfaucon,2025,2
+Montfaucon,2024,2
+Montfaucon,2023,2
+Montfaucon,2022,2
 Montfaucon,2021,2
 Montfaucon,2020,1
 Montfaucon,2019,1
@@ -10664,18 +10423,18 @@ Montpreveyres,2019,1
 Montpreveyres,2018,1
 Montpreveyres,2017,1
 Montpreveyres,2016,1
-Montreux,2025,54
-Montreux,2024,50
-Montreux,2023,46
-Montreux,2022,44
-Montreux,2021,44
-Montreux,2020,44
-Montreux,2019,41
+Montreux,2025,53
+Montreux,2024,49
+Montreux,2023,45
+Montreux,2022,43
+Montreux,2021,43
+Montreux,2020,43
+Montreux,2019,40
 Montreux,2018,19
 Montreux,2017,17
-Montreux,2016,14
-Montreux,2015,14
-Montreux,2014,13
+Montreux,2016,13
+Montreux,2015,12
+Montreux,2014,12
 Montricher,2025,2
 Montricher,2024,2
 Montricher,2023,3
@@ -10693,13 +10452,13 @@ Moosseedorf,2024,6
 Moosseedorf,2023,6
 Moosseedorf,2022,6
 Moosseedorf,2021,6
-Moosseedorf,2020,4
-Moosseedorf,2019,3
-Moosseedorf,2018,5
-Moosseedorf,2017,4
-Moosseedorf,2016,4
-Moosseedorf,2015,4
-Moosseedorf,2014,4
+Moosseedorf,2020,3
+Moosseedorf,2019,2
+Moosseedorf,2018,4
+Moosseedorf,2017,3
+Moosseedorf,2016,3
+Moosseedorf,2015,3
+Moosseedorf,2014,3
 Morbio Inferiore,2025,2
 Morbio Inferiore,2024,3
 Morbio Inferiore,2023,3
@@ -10719,11 +10478,11 @@ Morcote,2021,9
 Morcote,2020,9
 Morcote,2019,9
 Morcote,2018,9
-Morcote,2017,9
-Morcote,2016,8
-Morcote,2015,9
-Morcote,2014,3
-Morges,2025,53
+Morcote,2017,8
+Morcote,2016,7
+Morcote,2015,8
+Morcote,2014,2
+Morges,2025,52
 Morges,2024,52
 Morges,2023,51
 Morges,2022,46
@@ -10733,8 +10492,8 @@ Morges,2019,39
 Morges,2018,39
 Morges,2017,38
 Morges,2016,38
-Morges,2015,33
-Morges,2014,31
+Morges,2015,32
+Morges,2014,30
 Morschach,2025,8
 Morschach,2024,9
 Morschach,2023,11
@@ -10765,12 +10524,12 @@ Moudon,2023,4
 Moudon,2022,4
 Moudon,2021,3
 Moudon,2020,3
-Moutier,2025,14
-Moutier,2024,11
-Moutier,2023,11
-Moutier,2022,11
-Moutier,2021,11
-Moutier,2020,11
+Moutier,2025,13
+Moutier,2024,10
+Moutier,2023,10
+Moutier,2022,10
+Moutier,2021,10
+Moutier,2020,10
 Moutier,2019,2
 Moutier,2018,2
 Moutier,2017,2
@@ -10791,8 +10550,8 @@ Muhen,2019,3
 Muhen,2018,3
 Muhen,2017,3
 Muhen,2016,3
-Muhen,2015,3
-Muhen,2014,3
+Muhen,2015,2
+Muhen,2014,2
 Muntelier,2025,1
 Muntelier,2024,1
 Muntelier,2023,1
@@ -10814,11 +10573,11 @@ Muntogna da Schons,2020,1
 Muntogna da Schons,2019,1
 Muntogna da Schons,2018,1
 Muntogna da Schons,2017,1
-Muolen,2025,3
-Muolen,2024,3
-Muolen,2023,2
-Muolen,2022,2
-Muolen,2021,2
+Muolen,2025,2
+Muolen,2024,2
+Muolen,2023,1
+Muolen,2022,1
+Muolen,2021,1
 Muotathal,2025,7
 Muotathal,2024,6
 Muotathal,2023,6
@@ -10830,7 +10589,7 @@ Muotathal,2018,10
 Muotathal,2017,11
 Muotathal,2016,7
 Muotathal,2015,7
-Muotathal,2014,7
+Muotathal,2014,6
 Muralto,2025,14
 Muralto,2024,14
 Muralto,2023,14
@@ -10841,20 +10600,20 @@ Muralto,2019,15
 Muralto,2018,16
 Muralto,2017,15
 Muralto,2016,15
-Muralto,2015,6
+Muralto,2015,5
 Muralto,2014,4
-Muri (AG),2025,12
-Muri (AG),2024,10
-Muri (AG),2023,9
-Muri (AG),2022,7
-Muri (AG),2021,7
-Muri (AG),2020,7
-Muri (AG),2019,7
-Muri (AG),2018,7
-Muri (AG),2017,9
-Muri (AG),2016,8
-Muri (AG),2015,8
-Muri (AG),2014,5
+Muri (AG),2025,10
+Muri (AG),2024,8
+Muri (AG),2023,7
+Muri (AG),2022,5
+Muri (AG),2021,5
+Muri (AG),2020,6
+Muri (AG),2019,6
+Muri (AG),2018,6
+Muri (AG),2017,8
+Muri (AG),2016,7
+Muri (AG),2015,7
+Muri (AG),2014,4
 Muri bei Bern,2025,21
 Muri bei Bern,2024,21
 Muri bei Bern,2023,21
@@ -10870,44 +10629,44 @@ Muri bei Bern,2014,15
 Muriaux,2025,4
 Muriaux,2024,4
 Muriaux,2023,4
-Muriaux,2022,5
-Muriaux,2021,5
-Muriaux,2020,5
-Muriaux,2019,3
-Muriaux,2018,3
-Muriaux,2017,2
-Muriaux,2016,2
-Muriaux,2015,2
-Muriaux,2014,2
+Muriaux,2022,4
+Muriaux,2021,4
+Muriaux,2020,4
+Muriaux,2019,2
+Muriaux,2018,2
+Muriaux,2017,1
+Muriaux,2016,1
+Muriaux,2015,1
+Muriaux,2014,1
 Murten,2025,29
 Murten,2024,28
 Murten,2023,27
-Murten,2022,32
-Murten,2021,31
-Murten,2020,29
-Murten,2019,26
-Murten,2018,24
-Murten,2017,24
-Murten,2016,17
-Murten,2015,16
-Murten,2014,17
-Muttenz,2025,17
-Muttenz,2024,17
-Muttenz,2023,17
-Muttenz,2022,16
-Muttenz,2021,15
-Muttenz,2020,15
-Muttenz,2019,14
-Muttenz,2018,13
-Muttenz,2017,12
-Muttenz,2016,11
-Muttenz,2015,9
-Muttenz,2014,9
-Muzzano,2025,3
-Muzzano,2024,3
-Muzzano,2023,3
-Muzzano,2022,3
-Muzzano,2021,3
+Murten,2022,29
+Murten,2021,28
+Murten,2020,26
+Murten,2019,24
+Murten,2018,22
+Murten,2017,22
+Murten,2016,15
+Murten,2015,14
+Murten,2014,15
+Muttenz,2025,16
+Muttenz,2024,15
+Muttenz,2023,15
+Muttenz,2022,14
+Muttenz,2021,13
+Muttenz,2020,13
+Muttenz,2019,12
+Muttenz,2018,11
+Muttenz,2017,10
+Muttenz,2016,9
+Muttenz,2015,8
+Muttenz,2014,8
+Muzzano,2025,2
+Muzzano,2024,2
+Muzzano,2023,2
+Muzzano,2022,2
+Muzzano,2021,2
 Muzzano,2020,2
 Muzzano,2019,3
 Muzzano,2018,2
@@ -10924,16 +10683,16 @@ Mägenwil,2017,2
 Mägenwil,2016,3
 Mägenwil,2015,3
 Mägenwil,2014,4
-Männedorf,2025,10
-Männedorf,2024,9
-Männedorf,2023,9
-Männedorf,2022,9
-Männedorf,2021,9
-Männedorf,2020,8
-Männedorf,2019,8
-Männedorf,2018,7
-Männedorf,2017,7
-Männedorf,2016,7
+Männedorf,2025,9
+Männedorf,2024,8
+Männedorf,2023,8
+Männedorf,2022,8
+Männedorf,2021,8
+Männedorf,2020,7
+Männedorf,2019,7
+Männedorf,2018,6
+Männedorf,2017,6
+Männedorf,2016,6
 Männedorf,2015,7
 Männedorf,2014,6
 Märstetten,2025,5
@@ -10983,7 +10742,7 @@ Möhlin,2018,7
 Möhlin,2017,7
 Möhlin,2016,7
 Möhlin,2015,7
-Möhlin,2014,9
+Möhlin,2014,8
 Mönchaltorf,2025,4
 Mönchaltorf,2024,3
 Mönchaltorf,2023,3
@@ -11090,16 +10849,16 @@ Müllheim,2015,4
 Müllheim,2014,4
 Mümliswil-Ramiswil,2025,6
 Mümliswil-Ramiswil,2024,6
-Mümliswil-Ramiswil,2023,6
-Mümliswil-Ramiswil,2022,6
-Mümliswil-Ramiswil,2021,5
-Mümliswil-Ramiswil,2020,5
-Mümliswil-Ramiswil,2019,5
-Mümliswil-Ramiswil,2018,4
-Mümliswil-Ramiswil,2017,4
-Mümliswil-Ramiswil,2016,4
-Mümliswil-Ramiswil,2015,4
-Mümliswil-Ramiswil,2014,2
+Mümliswil-Ramiswil,2023,5
+Mümliswil-Ramiswil,2022,5
+Mümliswil-Ramiswil,2021,4
+Mümliswil-Ramiswil,2020,4
+Mümliswil-Ramiswil,2019,4
+Mümliswil-Ramiswil,2018,3
+Mümliswil-Ramiswil,2017,3
+Mümliswil-Ramiswil,2016,3
+Mümliswil-Ramiswil,2015,3
+Mümliswil-Ramiswil,2014,1
 Münchenbuchsee,2025,10
 Münchenbuchsee,2024,9
 Münchenbuchsee,2023,9
@@ -11112,18 +10871,18 @@ Münchenbuchsee,2017,10
 Münchenbuchsee,2016,10
 Münchenbuchsee,2015,10
 Münchenbuchsee,2014,10
-Münchenstein,2025,18
-Münchenstein,2024,16
-Münchenstein,2023,16
-Münchenstein,2022,15
-Münchenstein,2021,16
-Münchenstein,2020,17
-Münchenstein,2019,17
-Münchenstein,2018,16
-Münchenstein,2017,16
-Münchenstein,2016,15
+Münchenstein,2025,16
+Münchenstein,2024,14
+Münchenstein,2023,14
+Münchenstein,2022,13
+Münchenstein,2021,14
+Münchenstein,2020,15
+Münchenstein,2019,15
+Münchenstein,2018,15
+Münchenstein,2017,15
+Münchenstein,2016,14
 Münchenstein,2015,14
-Münchenstein,2014,15
+Münchenstein,2014,14
 Münchenwiler,2025,1
 Münchenwiler,2024,1
 Münchenwiler,2023,1
@@ -11142,18 +10901,18 @@ Münchwilen (TG),2017,4
 Münchwilen (TG),2016,4
 Münchwilen (TG),2015,4
 Münchwilen (TG),2014,3
-Münsingen,2025,18
-Münsingen,2024,16
-Münsingen,2023,16
-Münsingen,2022,16
-Münsingen,2021,15
-Münsingen,2020,15
-Münsingen,2019,15
-Münsingen,2018,14
-Münsingen,2017,14
-Münsingen,2016,14
-Münsingen,2015,14
-Münsingen,2014,14
+Münsingen,2025,16
+Münsingen,2024,13
+Münsingen,2023,13
+Münsingen,2022,13
+Münsingen,2021,12
+Münsingen,2020,12
+Münsingen,2019,12
+Münsingen,2018,12
+Münsingen,2017,12
+Münsingen,2016,12
+Münsingen,2015,12
+Münsingen,2014,12
 Münsterlingen,2025,7
 Münsterlingen,2024,7
 Münsterlingen,2023,7
@@ -11164,20 +10923,12 @@ Münsterlingen,2019,6
 Münsterlingen,2018,6
 Münsterlingen,2017,5
 Münsterlingen,2016,5
-Münsterlingen,2015,4
-Münsterlingen,2014,2
+Münsterlingen,2015,2
 Müntschemier,2025,1
 Müntschemier,2024,1
 Müntschemier,2023,1
 Müntschemier,2022,1
 Müntschemier,2021,1
-Müntschemier,2020,1
-Müntschemier,2019,1
-Müntschemier,2018,1
-Müntschemier,2017,1
-Müntschemier,2016,1
-Müntschemier,2015,1
-Müntschemier,2014,2
 Naters,2025,19
 Naters,2024,20
 Naters,2023,19
@@ -11223,25 +10974,25 @@ Neerach,2020,3
 Neerach,2019,3
 Neerach,2018,3
 Neerach,2017,4
-Neerach,2016,4
-Neerach,2015,4
-Neerach,2014,4
+Neerach,2016,3
+Neerach,2015,3
+Neerach,2014,3
 Neftenbach,2025,1
 Neftenbach,2016,1
 Neftenbach,2015,1
 Neftenbach,2014,1
-Nendaz,2025,18
-Nendaz,2024,19
-Nendaz,2023,19
-Nendaz,2022,18
-Nendaz,2021,15
-Nendaz,2020,16
-Nendaz,2019,16
-Nendaz,2018,16
-Nendaz,2017,15
-Nendaz,2016,14
-Nendaz,2015,14
-Nendaz,2014,14
+Nendaz,2025,17
+Nendaz,2024,18
+Nendaz,2023,18
+Nendaz,2022,16
+Nendaz,2021,10
+Nendaz,2020,10
+Nendaz,2019,10
+Nendaz,2018,10
+Nendaz,2017,9
+Nendaz,2016,8
+Nendaz,2015,8
+Nendaz,2014,8
 Nenzlingen,2025,1
 Nenzlingen,2024,1
 Nenzlingen,2023,1
@@ -11262,22 +11013,22 @@ Nesslau,2021,13
 Nesslau,2020,12
 Nesslau,2019,12
 Nesslau,2018,11
-Nesslau,2017,12
-Nesslau,2016,8
-Nesslau,2015,4
+Nesslau,2017,11
+Nesslau,2016,7
+Nesslau,2015,2
 Nesslau,2014,2
-Neuchâtel,2025,80
+Neuchâtel,2025,79
 Neuchâtel,2024,76
-Neuchâtel,2023,68
-Neuchâtel,2022,65
-Neuchâtel,2021,65
-Neuchâtel,2020,61
-Neuchâtel,2019,61
-Neuchâtel,2018,60
-Neuchâtel,2017,54
-Neuchâtel,2016,50
-Neuchâtel,2015,45
-Neuchâtel,2014,46
+Neuchâtel,2023,66
+Neuchâtel,2022,63
+Neuchâtel,2021,63
+Neuchâtel,2020,60
+Neuchâtel,2019,60
+Neuchâtel,2018,59
+Neuchâtel,2017,53
+Neuchâtel,2016,49
+Neuchâtel,2015,44
+Neuchâtel,2014,45
 Neuenegg,2025,5
 Neuenegg,2024,6
 Neuenegg,2023,4
@@ -11302,27 +11053,27 @@ Neuenhof,2017,5
 Neuenhof,2016,6
 Neuenhof,2015,7
 Neuenhof,2014,5
-Neuenkirch,2025,11
-Neuenkirch,2024,11
-Neuenkirch,2023,11
+Neuenkirch,2025,10
+Neuenkirch,2024,10
+Neuenkirch,2023,10
 Neuenkirch,2022,10
 Neuenkirch,2021,10
 Neuenkirch,2020,10
 Neuenkirch,2019,9
-Neuenkirch,2018,9
-Neuenkirch,2017,9
-Neuenkirch,2016,8
-Neuenkirch,2015,8
+Neuenkirch,2018,8
+Neuenkirch,2017,8
+Neuenkirch,2016,7
+Neuenkirch,2015,7
 Neuenkirch,2014,5
 Neuhausen am Rheinfall,2025,14
 Neuhausen am Rheinfall,2024,12
-Neuhausen am Rheinfall,2023,12
-Neuhausen am Rheinfall,2022,13
-Neuhausen am Rheinfall,2021,11
-Neuhausen am Rheinfall,2020,11
-Neuhausen am Rheinfall,2019,13
-Neuhausen am Rheinfall,2018,12
-Neuhausen am Rheinfall,2017,12
+Neuhausen am Rheinfall,2023,11
+Neuhausen am Rheinfall,2022,12
+Neuhausen am Rheinfall,2021,10
+Neuhausen am Rheinfall,2020,10
+Neuhausen am Rheinfall,2019,12
+Neuhausen am Rheinfall,2018,11
+Neuhausen am Rheinfall,2017,11
 Neuhausen am Rheinfall,2016,11
 Neuhausen am Rheinfall,2015,10
 Neuhausen am Rheinfall,2014,9
@@ -11546,9 +11297,7 @@ Niederwil (AG),2020,2
 Niederwil (AG),2019,2
 Niederwil (AG),2018,2
 Niederwil (AG),2017,2
-Niederwil (AG),2016,2
-Niederwil (AG),2015,1
-Niederwil (AG),2014,1
+Niederwil (AG),2016,1
 Niederönz,2025,1
 Niederönz,2024,1
 Niederönz,2023,1
@@ -11561,15 +11310,15 @@ Niederönz,2017,1
 Niederönz,2016,1
 Niederönz,2015,1
 Niederönz,2014,1
-Noble-Contrée,2025,3
-Noble-Contrée,2024,3
-Noble-Contrée,2023,3
-Noble-Contrée,2022,2
-Noble-Contrée,2021,2
-Noble-Contrée,2020,2
-Noble-Contrée,2019,2
-Noble-Contrée,2018,2
-Noble-Contrée,2017,2
+Noble-Contrée,2025,2
+Noble-Contrée,2024,2
+Noble-Contrée,2023,2
+Noble-Contrée,2022,1
+Noble-Contrée,2021,1
+Noble-Contrée,2020,1
+Noble-Contrée,2019,1
+Noble-Contrée,2018,1
+Noble-Contrée,2017,1
 Noble-Contrée,2016,1
 Noble-Contrée,2015,1
 Noble-Contrée,2014,1
@@ -11577,14 +11326,14 @@ Nods,2025,2
 Nods,2024,2
 Nods,2023,3
 Nods,2022,3
-Nods,2021,4
-Nods,2020,3
-Nods,2019,3
-Nods,2018,3
-Nods,2017,3
-Nods,2016,3
-Nods,2015,3
-Nods,2014,3
+Nods,2021,3
+Nods,2020,2
+Nods,2019,2
+Nods,2018,2
+Nods,2017,2
+Nods,2016,2
+Nods,2015,2
+Nods,2014,2
 Nottwil,2025,3
 Nottwil,2024,3
 Nottwil,2023,3
@@ -11614,16 +11363,16 @@ Noville,2023,2
 Noville,2022,2
 Noville,2021,2
 Noville,2020,2
-Noville,2019,3
-Noville,2018,3
-Noville,2017,3
-Noville,2016,3
+Noville,2019,2
+Noville,2018,2
+Noville,2017,2
+Noville,2016,2
 Noville,2015,2
 Noville,2014,2
 Nuglar-St. Pantaleon,2025,3
 Nuglar-St. Pantaleon,2024,3
 Nuglar-St. Pantaleon,2014,1
-Nunningen,2025,4
+Nunningen,2025,3
 Nunningen,2024,3
 Nunningen,2023,3
 Nunningen,2022,3
@@ -11635,18 +11384,18 @@ Nunningen,2017,4
 Nunningen,2016,4
 Nunningen,2015,4
 Nunningen,2014,3
-Nyon,2025,43
-Nyon,2024,42
-Nyon,2023,39
-Nyon,2022,37
-Nyon,2021,37
-Nyon,2020,37
-Nyon,2019,37
-Nyon,2018,38
-Nyon,2017,28
-Nyon,2016,22
-Nyon,2015,10
-Nyon,2014,10
+Nyon,2025,41
+Nyon,2024,40
+Nyon,2023,38
+Nyon,2022,36
+Nyon,2021,36
+Nyon,2020,36
+Nyon,2019,36
+Nyon,2018,37
+Nyon,2017,27
+Nyon,2016,20
+Nyon,2015,9
+Nyon,2014,9
 Nürensdorf,2025,2
 Nürensdorf,2024,2
 Nürensdorf,2023,2
@@ -11692,18 +11441,18 @@ Oberbuchsiten,2017,4
 Oberbuchsiten,2016,2
 Oberbuchsiten,2015,2
 Oberbuchsiten,2014,2
-Oberburg,2025,4
-Oberburg,2024,4
-Oberburg,2023,4
-Oberburg,2022,4
-Oberburg,2021,4
-Oberburg,2020,4
-Oberburg,2019,4
-Oberburg,2018,4
-Oberburg,2017,4
-Oberburg,2016,4
-Oberburg,2015,4
-Oberburg,2014,4
+Oberburg,2025,3
+Oberburg,2024,3
+Oberburg,2023,3
+Oberburg,2022,3
+Oberburg,2021,3
+Oberburg,2020,3
+Oberburg,2019,3
+Oberburg,2018,3
+Oberburg,2017,3
+Oberburg,2016,3
+Oberburg,2015,3
+Oberburg,2014,3
 Oberbüren,2025,1
 Oberdiessbach,2025,2
 Oberdiessbach,2024,3
@@ -11864,22 +11613,22 @@ Oberiberg,2023,11
 Oberiberg,2022,11
 Oberiberg,2021,11
 Oberiberg,2020,12
-Oberiberg,2019,12
-Oberiberg,2018,12
-Oberiberg,2017,11
-Oberiberg,2016,11
-Oberiberg,2015,10
-Oberiberg,2014,10
+Oberiberg,2019,11
+Oberiberg,2018,11
+Oberiberg,2017,10
+Oberiberg,2016,10
+Oberiberg,2015,9
+Oberiberg,2014,9
 Oberkirch,2025,6
 Oberkirch,2024,6
 Oberkirch,2023,6
-Oberkirch,2022,7
-Oberkirch,2021,7
-Oberkirch,2020,7
-Oberkirch,2019,7
-Oberkirch,2018,7
-Oberkirch,2017,7
-Oberkirch,2016,6
+Oberkirch,2022,6
+Oberkirch,2021,6
+Oberkirch,2020,6
+Oberkirch,2019,6
+Oberkirch,2018,6
+Oberkirch,2017,6
+Oberkirch,2016,5
 Oberkirch,2015,4
 Oberkirch,2014,4
 Oberkulm,2025,4
@@ -11919,18 +11668,18 @@ Oberlunkhofen,2016,2
 Oberlunkhofen,2015,2
 Oberlunkhofen,2014,2
 Obermumpf,2025,2
-Oberried am Brienzersee,2025,2
-Oberried am Brienzersee,2024,2
-Oberried am Brienzersee,2023,2
-Oberried am Brienzersee,2022,2
-Oberried am Brienzersee,2021,2
-Oberried am Brienzersee,2020,3
-Oberried am Brienzersee,2019,3
-Oberried am Brienzersee,2018,3
-Oberried am Brienzersee,2017,3
-Oberried am Brienzersee,2016,3
-Oberried am Brienzersee,2015,3
-Oberried am Brienzersee,2014,2
+Oberried am Brienzersee,2025,1
+Oberried am Brienzersee,2024,1
+Oberried am Brienzersee,2023,1
+Oberried am Brienzersee,2022,1
+Oberried am Brienzersee,2021,1
+Oberried am Brienzersee,2020,1
+Oberried am Brienzersee,2019,1
+Oberried am Brienzersee,2018,1
+Oberried am Brienzersee,2017,1
+Oberried am Brienzersee,2016,1
+Oberried am Brienzersee,2015,1
+Oberried am Brienzersee,2014,1
 Oberrieden,2025,5
 Oberrieden,2024,5
 Oberrieden,2023,5
@@ -11943,18 +11692,18 @@ Oberrieden,2017,3
 Oberrieden,2016,3
 Oberrieden,2015,3
 Oberrieden,2014,4
-Oberriet (SG),2025,12
-Oberriet (SG),2024,12
-Oberriet (SG),2023,12
+Oberriet (SG),2025,11
+Oberriet (SG),2024,11
+Oberriet (SG),2023,11
 Oberriet (SG),2022,11
 Oberriet (SG),2021,11
 Oberriet (SG),2020,11
 Oberriet (SG),2019,11
-Oberriet (SG),2018,11
-Oberriet (SG),2017,10
-Oberriet (SG),2016,10
-Oberriet (SG),2015,10
-Oberriet (SG),2014,10
+Oberriet (SG),2018,10
+Oberriet (SG),2017,9
+Oberriet (SG),2016,9
+Oberriet (SG),2015,9
+Oberriet (SG),2014,9
 Oberrohrdorf,2025,2
 Oberrohrdorf,2024,2
 Oberrohrdorf,2023,2
@@ -11981,8 +11730,8 @@ Obersaxen Mundaun,2022,13
 Obersaxen Mundaun,2021,13
 Obersaxen Mundaun,2020,13
 Obersaxen Mundaun,2019,9
-Obersaxen Mundaun,2018,9
-Obersaxen Mundaun,2017,9
+Obersaxen Mundaun,2018,8
+Obersaxen Mundaun,2017,8
 Obersaxen Mundaun,2016,7
 Obersaxen Mundaun,2015,8
 Obersaxen Mundaun,2014,8
@@ -12034,18 +11783,18 @@ Oberweningen,2017,1
 Oberweningen,2016,1
 Oberweningen,2015,1
 Oberweningen,2014,1
-Oberwil (BL),2025,6
-Oberwil (BL),2024,5
-Oberwil (BL),2023,5
-Oberwil (BL),2022,6
-Oberwil (BL),2021,6
-Oberwil (BL),2020,6
-Oberwil (BL),2019,6
-Oberwil (BL),2018,5
-Oberwil (BL),2017,5
-Oberwil (BL),2016,7
-Oberwil (BL),2015,7
-Oberwil (BL),2014,7
+Oberwil (BL),2025,3
+Oberwil (BL),2024,2
+Oberwil (BL),2023,2
+Oberwil (BL),2022,2
+Oberwil (BL),2021,2
+Oberwil (BL),2020,2
+Oberwil (BL),2019,2
+Oberwil (BL),2018,1
+Oberwil (BL),2017,1
+Oberwil (BL),2016,2
+Oberwil (BL),2015,2
+Oberwil (BL),2014,2
 Oberwil bei Büren,2025,1
 Oberwil bei Büren,2024,1
 Oberwil bei Büren,2023,1
@@ -12059,15 +11808,15 @@ Oberwil bei Büren,2016,5
 Oberwil bei Büren,2015,5
 Oberwil bei Büren,2014,5
 Oberwil im Simmental,2025,2
-Oberwil im Simmental,2024,3
-Oberwil im Simmental,2023,3
-Oberwil im Simmental,2022,3
-Oberwil im Simmental,2021,3
-Oberwil im Simmental,2020,3
-Oberwil im Simmental,2019,3
-Oberwil im Simmental,2018,3
-Oberwil im Simmental,2017,3
-Oberwil im Simmental,2016,3
+Oberwil im Simmental,2024,2
+Oberwil im Simmental,2023,2
+Oberwil im Simmental,2022,2
+Oberwil im Simmental,2021,2
+Oberwil im Simmental,2020,2
+Oberwil im Simmental,2019,2
+Oberwil im Simmental,2018,2
+Oberwil im Simmental,2017,2
+Oberwil im Simmental,2016,2
 Oberwil im Simmental,2015,2
 Oberwil im Simmental,2014,2
 Oberwil-Lieli,2025,2
@@ -12095,12 +11844,9 @@ Oberägeri,2016,13
 Oberägeri,2015,13
 Oberägeri,2014,12
 Obfelden,2025,1
-Obfelden,2019,1
-Obfelden,2018,1
-Obfelden,2017,1
-Obfelden,2016,2
-Obfelden,2015,2
-Obfelden,2014,2
+Obfelden,2016,1
+Obfelden,2015,1
+Obfelden,2014,1
 Ochlenberg,2025,1
 Ochlenberg,2024,1
 Ochlenberg,2023,1
@@ -12158,18 +11904,18 @@ Oftringen,2017,1
 Oftringen,2016,1
 Oftringen,2015,1
 Oftringen,2014,1
-Ollon,2025,25
-Ollon,2024,23
-Ollon,2023,23
+Ollon,2025,24
+Ollon,2024,22
+Ollon,2023,22
 Ollon,2022,19
 Ollon,2021,18
 Ollon,2020,17
-Ollon,2019,14
-Ollon,2018,14
-Ollon,2017,4
-Ollon,2016,6
-Ollon,2015,6
-Ollon,2014,6
+Ollon,2019,13
+Ollon,2018,13
+Ollon,2017,3
+Ollon,2016,3
+Ollon,2015,3
+Ollon,2014,3
 Olsberg,2025,1
 Olsberg,2024,1
 Olsberg,2023,1
@@ -12184,11 +11930,11 @@ Olsberg,2015,1
 Olsberg,2014,1
 Olten,2025,51
 Olten,2024,40
-Olten,2023,40
-Olten,2022,39
-Olten,2021,40
-Olten,2020,39
-Olten,2019,38
+Olten,2023,39
+Olten,2022,38
+Olten,2021,39
+Olten,2020,38
+Olten,2019,37
 Olten,2018,33
 Olten,2017,35
 Olten,2016,33
@@ -12223,29 +11969,28 @@ Onnens (VD),2022,1
 Onnens (VD),2021,1
 Onnens (VD),2020,1
 Onnens (VD),2019,1
-Onsernone,2025,8
-Onsernone,2024,8
-Onsernone,2023,8
-Onsernone,2022,8
-Onsernone,2021,8
-Onsernone,2020,6
-Onsernone,2019,5
-Onsernone,2018,4
-Onsernone,2017,2
-Onsernone,2016,2
-Onsernone,2015,1
+Onsernone,2025,7
+Onsernone,2024,7
+Onsernone,2023,6
+Onsernone,2022,6
+Onsernone,2021,6
+Onsernone,2020,4
+Onsernone,2019,3
+Onsernone,2018,2
+Onsernone,2017,1
+Onsernone,2016,1
 Opfikon,2025,27
-Opfikon,2024,27
-Opfikon,2023,27
-Opfikon,2022,27
-Opfikon,2021,23
-Opfikon,2020,20
-Opfikon,2019,18
-Opfikon,2018,17
-Opfikon,2017,13
-Opfikon,2016,13
-Opfikon,2015,11
-Opfikon,2014,11
+Opfikon,2024,26
+Opfikon,2023,26
+Opfikon,2022,26
+Opfikon,2021,22
+Opfikon,2020,19
+Opfikon,2019,17
+Opfikon,2018,16
+Opfikon,2017,12
+Opfikon,2016,12
+Opfikon,2015,10
+Opfikon,2014,10
 Oppligen,2024,1
 Oppligen,2023,1
 Oppligen,2022,1
@@ -12257,7 +12002,7 @@ Oppligen,2017,1
 Oppligen,2016,1
 Oppligen,2015,1
 Oppligen,2014,1
-Orbe,2025,10
+Orbe,2025,9
 Orbe,2024,10
 Orbe,2023,10
 Orbe,2022,10
@@ -12267,8 +12012,8 @@ Orbe,2019,10
 Orbe,2018,10
 Orbe,2017,10
 Orbe,2016,10
-Orbe,2015,9
-Orbe,2014,9
+Orbe,2015,3
+Orbe,2014,2
 Orges,2019,1
 Orges,2018,1
 Orges,2017,1
@@ -12285,8 +12030,6 @@ Origlio,2019,2
 Origlio,2018,2
 Origlio,2017,2
 Origlio,2016,2
-Origlio,2015,1
-Origlio,2014,1
 Ormalingen,2025,5
 Ormalingen,2024,5
 Ormalingen,2023,5
@@ -12299,26 +12042,26 @@ Ormalingen,2017,4
 Ormalingen,2016,4
 Ormalingen,2015,4
 Ormalingen,2014,4
-Ormont-Dessous,2025,6
-Ormont-Dessous,2024,5
-Ormont-Dessous,2023,4
-Ormont-Dessous,2022,4
-Ormont-Dessous,2021,4
-Ormont-Dessous,2020,5
-Ormont-Dessous,2019,4
-Ormont-Dessous,2018,4
-Ormont-Dessous,2017,4
-Ormont-Dessous,2016,5
-Ormont-Dessous,2015,5
-Ormont-Dessous,2014,4
-Ormont-Dessus,2025,10
-Ormont-Dessus,2024,10
+Ormont-Dessous,2025,5
+Ormont-Dessous,2024,4
+Ormont-Dessous,2023,3
+Ormont-Dessous,2022,3
+Ormont-Dessous,2021,3
+Ormont-Dessous,2020,4
+Ormont-Dessous,2019,3
+Ormont-Dessous,2018,3
+Ormont-Dessous,2017,3
+Ormont-Dessous,2016,3
+Ormont-Dessous,2015,3
+Ormont-Dessous,2014,2
+Ormont-Dessus,2025,9
+Ormont-Dessus,2024,9
 Ormont-Dessus,2023,9
-Ormont-Dessus,2022,9
-Ormont-Dessus,2021,9
-Ormont-Dessus,2020,9
-Ormont-Dessus,2019,8
-Ormont-Dessus,2018,8
+Ormont-Dessus,2022,8
+Ormont-Dessus,2021,8
+Ormont-Dessus,2020,8
+Ormont-Dessus,2019,7
+Ormont-Dessus,2018,7
 Ormont-Dessus,2017,8
 Ormont-Dessus,2016,7
 Ormont-Dessus,2015,7
@@ -12328,11 +12071,11 @@ Oron,2024,7
 Oron,2023,5
 Oron,2022,5
 Oron,2021,5
-Oron,2020,5
-Oron,2019,5
-Oron,2018,5
-Oron,2017,5
-Oron,2016,5
+Oron,2020,4
+Oron,2019,4
+Oron,2018,4
+Oron,2017,4
+Oron,2016,4
 Oron,2015,4
 Oron,2014,4
 Orpund,2025,4
@@ -12354,23 +12097,23 @@ Orsières,2022,15
 Orsières,2021,15
 Orsières,2020,16
 Orsières,2019,16
-Orsières,2018,16
-Orsières,2017,16
+Orsières,2018,15
+Orsières,2017,15
 Orsières,2016,15
 Orsières,2015,15
 Orsières,2014,16
 Orvin,2025,5
-Orvin,2024,5
-Orvin,2023,5
-Orvin,2022,5
-Orvin,2021,2
-Orvin,2020,2
-Orvin,2019,2
-Orvin,2018,3
-Orvin,2017,4
-Orvin,2016,4
-Orvin,2015,4
-Orvin,2014,4
+Orvin,2024,4
+Orvin,2023,4
+Orvin,2022,4
+Orvin,2021,1
+Orvin,2020,1
+Orvin,2019,1
+Orvin,2018,2
+Orvin,2017,3
+Orvin,2016,3
+Orvin,2015,3
+Orvin,2014,3
 Ossingen,2025,1
 Ossingen,2024,1
 Ossingen,2023,1
@@ -12387,8 +12130,8 @@ Ostermundigen,2025,19
 Ostermundigen,2024,17
 Ostermundigen,2023,15
 Ostermundigen,2022,15
-Ostermundigen,2021,14
-Ostermundigen,2020,15
+Ostermundigen,2021,13
+Ostermundigen,2020,14
 Ostermundigen,2019,12
 Ostermundigen,2018,13
 Ostermundigen,2017,13
@@ -12459,14 +12202,14 @@ Payerne,2024,15
 Payerne,2023,15
 Payerne,2022,10
 Payerne,2021,8
-Payerne,2020,8
-Payerne,2019,7
-Payerne,2018,7
-Payerne,2017,7
-Payerne,2016,5
-Payerne,2015,5
-Payerne,2014,5
-Penthalaz,2025,7
+Payerne,2020,7
+Payerne,2019,6
+Payerne,2018,6
+Payerne,2017,6
+Payerne,2016,4
+Payerne,2015,4
+Payerne,2014,4
+Penthalaz,2025,6
 Penthalaz,2024,8
 Penthalaz,2023,7
 Penthalaz,2022,7
@@ -12525,18 +12268,6 @@ Personico,2017,1
 Personico,2016,1
 Personico,2015,1
 Personico,2014,1
-Petit-Val,2025,1
-Petit-Val,2024,1
-Petit-Val,2023,1
-Petit-Val,2022,1
-Petit-Val,2021,1
-Petit-Val,2020,1
-Petit-Val,2019,1
-Petit-Val,2018,1
-Petit-Val,2017,1
-Petit-Val,2016,1
-Petit-Val,2015,1
-Petit-Val,2014,1
 Pfaffnau,2025,2
 Pfaffnau,2024,2
 Pfaffnau,2023,2
@@ -12609,7 +12340,7 @@ Pfäffikon,2017,17
 Pfäffikon,2016,19
 Pfäffikon,2015,18
 Pfäffikon,2014,18
-Pieterlen,2025,2
+Pieterlen,2025,1
 Pieterlen,2024,1
 Pieterlen,2023,1
 Pieterlen,2022,1
@@ -12626,7 +12357,7 @@ Plan-les-Ouates,2024,17
 Plan-les-Ouates,2023,17
 Plan-les-Ouates,2022,11
 Plan-les-Ouates,2021,11
-Plan-les-Ouates,2020,11
+Plan-les-Ouates,2020,9
 Plan-les-Ouates,2019,5
 Plan-les-Ouates,2018,5
 Plan-les-Ouates,2017,5
@@ -12665,18 +12396,18 @@ Poliez-Pittet,2023,1
 Poliez-Pittet,2022,1
 Poliez-Pittet,2021,1
 Poliez-Pittet,2020,1
-Pollegio,2025,2
-Pollegio,2024,2
-Pollegio,2023,2
-Pollegio,2022,2
-Pollegio,2021,2
-Pollegio,2020,2
-Pollegio,2019,2
-Pollegio,2018,2
-Pollegio,2017,2
-Pollegio,2016,2
-Pollegio,2015,2
-Pollegio,2014,2
+Pollegio,2025,1
+Pollegio,2024,1
+Pollegio,2023,1
+Pollegio,2022,1
+Pollegio,2021,1
+Pollegio,2020,1
+Pollegio,2019,1
+Pollegio,2018,1
+Pollegio,2017,1
+Pollegio,2016,1
+Pollegio,2015,1
+Pollegio,2014,1
 Pomy,2025,1
 Pomy,2024,1
 Pomy,2023,1
@@ -12706,10 +12437,10 @@ Ponte Capriasca,2017,1
 Ponte Capriasca,2016,1
 Ponte Capriasca,2015,1
 Pontresina,2025,21
-Pontresina,2024,17
-Pontresina,2023,13
-Pontresina,2022,11
-Pontresina,2021,10
+Pontresina,2024,16
+Pontresina,2023,11
+Pontresina,2022,9
+Pontresina,2021,9
 Pontresina,2020,9
 Pontresina,2019,9
 Pontresina,2018,9
@@ -12744,15 +12475,15 @@ Port,2014,1
 Port-Valais,2025,9
 Port-Valais,2024,8
 Port-Valais,2023,8
-Port-Valais,2022,9
-Port-Valais,2021,7
-Port-Valais,2020,7
-Port-Valais,2019,5
-Port-Valais,2018,5
-Port-Valais,2017,5
-Port-Valais,2016,5
-Port-Valais,2015,5
-Port-Valais,2014,3
+Port-Valais,2022,8
+Port-Valais,2021,6
+Port-Valais,2020,6
+Port-Valais,2019,4
+Port-Valais,2018,4
+Port-Valais,2017,4
+Port-Valais,2016,4
+Port-Valais,2015,4
+Port-Valais,2014,2
 Porza,2025,5
 Porza,2024,4
 Porza,2023,4
@@ -12768,15 +12499,15 @@ Porza,2014,2
 Poschiavo,2025,24
 Poschiavo,2024,23
 Poschiavo,2023,23
-Poschiavo,2022,21
-Poschiavo,2021,21
-Poschiavo,2020,19
-Poschiavo,2019,18
-Poschiavo,2018,13
-Poschiavo,2017,13
-Poschiavo,2016,14
-Poschiavo,2015,14
-Poschiavo,2014,14
+Poschiavo,2022,20
+Poschiavo,2021,20
+Poschiavo,2020,18
+Poschiavo,2019,17
+Poschiavo,2018,12
+Poschiavo,2017,12
+Poschiavo,2016,13
+Poschiavo,2015,13
+Poschiavo,2014,13
 Prangins,2025,3
 Prangins,2024,4
 Prangins,2023,3
@@ -12789,18 +12520,18 @@ Prangins,2017,2
 Prangins,2016,2
 Prangins,2015,2
 Prangins,2014,2
-Pratteln,2025,18
-Pratteln,2024,17
-Pratteln,2023,15
-Pratteln,2022,15
-Pratteln,2021,14
-Pratteln,2020,14
-Pratteln,2019,12
-Pratteln,2018,8
-Pratteln,2017,7
-Pratteln,2016,6
-Pratteln,2015,6
-Pratteln,2014,5
+Pratteln,2025,15
+Pratteln,2024,14
+Pratteln,2023,12
+Pratteln,2022,12
+Pratteln,2021,12
+Pratteln,2020,12
+Pratteln,2019,10
+Pratteln,2018,5
+Pratteln,2017,4
+Pratteln,2016,3
+Pratteln,2015,3
+Pratteln,2014,3
 Premier,2025,1
 Premier,2024,1
 Premier,2023,1
@@ -12873,14 +12604,14 @@ Pully,2025,15
 Pully,2024,16
 Pully,2023,16
 Pully,2022,17
-Pully,2021,17
-Pully,2020,13
-Pully,2019,9
-Pully,2018,8
-Pully,2017,7
-Pully,2016,6
-Pully,2015,6
-Pully,2014,7
+Pully,2021,16
+Pully,2020,12
+Pully,2019,8
+Pully,2018,7
+Pully,2017,6
+Pully,2016,5
+Pully,2015,5
+Pully,2014,5
 Puplinge,2025,2
 Puplinge,2024,2
 Puplinge,2023,2
@@ -12897,13 +12628,13 @@ Péry-La Heutte,2024,3
 Péry-La Heutte,2023,3
 Péry-La Heutte,2022,3
 Péry-La Heutte,2021,3
-Péry-La Heutte,2020,4
-Péry-La Heutte,2019,4
-Péry-La Heutte,2018,4
-Péry-La Heutte,2017,4
-Péry-La Heutte,2016,4
-Péry-La Heutte,2015,2
-Péry-La Heutte,2014,2
+Péry-La Heutte,2020,3
+Péry-La Heutte,2019,3
+Péry-La Heutte,2018,3
+Péry-La Heutte,2017,3
+Péry-La Heutte,2016,3
+Péry-La Heutte,2015,1
+Péry-La Heutte,2014,1
 Quarten,2025,16
 Quarten,2024,15
 Quarten,2023,14
@@ -12911,23 +12642,23 @@ Quarten,2022,13
 Quarten,2021,13
 Quarten,2020,13
 Quarten,2019,13
-Quarten,2018,15
-Quarten,2017,14
-Quarten,2016,14
-Quarten,2015,13
-Quarten,2014,13
-Quinto,2025,10
-Quinto,2024,11
-Quinto,2023,11
-Quinto,2022,11
-Quinto,2021,10
-Quinto,2020,10
-Quinto,2019,10
-Quinto,2018,11
-Quinto,2017,9
-Quinto,2016,7
-Quinto,2015,6
-Quinto,2014,6
+Quarten,2018,14
+Quarten,2017,12
+Quarten,2016,12
+Quarten,2015,11
+Quarten,2014,11
+Quinto,2025,9
+Quinto,2024,9
+Quinto,2023,9
+Quinto,2022,9
+Quinto,2021,8
+Quinto,2020,8
+Quinto,2019,8
+Quinto,2018,9
+Quinto,2017,7
+Quinto,2016,5
+Quinto,2015,4
+Quinto,2014,5
 Radelfingen,2025,1
 Radelfingen,2024,1
 Radelfingen,2023,1
@@ -13004,18 +12735,17 @@ Raperswilen,2018,2
 Raperswilen,2017,2
 Raperswilen,2016,2
 Raperswilen,2015,2
-Rapperswil (BE),2025,3
-Rapperswil (BE),2024,3
-Rapperswil (BE),2023,2
-Rapperswil (BE),2022,2
-Rapperswil (BE),2021,2
-Rapperswil (BE),2020,2
-Rapperswil (BE),2019,2
-Rapperswil (BE),2018,2
-Rapperswil (BE),2017,2
-Rapperswil (BE),2016,2
-Rapperswil (BE),2015,2
-Rapperswil (BE),2014,1
+Rapperswil (BE),2025,2
+Rapperswil (BE),2024,2
+Rapperswil (BE),2023,1
+Rapperswil (BE),2022,1
+Rapperswil (BE),2021,1
+Rapperswil (BE),2020,1
+Rapperswil (BE),2019,1
+Rapperswil (BE),2018,1
+Rapperswil (BE),2017,1
+Rapperswil (BE),2016,1
+Rapperswil (BE),2015,1
 Rapperswil-Jona,2025,53
 Rapperswil-Jona,2024,45
 Rapperswil-Jona,2023,40
@@ -13028,10 +12758,10 @@ Rapperswil-Jona,2017,45
 Rapperswil-Jona,2016,41
 Rapperswil-Jona,2015,41
 Rapperswil-Jona,2014,34
-Raron,2025,7
-Raron,2024,7
-Raron,2023,7
-Raron,2022,5
+Raron,2025,6
+Raron,2024,6
+Raron,2023,6
+Raron,2022,4
 Raron,2021,4
 Raron,2020,4
 Raron,2019,4
@@ -13128,16 +12858,16 @@ Rehetobel,2015,9
 Rehetobel,2014,9
 Reichenbach im Kandertal,2025,11
 Reichenbach im Kandertal,2024,11
-Reichenbach im Kandertal,2023,11
+Reichenbach im Kandertal,2023,10
 Reichenbach im Kandertal,2022,10
-Reichenbach im Kandertal,2021,10
-Reichenbach im Kandertal,2020,10
-Reichenbach im Kandertal,2019,10
-Reichenbach im Kandertal,2018,9
-Reichenbach im Kandertal,2017,8
-Reichenbach im Kandertal,2016,8
-Reichenbach im Kandertal,2015,8
-Reichenbach im Kandertal,2014,8
+Reichenbach im Kandertal,2021,9
+Reichenbach im Kandertal,2020,9
+Reichenbach im Kandertal,2019,9
+Reichenbach im Kandertal,2018,8
+Reichenbach im Kandertal,2017,7
+Reichenbach im Kandertal,2016,7
+Reichenbach im Kandertal,2015,7
+Reichenbach im Kandertal,2014,7
 Reichenburg,2025,5
 Reichenburg,2024,5
 Reichenburg,2023,4
@@ -13179,28 +12909,28 @@ Reinach (AG),2017,7
 Reinach (AG),2016,7
 Reinach (AG),2015,7
 Reinach (AG),2014,6
-Reinach (BL),2025,15
-Reinach (BL),2024,15
-Reinach (BL),2023,15
-Reinach (BL),2022,15
-Reinach (BL),2021,15
-Reinach (BL),2020,15
-Reinach (BL),2019,14
-Reinach (BL),2018,14
-Reinach (BL),2017,14
-Reinach (BL),2016,14
-Reinach (BL),2015,14
+Reinach (BL),2025,14
+Reinach (BL),2024,14
+Reinach (BL),2023,14
+Reinach (BL),2022,14
+Reinach (BL),2021,14
+Reinach (BL),2020,14
+Reinach (BL),2019,13
+Reinach (BL),2018,13
+Reinach (BL),2017,13
+Reinach (BL),2016,13
+Reinach (BL),2015,13
 Reinach (BL),2014,13
-Reisiswil,2025,2
-Reisiswil,2024,2
-Reisiswil,2023,2
-Reisiswil,2022,2
-Reisiswil,2021,2
-Reisiswil,2020,2
-Reisiswil,2019,2
-Reisiswil,2018,2
-Reisiswil,2017,2
-Reisiswil,2016,2
+Reisiswil,2025,1
+Reisiswil,2024,1
+Reisiswil,2023,1
+Reisiswil,2022,1
+Reisiswil,2021,1
+Reisiswil,2020,1
+Reisiswil,2019,1
+Reisiswil,2018,1
+Reisiswil,2017,1
+Reisiswil,2016,1
 Reisiswil,2015,1
 Reitnau,2025,1
 Reitnau,2024,1
@@ -13231,16 +12961,10 @@ Remigen,2015,1
 Remigen,2014,1
 Renan (BE),2025,1
 Renan (BE),2024,1
-Renan (BE),2023,1
-Renan (BE),2018,1
-Renan (BE),2017,1
-Renan (BE),2016,1
-Renan (BE),2015,1
-Renan (BE),2014,1
 Renens (VD),2025,31
 Renens (VD),2024,29
 Renens (VD),2023,28
-Renens (VD),2022,27
+Renens (VD),2022,26
 Renens (VD),2021,28
 Renens (VD),2020,28
 Renens (VD),2019,27
@@ -13281,7 +13005,7 @@ Reutigen,2016,3
 Reutigen,2015,3
 Reutigen,2014,3
 Rheinau,2025,4
-Rheinau,2024,4
+Rheinau,2024,3
 Rheinau,2023,2
 Rheinau,2022,2
 Rheinau,2021,1
@@ -13310,8 +13034,8 @@ Rheinfelden,2023,10
 Rheinfelden,2022,10
 Rheinfelden,2021,10
 Rheinfelden,2020,9
-Rheinfelden,2019,8
-Rheinfelden,2018,7
+Rheinfelden,2019,7
+Rheinfelden,2018,6
 Rheinfelden,2017,7
 Rheinfelden,2016,7
 Rheinfelden,2015,7
@@ -13400,7 +13124,7 @@ Riddes,2018,4
 Riddes,2017,4
 Riddes,2016,4
 Riddes,2015,4
-Riddes,2014,3
+Riddes,2014,2
 Ried bei Kerzers,2025,1
 Ried bei Kerzers,2024,1
 Ried bei Kerzers,2023,1
@@ -13419,10 +13143,10 @@ Ried-Brig,2017,7
 Ried-Brig,2016,7
 Ried-Brig,2015,8
 Ried-Brig,2014,9
-Riederalp,2025,9
-Riederalp,2024,9
-Riederalp,2023,8
-Riederalp,2022,6
+Riederalp,2025,8
+Riederalp,2024,8
+Riederalp,2023,7
+Riederalp,2022,5
 Riederalp,2021,5
 Riederalp,2020,5
 Riederalp,2019,3
@@ -13531,9 +13255,9 @@ Riva San Vitale,2020,4
 Riva San Vitale,2019,4
 Riva San Vitale,2018,4
 Riva San Vitale,2017,4
-Riva San Vitale,2016,5
-Riva San Vitale,2015,4
-Riva San Vitale,2014,3
+Riva San Vitale,2016,4
+Riva San Vitale,2015,3
+Riva San Vitale,2014,2
 Rivaz,2025,1
 Rivaz,2024,1
 Rivaz,2023,1
@@ -13607,10 +13331,10 @@ Roggwil (TG),2019,5
 Roggwil (TG),2018,5
 Roggwil (TG),2017,4
 Roggwil (TG),2016,4
-Roggwil (TG),2015,4
-Roggwil (TG),2014,5
+Roggwil (TG),2015,3
+Roggwil (TG),2014,4
 Rohrbach,2025,4
-Rohrbach,2024,5
+Rohrbach,2024,4
 Rohrbach,2023,4
 Rohrbach,2022,4
 Rohrbach,2021,4
@@ -13628,18 +13352,18 @@ Rohrbachgraben,2019,2
 Rohrbachgraben,2018,2
 Rohrbachgraben,2017,1
 Rohrbachgraben,2016,1
-Rolle,2025,12
-Rolle,2024,12
-Rolle,2023,12
-Rolle,2022,12
-Rolle,2021,12
-Rolle,2020,11
-Rolle,2019,11
-Rolle,2018,11
-Rolle,2017,11
-Rolle,2016,11
-Rolle,2015,11
-Rolle,2014,11
+Rolle,2025,11
+Rolle,2024,11
+Rolle,2023,11
+Rolle,2022,11
+Rolle,2021,11
+Rolle,2020,10
+Rolle,2019,10
+Rolle,2018,10
+Rolle,2017,10
+Rolle,2016,10
+Rolle,2015,10
+Rolle,2014,10
 Romainmôtier-Envy,2025,3
 Romainmôtier-Envy,2024,3
 Romainmôtier-Envy,2023,3
@@ -13673,23 +13397,16 @@ Romanshorn,2020,21
 Romanshorn,2019,20
 Romanshorn,2018,18
 Romanshorn,2017,17
-Romanshorn,2016,14
-Romanshorn,2015,13
-Romanshorn,2014,12
+Romanshorn,2016,13
+Romanshorn,2015,12
+Romanshorn,2014,11
 Romont (BE),2025,1
-Romont (BE),2024,1
-Romont (BE),2023,1
-Romont (BE),2022,1
-Romont (BE),2021,1
-Romont (BE),2020,1
-Romont (BE),2019,1
-Romont (BE),2018,1
 Romont (BE),2017,1
 Romont (BE),2016,1
 Romont (BE),2015,1
 Romont (BE),2014,1
-Romont (FR),2025,12
-Romont (FR),2024,12
+Romont (FR),2025,11
+Romont (FR),2024,11
 Romont (FR),2023,10
 Romont (FR),2022,10
 Romont (FR),2021,10
@@ -13708,18 +13425,18 @@ Romoos,2021,4
 Romoos,2020,4
 Romoos,2019,4
 Romoos,2018,4
-Romoos,2017,3
-Romoos,2016,2
-Romoos,2015,2
-Romoos,2014,2
+Romoos,2017,2
+Romoos,2016,1
+Romoos,2015,1
+Romoos,2014,1
 Ronco sopra Ascona,2025,8
 Ronco sopra Ascona,2024,9
-Ronco sopra Ascona,2023,9
-Ronco sopra Ascona,2022,9
-Ronco sopra Ascona,2021,9
-Ronco sopra Ascona,2020,9
-Ronco sopra Ascona,2019,9
-Ronco sopra Ascona,2018,6
+Ronco sopra Ascona,2023,8
+Ronco sopra Ascona,2022,8
+Ronco sopra Ascona,2021,8
+Ronco sopra Ascona,2020,8
+Ronco sopra Ascona,2019,8
+Ronco sopra Ascona,2018,5
 Ronco sopra Ascona,2017,3
 Ronco sopra Ascona,2016,2
 Ronco sopra Ascona,2015,2
@@ -13763,11 +13480,11 @@ Rorbas,2016,1
 Rorbas,2015,1
 Rorbas,2014,1
 Rorschach,2025,31
-Rorschach,2024,33
-Rorschach,2023,35
-Rorschach,2022,37
-Rorschach,2021,36
-Rorschach,2020,36
+Rorschach,2024,32
+Rorschach,2023,34
+Rorschach,2022,36
+Rorschach,2021,35
+Rorschach,2020,35
 Rorschach,2019,36
 Rorschach,2018,36
 Rorschach,2017,32
@@ -13806,11 +13523,6 @@ Rossinière,2017,3
 Rossinière,2016,4
 Rossinière,2015,4
 Rossinière,2014,4
-Rothenbrunnen,2025,1
-Rothenbrunnen,2024,1
-Rothenbrunnen,2023,1
-Rothenbrunnen,2022,1
-Rothenbrunnen,2021,1
 Rothenburg,2025,5
 Rothenburg,2024,5
 Rothenburg,2023,6
@@ -13836,17 +13548,17 @@ Rothenfluh,2016,2
 Rothenfluh,2015,2
 Rothenfluh,2014,2
 Rothenthurm,2025,7
-Rothenthurm,2024,7
-Rothenthurm,2023,7
-Rothenthurm,2022,7
-Rothenthurm,2021,6
-Rothenthurm,2020,5
-Rothenthurm,2019,5
-Rothenthurm,2018,5
-Rothenthurm,2017,5
-Rothenthurm,2016,5
-Rothenthurm,2015,3
-Rothenthurm,2014,4
+Rothenthurm,2024,6
+Rothenthurm,2023,6
+Rothenthurm,2022,6
+Rothenthurm,2021,5
+Rothenthurm,2020,4
+Rothenthurm,2019,4
+Rothenthurm,2018,3
+Rothenthurm,2017,3
+Rothenthurm,2016,3
+Rothenthurm,2015,1
+Rothenthurm,2014,2
 Rothrist,2025,10
 Rothrist,2024,11
 Rothrist,2023,11
@@ -14043,7 +13755,7 @@ Rüfenach,2017,2
 Rüfenach,2016,1
 Rüfenach,2015,1
 Rüfenach,2014,1
-Rümlang,2025,8
+Rümlang,2025,7
 Rümlang,2024,7
 Rümlang,2023,6
 Rümlang,2022,6
@@ -14087,10 +13799,10 @@ Rüti (ZH),2021,17
 Rüti (ZH),2020,16
 Rüti (ZH),2019,16
 Rüti (ZH),2018,14
-Rüti (ZH),2017,13
-Rüti (ZH),2016,12
-Rüti (ZH),2015,11
-Rüti (ZH),2014,9
+Rüti (ZH),2017,12
+Rüti (ZH),2016,11
+Rüti (ZH),2015,10
+Rüti (ZH),2014,8
 Rütschelen,2025,1
 Rütschelen,2024,1
 Rütschelen,2023,1
@@ -14113,34 +13825,27 @@ Rüttenen,2016,2
 Rüttenen,2015,2
 Rüttenen,2014,2
 S-chanf,2025,1
-S-chanf,2024,1
-S-chanf,2023,1
-S-chanf,2022,1
-S-chanf,2021,1
-Saanen,2025,24
-Saanen,2024,17
-Saanen,2023,17
-Saanen,2022,16
-Saanen,2021,13
-Saanen,2020,13
-Saanen,2019,10
-Saanen,2018,9
-Saanen,2017,7
-Saanen,2016,7
-Saanen,2015,9
-Saanen,2014,10
-Saas-Almagell,2025,10
-Saas-Almagell,2024,8
-Saas-Almagell,2023,8
-Saas-Almagell,2022,8
-Saas-Almagell,2021,8
-Saas-Almagell,2020,5
-Saas-Almagell,2019,5
-Saas-Almagell,2018,3
-Saas-Almagell,2017,2
-Saas-Almagell,2016,1
-Saas-Almagell,2015,1
-Saas-Almagell,2014,1
+Saanen,2025,22
+Saanen,2024,15
+Saanen,2023,15
+Saanen,2022,14
+Saanen,2021,11
+Saanen,2020,11
+Saanen,2019,9
+Saanen,2018,8
+Saanen,2017,6
+Saanen,2016,6
+Saanen,2015,7
+Saanen,2014,8
+Saas-Almagell,2025,9
+Saas-Almagell,2024,7
+Saas-Almagell,2023,7
+Saas-Almagell,2022,7
+Saas-Almagell,2021,7
+Saas-Almagell,2020,4
+Saas-Almagell,2019,4
+Saas-Almagell,2018,2
+Saas-Almagell,2017,1
 Saas-Balen,2025,2
 Saas-Balen,2024,3
 Saas-Balen,2023,3
@@ -14153,27 +13858,25 @@ Saas-Balen,2017,1
 Saas-Balen,2016,1
 Saas-Balen,2015,1
 Saas-Balen,2014,1
-Saas-Fee,2025,27
-Saas-Fee,2024,27
-Saas-Fee,2023,27
-Saas-Fee,2022,27
-Saas-Fee,2021,29
-Saas-Fee,2020,19
-Saas-Fee,2019,19
-Saas-Fee,2018,19
-Saas-Fee,2017,18
-Saas-Fee,2016,17
-Saas-Fee,2015,16
-Saas-Fee,2014,18
+Saas-Fee,2025,25
+Saas-Fee,2024,25
+Saas-Fee,2023,24
+Saas-Fee,2022,23
+Saas-Fee,2021,24
+Saas-Fee,2020,15
+Saas-Fee,2019,15
+Saas-Fee,2018,16
+Saas-Fee,2017,16
+Saas-Fee,2016,15
+Saas-Fee,2015,14
+Saas-Fee,2014,16
 Saas-Grund,2025,6
-Saas-Grund,2024,5
-Saas-Grund,2023,6
-Saas-Grund,2022,5
-Saas-Grund,2021,5
-Saas-Grund,2020,3
-Saas-Grund,2019,1
-Saas-Grund,2018,1
-Saas-Grund,2017,2
+Saas-Grund,2024,3
+Saas-Grund,2023,4
+Saas-Grund,2022,3
+Saas-Grund,2021,3
+Saas-Grund,2020,1
+Saas-Grund,2017,1
 Saas-Grund,2016,1
 Saas-Grund,2015,1
 Saas-Grund,2014,1
@@ -14233,19 +13936,19 @@ Saignelégier,2025,5
 Saignelégier,2024,4
 Saignelégier,2023,4
 Saignelégier,2022,5
-Saignelégier,2021,5
-Saignelégier,2020,4
-Saignelégier,2019,4
+Saignelégier,2021,4
+Saignelégier,2020,3
+Saignelégier,2019,3
 Saignelégier,2018,3
 Saignelégier,2017,3
 Saignelégier,2016,2
-Saignelégier,2015,2
-Saillon,2025,7
-Saillon,2024,8
-Saillon,2023,6
-Saillon,2022,6
-Saillon,2021,5
-Saillon,2020,5
+Saignelégier,2015,1
+Saillon,2025,6
+Saillon,2024,7
+Saillon,2023,5
+Saillon,2022,5
+Saillon,2021,4
+Saillon,2020,4
 Saillon,2019,2
 Saillon,2018,2
 Saillon,2017,2
@@ -14301,28 +14004,25 @@ Saint-Gingolph,2016,2
 Saint-Gingolph,2015,2
 Saint-Gingolph,2014,2
 Saint-Imier,2025,11
-Saint-Imier,2024,9
-Saint-Imier,2023,7
-Saint-Imier,2022,7
-Saint-Imier,2021,7
-Saint-Imier,2020,7
-Saint-Imier,2019,6
-Saint-Imier,2018,5
-Saint-Imier,2017,5
-Saint-Imier,2016,5
-Saint-Imier,2015,5
-Saint-Imier,2014,5
+Saint-Imier,2024,8
+Saint-Imier,2023,6
+Saint-Imier,2022,5
+Saint-Imier,2021,5
+Saint-Imier,2020,4
+Saint-Imier,2019,4
+Saint-Imier,2018,3
+Saint-Imier,2017,3
+Saint-Imier,2016,3
+Saint-Imier,2015,3
+Saint-Imier,2014,3
 Saint-Livres,2025,1
 Saint-Léonard,2025,7
-Saint-Léonard,2024,8
-Saint-Léonard,2023,8
-Saint-Léonard,2022,6
-Saint-Léonard,2021,6
-Saint-Léonard,2020,7
-Saint-Léonard,2019,3
-Saint-Léonard,2018,2
-Saint-Léonard,2017,2
-Saint-Léonard,2016,1
+Saint-Léonard,2024,7
+Saint-Léonard,2023,7
+Saint-Léonard,2022,5
+Saint-Léonard,2021,5
+Saint-Léonard,2020,5
+Saint-Léonard,2019,2
 Saint-Martin (FR),2025,1
 Saint-Martin (FR),2024,1
 Saint-Martin (FR),2023,1
@@ -14340,25 +14040,25 @@ Saint-Martin (VS),2024,2
 Saint-Martin (VS),2023,2
 Saint-Martin (VS),2022,2
 Saint-Martin (VS),2021,2
-Saint-Martin (VS),2020,2
-Saint-Martin (VS),2019,2
-Saint-Martin (VS),2018,2
-Saint-Martin (VS),2017,2
-Saint-Martin (VS),2016,2
-Saint-Martin (VS),2015,2
-Saint-Martin (VS),2014,2
-Saint-Maurice,2025,13
-Saint-Maurice,2024,13
-Saint-Maurice,2023,14
-Saint-Maurice,2022,14
-Saint-Maurice,2021,12
-Saint-Maurice,2020,11
-Saint-Maurice,2019,11
-Saint-Maurice,2018,11
-Saint-Maurice,2017,11
-Saint-Maurice,2016,10
-Saint-Maurice,2015,10
-Saint-Maurice,2014,9
+Saint-Martin (VS),2020,1
+Saint-Martin (VS),2019,1
+Saint-Martin (VS),2018,1
+Saint-Martin (VS),2017,1
+Saint-Martin (VS),2016,1
+Saint-Martin (VS),2015,1
+Saint-Martin (VS),2014,1
+Saint-Maurice,2025,12
+Saint-Maurice,2024,12
+Saint-Maurice,2023,13
+Saint-Maurice,2022,13
+Saint-Maurice,2021,11
+Saint-Maurice,2020,10
+Saint-Maurice,2019,10
+Saint-Maurice,2018,10
+Saint-Maurice,2017,10
+Saint-Maurice,2016,9
+Saint-Maurice,2015,9
+Saint-Maurice,2014,8
 Saint-Oyens,2025,1
 Saint-Oyens,2024,1
 Saint-Oyens,2023,1
@@ -14444,13 +14144,13 @@ Salvan,2024,6
 Salvan,2023,5
 Salvan,2022,5
 Salvan,2021,6
-Salvan,2020,7
-Salvan,2019,9
-Salvan,2018,9
-Salvan,2017,5
-Salvan,2016,5
-Salvan,2015,4
-Salvan,2014,4
+Salvan,2020,6
+Salvan,2019,8
+Salvan,2018,8
+Salvan,2017,3
+Salvan,2016,3
+Salvan,2015,2
+Salvan,2014,2
 Samedan,2025,13
 Samedan,2024,11
 Samedan,2023,10
@@ -14460,9 +14160,9 @@ Samedan,2020,6
 Samedan,2019,6
 Samedan,2018,6
 Samedan,2017,6
-Samedan,2016,6
-Samedan,2015,6
-Samedan,2014,5
+Samedan,2016,5
+Samedan,2015,5
+Samedan,2014,4
 Samnaun,2025,9
 Samnaun,2024,9
 Samnaun,2023,10
@@ -14472,9 +14172,9 @@ Samnaun,2020,10
 Samnaun,2019,10
 Samnaun,2018,10
 Samnaun,2017,9
-Samnaun,2016,10
-Samnaun,2015,10
-Samnaun,2014,9
+Samnaun,2016,9
+Samnaun,2015,9
+Samnaun,2014,8
 San Vittore,2025,3
 San Vittore,2024,3
 San Vittore,2023,3
@@ -14505,12 +14205,12 @@ Sargans,2024,8
 Sargans,2023,9
 Sargans,2022,9
 Sargans,2021,10
-Sargans,2020,12
-Sargans,2019,12
-Sargans,2018,12
-Sargans,2017,10
-Sargans,2016,5
-Sargans,2015,4
+Sargans,2020,11
+Sargans,2019,11
+Sargans,2018,11
+Sargans,2017,9
+Sargans,2016,4
+Sargans,2015,3
 Sargans,2014,2
 Sarmenstorf,2025,2
 Sarmenstorf,2024,2
@@ -14561,16 +14261,13 @@ Sattel,2016,1
 Sattel,2015,1
 Sattel,2014,1
 Saubraz,2025,1
-Sauge,2025,1
-Sauge,2024,1
-Sauge,2023,1
-Sauge,2022,2
-Sauge,2021,2
-Sauge,2020,2
-Sauge,2019,2
-Sauge,2018,3
-Sauge,2017,4
-Sauge,2016,4
+Sauge,2022,1
+Sauge,2021,1
+Sauge,2020,1
+Sauge,2019,1
+Sauge,2018,2
+Sauge,2017,3
+Sauge,2016,3
 Sauge,2015,3
 Sauge,2014,3
 Savigny,2025,3
@@ -14639,10 +14336,10 @@ Schaffhausen,2021,65
 Schaffhausen,2020,64
 Schaffhausen,2019,63
 Schaffhausen,2018,61
-Schaffhausen,2017,62
-Schaffhausen,2016,64
-Schaffhausen,2015,63
-Schaffhausen,2014,58
+Schaffhausen,2017,61
+Schaffhausen,2016,63
+Schaffhausen,2015,62
+Schaffhausen,2014,57
 Schafisheim,2025,2
 Schafisheim,2024,2
 Schafisheim,2023,2
@@ -14668,10 +14365,10 @@ Schangnau,2016,4
 Schangnau,2015,4
 Schangnau,2014,3
 Scharans,2025,1
-Schattdorf,2025,5
-Schattdorf,2024,4
-Schattdorf,2023,3
-Schattdorf,2022,2
+Schattdorf,2025,3
+Schattdorf,2024,2
+Schattdorf,2023,2
+Schattdorf,2022,1
 Schattdorf,2021,2
 Schattdorf,2020,3
 Schattdorf,2019,3
@@ -14679,7 +14376,7 @@ Schattdorf,2018,3
 Schattdorf,2017,3
 Schattdorf,2016,3
 Schattdorf,2015,3
-Schattdorf,2014,3
+Schattdorf,2014,2
 Schattenhalb,2025,4
 Schattenhalb,2024,4
 Schattenhalb,2023,4
@@ -14728,9 +14425,9 @@ Scheuren,2017,1
 Scheuren,2016,1
 Scheuren,2015,1
 Scheuren,2014,1
-Schiers,2025,5
-Schiers,2024,4
-Schiers,2023,4
+Schiers,2025,4
+Schiers,2024,3
+Schiers,2023,3
 Schiers,2022,3
 Schiers,2021,3
 Schiers,2020,3
@@ -14807,8 +14504,8 @@ Schlieren,2019,31
 Schlieren,2018,31
 Schlieren,2017,23
 Schlieren,2016,23
-Schlieren,2015,16
-Schlieren,2014,15
+Schlieren,2015,15
+Schlieren,2014,14
 Schlossrued,2025,1
 Schlossrued,2024,1
 Schlossrued,2023,1
@@ -14931,17 +14628,17 @@ Schwellbrunn,2018,2
 Schwellbrunn,2017,2
 Schwellbrunn,2016,2
 Schwellbrunn,2015,2
-Schwellbrunn,2014,3
+Schwellbrunn,2014,1
 Schwende-Rüte,2025,10
-Schwende-Rüte,2024,7
-Schwende-Rüte,2023,8
-Schwende-Rüte,2022,8
-Schwende-Rüte,2021,8
-Schwende-Rüte,2020,8
-Schwende-Rüte,2019,8
-Schwende-Rüte,2018,8
-Schwende-Rüte,2017,8
-Schwende-Rüte,2016,8
+Schwende-Rüte,2024,6
+Schwende-Rüte,2023,7
+Schwende-Rüte,2022,7
+Schwende-Rüte,2021,7
+Schwende-Rüte,2020,7
+Schwende-Rüte,2019,7
+Schwende-Rüte,2018,7
+Schwende-Rüte,2017,7
+Schwende-Rüte,2016,7
 Schwende-Rüte,2015,7
 Schwende-Rüte,2014,12
 Schwerzenbach,2025,6
@@ -14956,30 +14653,30 @@ Schwerzenbach,2017,3
 Schwerzenbach,2016,3
 Schwerzenbach,2015,3
 Schwerzenbach,2014,3
-Schwyz,2025,30
-Schwyz,2024,31
-Schwyz,2023,28
-Schwyz,2022,25
-Schwyz,2021,27
-Schwyz,2020,26
-Schwyz,2019,22
-Schwyz,2018,23
-Schwyz,2017,25
-Schwyz,2016,21
-Schwyz,2015,20
-Schwyz,2014,18
-Schänis,2025,9
-Schänis,2024,9
-Schänis,2023,9
-Schänis,2022,9
-Schänis,2021,9
-Schänis,2020,9
-Schänis,2019,9
-Schänis,2018,10
-Schänis,2017,10
-Schänis,2016,10
-Schänis,2015,10
-Schänis,2014,10
+Schwyz,2025,29
+Schwyz,2024,30
+Schwyz,2023,27
+Schwyz,2022,23
+Schwyz,2021,24
+Schwyz,2020,23
+Schwyz,2019,20
+Schwyz,2018,21
+Schwyz,2017,22
+Schwyz,2016,19
+Schwyz,2015,18
+Schwyz,2014,16
+Schänis,2025,8
+Schänis,2024,8
+Schänis,2023,8
+Schänis,2022,8
+Schänis,2021,8
+Schänis,2020,8
+Schänis,2019,8
+Schänis,2018,9
+Schänis,2017,9
+Schänis,2016,9
+Schänis,2015,9
+Schänis,2014,9
 Schöfflisdorf,2025,2
 Schöfflisdorf,2024,2
 Schöfflisdorf,2023,2
@@ -15028,10 +14725,10 @@ Schönengrund,2017,2
 Schönengrund,2016,2
 Schönengrund,2015,2
 Schönengrund,2014,2
-Schönenwerd,2025,5
-Schönenwerd,2024,6
-Schönenwerd,2023,6
-Schönenwerd,2022,6
+Schönenwerd,2025,4
+Schönenwerd,2024,5
+Schönenwerd,2023,5
+Schönenwerd,2022,5
 Schönenwerd,2021,6
 Schönenwerd,2020,6
 Schönenwerd,2019,5
@@ -15062,9 +14759,9 @@ Schötz,2014,2
 Schübelbach,2025,16
 Schübelbach,2024,15
 Schübelbach,2023,14
-Schübelbach,2022,12
-Schübelbach,2021,14
-Schübelbach,2020,14
+Schübelbach,2022,11
+Schübelbach,2021,13
+Schübelbach,2020,13
 Schübelbach,2019,9
 Schübelbach,2018,8
 Schübelbach,2017,8
@@ -15092,30 +14789,27 @@ Schüpfheim,2020,2
 Schüpfheim,2019,1
 Schüpfheim,2018,1
 Schüpfheim,2017,1
-Scuol,2025,39
-Scuol,2024,38
-Scuol,2023,39
-Scuol,2022,40
-Scuol,2021,39
-Scuol,2020,37
-Scuol,2019,37
-Scuol,2018,30
-Scuol,2017,30
-Scuol,2016,25
-Scuol,2015,27
-Scuol,2014,28
+Scuol,2025,38
+Scuol,2024,37
+Scuol,2023,38
+Scuol,2022,39
+Scuol,2021,38
+Scuol,2020,35
+Scuol,2019,33
+Scuol,2018,26
+Scuol,2017,26
+Scuol,2016,21
+Scuol,2015,22
+Scuol,2014,23
 Seeberg,2025,3
-Seeberg,2024,3
-Seeberg,2023,3
-Seeberg,2022,3
-Seeberg,2021,3
-Seeberg,2020,3
-Seeberg,2019,2
-Seeberg,2018,2
-Seeberg,2017,2
-Seeberg,2016,1
-Seeberg,2015,1
-Seeberg,2014,1
+Seeberg,2024,2
+Seeberg,2023,2
+Seeberg,2022,2
+Seeberg,2021,2
+Seeberg,2020,2
+Seeberg,2019,1
+Seeberg,2018,1
+Seeberg,2017,1
 Seedorf (BE),2025,7
 Seedorf (BE),2024,6
 Seedorf (BE),2023,6
@@ -15163,7 +14857,7 @@ Seelisberg,2018,2
 Seelisberg,2017,2
 Seelisberg,2016,2
 Seelisberg,2015,2
-Seelisberg,2014,4
+Seelisberg,2014,3
 Seengen,2025,3
 Seengen,2024,3
 Seengen,2023,3
@@ -15183,10 +14877,6 @@ Seewen,2022,2
 Seewen,2021,2
 Seewen,2020,2
 Seewen,2019,2
-Seewen,2018,2
-Seewen,2017,2
-Seewen,2016,2
-Seewen,2015,2
 Seewis im Prättigau,2025,2
 Seewis im Prättigau,2024,1
 Seewis im Prättigau,2023,1
@@ -15210,41 +14900,29 @@ Seftigen,2017,1
 Seftigen,2016,1
 Seftigen,2015,1
 Seftigen,2014,1
-Seltisberg,2025,1
-Seltisberg,2024,1
-Seltisberg,2023,1
-Seltisberg,2022,1
-Seltisberg,2021,1
-Seltisberg,2020,1
-Seltisberg,2019,1
-Seltisberg,2018,1
-Seltisberg,2017,1
-Seltisberg,2016,1
-Seltisberg,2015,1
-Seltisberg,2014,1
 Selzach,2025,7
-Selzach,2024,7
-Selzach,2023,7
-Selzach,2022,7
-Selzach,2021,7
-Selzach,2020,8
-Selzach,2019,8
-Selzach,2018,8
-Selzach,2017,7
-Selzach,2016,7
-Selzach,2015,7
+Selzach,2024,6
+Selzach,2023,6
+Selzach,2022,6
+Selzach,2021,6
+Selzach,2020,7
+Selzach,2019,7
+Selzach,2018,7
+Selzach,2017,6
+Selzach,2016,6
+Selzach,2015,6
 Selzach,2014,6
-Sembrancher,2025,3
-Sembrancher,2024,3
-Sembrancher,2023,3
-Sembrancher,2022,2
-Sembrancher,2021,2
-Sempach,2025,7
-Sempach,2024,6
-Sempach,2023,6
-Sempach,2022,6
-Sempach,2021,6
-Sempach,2020,6
+Sembrancher,2025,2
+Sembrancher,2024,2
+Sembrancher,2023,2
+Sembrancher,2022,1
+Sembrancher,2021,1
+Sempach,2025,6
+Sempach,2024,5
+Sempach,2023,5
+Sempach,2022,5
+Sempach,2021,5
+Sempach,2020,5
 Sempach,2019,6
 Sempach,2018,6
 Sempach,2017,6
@@ -15288,23 +14966,23 @@ Serravalle,2021,6
 Serravalle,2020,6
 Serravalle,2019,4
 Serravalle,2018,4
-Serravalle,2017,4
-Serravalle,2016,4
-Serravalle,2015,4
-Serravalle,2014,4
-Servion,2025,3
-Servion,2024,4
-Servion,2023,4
-Servion,2022,4
-Servion,2021,4
-Servion,2020,4
-Servion,2019,4
-Servion,2018,4
-Servion,2017,6
-Servion,2016,6
-Servion,2015,5
-Servion,2014,5
-Seuzach,2025,3
+Serravalle,2017,3
+Serravalle,2016,3
+Serravalle,2015,3
+Serravalle,2014,3
+Servion,2025,2
+Servion,2024,3
+Servion,2023,3
+Servion,2022,3
+Servion,2021,3
+Servion,2020,3
+Servion,2019,3
+Servion,2018,3
+Servion,2017,4
+Servion,2016,4
+Servion,2015,4
+Servion,2014,4
+Seuzach,2025,2
 Seuzach,2024,4
 Seuzach,2023,4
 Seuzach,2022,4
@@ -15339,17 +15017,17 @@ Siblingen,2017,2
 Siblingen,2016,2
 Siblingen,2015,2
 Siblingen,2014,2
-Sierre,2025,41
-Sierre,2024,39
+Sierre,2025,40
+Sierre,2024,38
 Sierre,2023,34
 Sierre,2022,31
-Sierre,2021,25
-Sierre,2020,23
-Sierre,2019,17
-Sierre,2018,11
-Sierre,2017,9
-Sierre,2016,9
-Sierre,2015,9
+Sierre,2021,24
+Sierre,2020,22
+Sierre,2019,16
+Sierre,2018,10
+Sierre,2017,8
+Sierre,2016,8
+Sierre,2015,8
 Sierre,2014,8
 Siglistorf,2017,1
 Siglistorf,2016,1
@@ -15365,7 +15043,7 @@ Signau,2017,3
 Signau,2016,3
 Signau,2015,3
 Signau,2014,3
-Signy-Avenex,2025,2
+Signy-Avenex,2025,1
 Sigriswil,2025,8
 Sigriswil,2024,8
 Sigriswil,2023,8
@@ -15373,9 +15051,9 @@ Sigriswil,2022,8
 Sigriswil,2021,8
 Sigriswil,2020,8
 Sigriswil,2019,7
-Sigriswil,2018,7
-Sigriswil,2017,7
-Sigriswil,2016,7
+Sigriswil,2018,6
+Sigriswil,2017,6
+Sigriswil,2016,6
 Sigriswil,2015,7
 Sigriswil,2014,7
 Silenen,2025,7
@@ -15396,7 +15074,7 @@ Sils im Domleschg,2023,2
 Sils im Domleschg,2022,2
 Sils im Domleschg,2021,2
 Sils im Domleschg,2020,2
-Sils im Engadin/Segl,2025,8
+Sils im Engadin/Segl,2025,7
 Sils im Engadin/Segl,2024,7
 Sils im Engadin/Segl,2023,7
 Sils im Engadin/Segl,2022,6
@@ -15405,9 +15083,9 @@ Sils im Engadin/Segl,2020,5
 Sils im Engadin/Segl,2019,5
 Sils im Engadin/Segl,2018,5
 Sils im Engadin/Segl,2017,4
-Sils im Engadin/Segl,2016,5
-Sils im Engadin/Segl,2015,5
-Sils im Engadin/Segl,2014,4
+Sils im Engadin/Segl,2016,4
+Sils im Engadin/Segl,2015,4
+Sils im Engadin/Segl,2014,3
 Silvaplana,2025,15
 Silvaplana,2024,12
 Silvaplana,2023,12
@@ -15444,18 +15122,18 @@ Sins,2017,2
 Sins,2016,2
 Sins,2015,2
 Sins,2014,1
-Sion,2025,107
-Sion,2024,102
-Sion,2023,101
-Sion,2022,96
-Sion,2021,70
-Sion,2020,66
-Sion,2019,59
-Sion,2018,50
-Sion,2017,45
-Sion,2016,39
-Sion,2015,25
-Sion,2014,20
+Sion,2025,101
+Sion,2024,95
+Sion,2023,94
+Sion,2022,90
+Sion,2021,62
+Sion,2020,57
+Sion,2019,53
+Sion,2018,44
+Sion,2017,38
+Sion,2016,33
+Sion,2015,20
+Sion,2014,17
 Sirnach,2025,16
 Sirnach,2024,15
 Sirnach,2023,16
@@ -15483,13 +15161,13 @@ Sisikon,2014,1
 Sissach,2025,7
 Sissach,2024,7
 Sissach,2023,8
-Sissach,2022,7
+Sissach,2022,6
 Sissach,2021,6
 Sissach,2020,6
 Sissach,2019,6
 Sissach,2018,6
-Sissach,2017,7
-Sissach,2016,7
+Sissach,2017,6
+Sissach,2016,6
 Sissach,2015,6
 Sissach,2014,5
 Sisseln,2025,1
@@ -15506,18 +15184,18 @@ Sisseln,2015,1
 Soazza,2025,2
 Soazza,2024,1
 Soazza,2023,1
-Solothurn,2025,70
-Solothurn,2024,63
-Solothurn,2023,65
-Solothurn,2022,66
-Solothurn,2021,67
-Solothurn,2020,69
-Solothurn,2019,67
-Solothurn,2018,64
-Solothurn,2017,60
+Solothurn,2025,69
+Solothurn,2024,62
+Solothurn,2023,64
+Solothurn,2022,65
+Solothurn,2021,65
+Solothurn,2020,67
+Solothurn,2019,65
+Solothurn,2018,62
+Solothurn,2017,59
 Solothurn,2016,50
-Solothurn,2015,44
-Solothurn,2014,43
+Solothurn,2015,43
+Solothurn,2014,42
 Sommeri,2025,1
 Sommeri,2024,1
 Sommeri,2023,1
@@ -15615,10 +15293,10 @@ Spiringen,2022,5
 Spiringen,2021,5
 Spiringen,2020,5
 Spiringen,2019,6
-Spiringen,2018,6
-Spiringen,2017,6
-Spiringen,2016,6
-Spiringen,2015,7
+Spiringen,2018,5
+Spiringen,2017,5
+Spiringen,2016,5
+Spiringen,2015,6
 Spiringen,2014,6
 Spreitenbach,2025,10
 Spreitenbach,2024,9
@@ -15632,42 +15310,39 @@ Spreitenbach,2017,6
 Spreitenbach,2016,6
 Spreitenbach,2015,5
 Spreitenbach,2014,3
-St. Gallen,2025,172
-St. Gallen,2024,162
-St. Gallen,2023,160
-St. Gallen,2022,155
-St. Gallen,2021,148
-St. Gallen,2020,138
-St. Gallen,2019,136
-St. Gallen,2018,130
-St. Gallen,2017,121
-St. Gallen,2016,100
-St. Gallen,2015,95
-St. Gallen,2014,88
-St. Margrethen,2025,6
-St. Margrethen,2024,5
-St. Margrethen,2023,4
-St. Margrethen,2022,3
-St. Margrethen,2021,4
-St. Margrethen,2020,4
-St. Margrethen,2019,4
-St. Margrethen,2018,3
-St. Margrethen,2017,3
-St. Margrethen,2016,2
-St. Margrethen,2015,2
-St. Margrethen,2014,2
-St. Moritz,2025,47
-St. Moritz,2024,38
-St. Moritz,2023,37
-St. Moritz,2022,35
-St. Moritz,2021,33
-St. Moritz,2020,29
-St. Moritz,2019,28
-St. Moritz,2018,20
-St. Moritz,2017,19
-St. Moritz,2016,18
-St. Moritz,2015,18
-St. Moritz,2014,18
+St. Gallen,2025,170
+St. Gallen,2024,160
+St. Gallen,2023,158
+St. Gallen,2022,153
+St. Gallen,2021,145
+St. Gallen,2020,136
+St. Gallen,2019,134
+St. Gallen,2018,128
+St. Gallen,2017,120
+St. Gallen,2016,99
+St. Gallen,2015,94
+St. Gallen,2014,86
+St. Margrethen,2025,5
+St. Margrethen,2024,4
+St. Margrethen,2023,3
+St. Margrethen,2022,2
+St. Margrethen,2021,3
+St. Margrethen,2020,3
+St. Margrethen,2019,3
+St. Margrethen,2018,2
+St. Margrethen,2017,1
+St. Moritz,2025,45
+St. Moritz,2024,36
+St. Moritz,2023,35
+St. Moritz,2022,33
+St. Moritz,2021,31
+St. Moritz,2020,27
+St. Moritz,2019,26
+St. Moritz,2018,18
+St. Moritz,2017,17
+St. Moritz,2016,17
+St. Moritz,2015,17
+St. Moritz,2014,17
 St. Niklaus,2025,2
 St. Niklaus,2024,2
 St. Niklaus,2023,2
@@ -15692,18 +15367,17 @@ St. Stephan,2017,3
 St. Stephan,2016,3
 St. Stephan,2015,3
 St. Stephan,2014,3
-Stabio,2025,6
-Stabio,2024,5
-Stabio,2023,5
-Stabio,2022,4
-Stabio,2021,4
-Stabio,2020,4
-Stabio,2019,4
-Stabio,2018,4
-Stabio,2017,4
-Stabio,2016,4
-Stabio,2015,3
-Stabio,2014,1
+Stabio,2025,5
+Stabio,2024,4
+Stabio,2023,4
+Stabio,2022,3
+Stabio,2021,3
+Stabio,2020,3
+Stabio,2019,3
+Stabio,2018,3
+Stabio,2017,3
+Stabio,2016,3
+Stabio,2015,1
 Stadel,2025,3
 Stadel,2024,3
 Stadel,2023,3
@@ -15756,25 +15430,25 @@ Stammheim,2025,5
 Stammheim,2024,5
 Stammheim,2023,5
 Stammheim,2022,5
-Stammheim,2021,5
-Stammheim,2020,4
-Stammheim,2019,3
-Stammheim,2018,3
-Stammheim,2017,3
-Stammheim,2016,3
-Stammheim,2015,3
+Stammheim,2021,4
+Stammheim,2020,3
+Stammheim,2019,2
+Stammheim,2018,2
+Stammheim,2017,2
+Stammheim,2016,2
+Stammheim,2015,2
 Stammheim,2014,2
 Stans,2025,17
 Stans,2024,20
 Stans,2023,20
 Stans,2022,21
-Stans,2021,21
-Stans,2020,18
-Stans,2019,19
-Stans,2018,20
-Stans,2017,21
-Stans,2016,21
-Stans,2015,21
+Stans,2021,20
+Stans,2020,17
+Stans,2019,18
+Stans,2018,19
+Stans,2017,20
+Stans,2016,20
+Stans,2015,20
 Stans,2014,21
 Stansstad,2025,6
 Stansstad,2024,5
@@ -15805,25 +15479,25 @@ Staufen,2024,1
 Staufen,2023,1
 Staufen,2022,1
 Staufen,2021,1
-Steckborn,2025,9
-Steckborn,2024,9
-Steckborn,2023,9
-Steckborn,2022,9
-Steckborn,2021,10
-Steckborn,2020,10
-Steckborn,2019,10
-Steckborn,2018,9
-Steckborn,2017,6
-Steckborn,2016,6
-Steckborn,2015,5
-Steckborn,2014,4
+Steckborn,2025,8
+Steckborn,2024,8
+Steckborn,2023,8
+Steckborn,2022,8
+Steckborn,2021,9
+Steckborn,2020,9
+Steckborn,2019,9
+Steckborn,2018,8
+Steckborn,2017,5
+Steckborn,2016,5
+Steckborn,2015,4
+Steckborn,2014,3
 Steffisburg,2025,15
 Steffisburg,2024,14
 Steffisburg,2023,14
 Steffisburg,2022,14
-Steffisburg,2021,13
-Steffisburg,2020,13
-Steffisburg,2019,12
+Steffisburg,2021,12
+Steffisburg,2020,12
+Steffisburg,2019,11
 Steffisburg,2018,11
 Steffisburg,2017,9
 Steffisburg,2016,8
@@ -15859,18 +15533,18 @@ Stein (AR),2017,1
 Stein (AR),2016,1
 Stein (AR),2015,1
 Stein (AR),2014,1
-Stein am Rhein,2025,16
-Stein am Rhein,2024,17
-Stein am Rhein,2023,17
-Stein am Rhein,2022,17
-Stein am Rhein,2021,17
-Stein am Rhein,2020,17
-Stein am Rhein,2019,17
-Stein am Rhein,2018,16
-Stein am Rhein,2017,16
-Stein am Rhein,2016,16
-Stein am Rhein,2015,16
-Stein am Rhein,2014,14
+Stein am Rhein,2025,15
+Stein am Rhein,2024,16
+Stein am Rhein,2023,16
+Stein am Rhein,2022,16
+Stein am Rhein,2021,16
+Stein am Rhein,2020,15
+Stein am Rhein,2019,15
+Stein am Rhein,2018,14
+Stein am Rhein,2017,14
+Stein am Rhein,2016,14
+Stein am Rhein,2015,14
+Stein am Rhein,2014,13
 Steinach,2025,4
 Steinach,2024,4
 Steinach,2023,4
@@ -15879,10 +15553,10 @@ Steinach,2021,4
 Steinach,2020,4
 Steinach,2019,4
 Steinach,2018,5
-Steinach,2017,5
-Steinach,2016,5
-Steinach,2015,5
-Steinach,2014,5
+Steinach,2017,4
+Steinach,2016,4
+Steinach,2015,4
+Steinach,2014,4
 Steinen,2025,2
 Steinen,2024,2
 Steinen,2023,2
@@ -15900,7 +15574,7 @@ Steinerberg,2015,1
 Steinerberg,2014,1
 Steinhausen,2025,8
 Steinhausen,2024,9
-Steinhausen,2023,9
+Steinhausen,2023,8
 Steinhausen,2022,8
 Steinhausen,2021,8
 Steinhausen,2020,8
@@ -15918,10 +15592,10 @@ Steinmaur,2021,4
 Steinmaur,2020,5
 Steinmaur,2019,4
 Steinmaur,2018,4
-Steinmaur,2017,4
-Steinmaur,2016,3
-Steinmaur,2015,3
-Steinmaur,2014,2
+Steinmaur,2017,2
+Steinmaur,2016,2
+Steinmaur,2015,2
+Steinmaur,2014,1
 Stetten (AG),2025,2
 Stetten (AG),2024,2
 Stetten (AG),2023,2
@@ -15939,8 +15613,8 @@ Stettlen,2024,5
 Stettlen,2023,4
 Stettlen,2022,2
 Stettlen,2021,2
-Stettlen,2020,2
-Stettlen,2019,2
+Stettlen,2020,1
+Stettlen,2019,1
 Stettlen,2018,1
 Stettlen,2017,1
 Stettlen,2016,1
@@ -15969,7 +15643,7 @@ Strengelbach,2017,1
 Strengelbach,2016,1
 Strengelbach,2015,1
 Strengelbach,2014,1
-Studen (BE),2025,5
+Studen (BE),2025,4
 Studen (BE),2024,4
 Studen (BE),2023,4
 Studen (BE),2022,4
@@ -16033,14 +15707,14 @@ Sumiswald,2025,12
 Sumiswald,2024,14
 Sumiswald,2023,14
 Sumiswald,2022,15
-Sumiswald,2021,15
-Sumiswald,2020,15
+Sumiswald,2021,14
+Sumiswald,2020,14
 Sumiswald,2019,11
 Sumiswald,2018,11
-Sumiswald,2017,10
-Sumiswald,2016,10
-Sumiswald,2015,10
-Sumiswald,2014,11
+Sumiswald,2017,9
+Sumiswald,2016,9
+Sumiswald,2015,9
+Sumiswald,2014,10
 Sumvitg,2025,4
 Sumvitg,2024,3
 Sumvitg,2023,3
@@ -16074,11 +15748,11 @@ Sursee,2014,18
 Surses,2025,12
 Surses,2024,12
 Surses,2023,12
-Surses,2022,12
-Surses,2021,11
-Surses,2020,9
-Surses,2019,9
-Surses,2018,9
+Surses,2022,11
+Surses,2021,10
+Surses,2020,8
+Surses,2019,8
+Surses,2018,8
 Surses,2017,5
 Surses,2016,5
 Surses,2015,5
@@ -16127,8 +15801,8 @@ Tamins,2019,1
 Tamins,2018,1
 Tamins,2017,1
 Tamins,2016,1
-Tamins,2015,2
-Tamins,2014,2
+Tamins,2015,1
+Tamins,2014,1
 Tannay,2025,2
 Tannay,2024,2
 Tannay,2023,2
@@ -16163,7 +15837,7 @@ Tecknau,2017,2
 Tecknau,2016,2
 Tecknau,2015,2
 Tecknau,2014,2
-Tenero-Contra,2025,10
+Tenero-Contra,2025,9
 Tenero-Contra,2024,8
 Tenero-Contra,2023,7
 Tenero-Contra,2022,7
@@ -16171,7 +15845,7 @@ Tenero-Contra,2021,7
 Tenero-Contra,2020,7
 Tenero-Contra,2019,2
 Tenero-Contra,2018,1
-Tenero-Contra,2017,2
+Tenero-Contra,2017,1
 Tenero-Contra,2016,1
 Tenero-Contra,2015,1
 Tenniken,2025,1
@@ -16234,28 +15908,28 @@ Teufenthal (AG),2017,3
 Teufenthal (AG),2016,3
 Teufenthal (AG),2015,3
 Teufenthal (AG),2014,3
-Thal,2025,17
-Thal,2024,18
-Thal,2023,18
-Thal,2022,18
-Thal,2021,18
-Thal,2020,21
-Thal,2019,21
-Thal,2018,21
-Thal,2017,21
-Thal,2016,21
-Thal,2015,21
-Thal,2014,15
+Thal,2025,16
+Thal,2024,17
+Thal,2023,17
+Thal,2022,17
+Thal,2021,17
+Thal,2020,20
+Thal,2019,20
+Thal,2018,20
+Thal,2017,20
+Thal,2016,20
+Thal,2015,20
+Thal,2014,14
 Thalheim (AG),2025,2
 Thalheim (AG),2024,2
 Thalheim (AG),2023,2
 Thalheim (AG),2022,1
 Thalheim (AG),2021,1
 Thalheim (AG),2020,1
-Thalheim (AG),2019,2
-Thalheim (AG),2018,2
-Thalheim (AG),2017,2
-Thalheim (AG),2016,2
+Thalheim (AG),2019,1
+Thalheim (AG),2018,1
+Thalheim (AG),2017,1
+Thalheim (AG),2016,1
 Thalheim an der Thur,2025,3
 Thalheim an der Thur,2024,4
 Thalheim an der Thur,2023,4
@@ -16285,25 +15959,25 @@ Thayngen,2024,3
 Thayngen,2023,1
 Thayngen,2022,1
 Thayngen,2021,2
-Thayngen,2020,3
-Thayngen,2019,4
-Thayngen,2018,4
-Thayngen,2017,4
-Thayngen,2016,4
-Thayngen,2015,4
-Thayngen,2014,5
-Therwil,2025,5
-Therwil,2024,5
-Therwil,2023,5
-Therwil,2022,5
-Therwil,2021,5
-Therwil,2020,5
-Therwil,2019,5
-Therwil,2018,5
-Therwil,2017,5
-Therwil,2016,5
-Therwil,2015,5
-Therwil,2014,6
+Thayngen,2020,2
+Thayngen,2019,3
+Thayngen,2018,3
+Thayngen,2017,3
+Thayngen,2016,3
+Thayngen,2015,3
+Thayngen,2014,4
+Therwil,2025,4
+Therwil,2024,4
+Therwil,2023,4
+Therwil,2022,4
+Therwil,2021,4
+Therwil,2020,4
+Therwil,2019,4
+Therwil,2018,4
+Therwil,2017,4
+Therwil,2016,4
+Therwil,2015,4
+Therwil,2014,5
 Thierachern,2025,3
 Thierachern,2024,3
 Thierachern,2023,3
@@ -16322,11 +15996,11 @@ Thun,2023,71
 Thun,2022,71
 Thun,2021,63
 Thun,2020,60
-Thun,2019,57
-Thun,2018,60
-Thun,2017,58
-Thun,2016,54
-Thun,2015,43
+Thun,2019,56
+Thun,2018,59
+Thun,2017,57
+Thun,2016,53
+Thun,2015,42
 Thun,2014,44
 Thundorf,2025,2
 Thundorf,2024,2
@@ -16369,8 +16043,8 @@ Thusis,2023,7
 Thusis,2022,6
 Thusis,2021,6
 Thusis,2020,6
-Thusis,2019,5
-Thusis,2018,5
+Thusis,2019,4
+Thusis,2018,4
 Thusis,2017,4
 Thusis,2016,4
 Thusis,2015,3
@@ -16442,10 +16116,6 @@ Tramelan,2021,1
 Tramelan,2020,1
 Tramelan,2019,1
 Tramelan,2018,1
-Tramelan,2017,1
-Tramelan,2016,1
-Tramelan,2015,1
-Tramelan,2014,1
 Trasadingen,2025,1
 Trasadingen,2024,1
 Trasadingen,2023,1
@@ -16523,16 +16193,16 @@ Triengen,2017,4
 Triengen,2016,2
 Triengen,2015,1
 Triengen,2014,1
-Trient,2025,3
-Trient,2024,2
-Trient,2023,2
-Trient,2022,2
-Trient,2021,2
-Trient,2020,2
-Trient,2019,2
-Trient,2018,2
-Trient,2017,2
-Trient,2016,2
+Trient,2025,2
+Trient,2024,1
+Trient,2023,1
+Trient,2022,1
+Trient,2021,1
+Trient,2020,1
+Trient,2019,1
+Trient,2018,1
+Trient,2017,1
+Trient,2016,1
 Trient,2015,1
 Trient,2014,1
 Trimbach,2025,11
@@ -16595,7 +16265,7 @@ Troinex,2017,2
 Troinex,2016,2
 Troinex,2015,2
 Troinex,2014,2
-Troistorrents,2025,6
+Troistorrents,2025,4
 Troistorrents,2024,2
 Troistorrents,2023,2
 Troistorrents,2022,2
@@ -16739,8 +16409,8 @@ Twann-Tüscherz,2022,10
 Twann-Tüscherz,2021,10
 Twann-Tüscherz,2020,11
 Twann-Tüscherz,2019,10
-Twann-Tüscherz,2018,9
-Twann-Tüscherz,2017,7
+Twann-Tüscherz,2018,8
+Twann-Tüscherz,2017,6
 Twann-Tüscherz,2016,5
 Twann-Tüscherz,2015,5
 Twann-Tüscherz,2014,3
@@ -16929,9 +16599,9 @@ Unteriberg,2015,6
 Unteriberg,2014,6
 Unterkulm,2025,4
 Unterkulm,2024,4
-Unterkulm,2023,3
-Unterkulm,2022,3
-Unterkulm,2021,3
+Unterkulm,2023,2
+Unterkulm,2022,2
+Unterkulm,2021,2
 Unterkulm,2020,3
 Unterkulm,2019,3
 Unterkulm,2018,2
@@ -16957,9 +16627,9 @@ Unterlunkhofen,2020,2
 Unterlunkhofen,2019,2
 Unterlunkhofen,2018,2
 Unterlunkhofen,2017,2
-Unterlunkhofen,2016,3
-Unterlunkhofen,2015,3
-Unterlunkhofen,2014,3
+Unterlunkhofen,2016,2
+Unterlunkhofen,2015,2
+Unterlunkhofen,2014,2
 Unterramsern,2025,1
 Unterramsern,2024,1
 Unterramsern,2023,1
@@ -16970,24 +16640,24 @@ Unterramsern,2019,1
 Unterramsern,2018,1
 Unterramsern,2017,1
 Unterschächen,2025,4
-Unterschächen,2024,4
-Unterschächen,2023,4
-Unterschächen,2022,3
-Unterschächen,2021,3
-Unterschächen,2020,3
-Unterschächen,2019,4
-Unterschächen,2018,3
-Unterschächen,2017,3
-Unterschächen,2016,3
-Unterschächen,2015,3
-Unterschächen,2014,3
-Unterseen,2025,12
-Unterseen,2024,12
-Unterseen,2023,13
-Unterseen,2022,9
-Unterseen,2021,8
-Unterseen,2020,8
-Unterseen,2019,7
+Unterschächen,2024,3
+Unterschächen,2023,3
+Unterschächen,2022,2
+Unterschächen,2021,2
+Unterschächen,2020,2
+Unterschächen,2019,3
+Unterschächen,2018,2
+Unterschächen,2017,2
+Unterschächen,2016,2
+Unterschächen,2015,2
+Unterschächen,2014,2
+Unterseen,2025,11
+Unterseen,2024,11
+Unterseen,2023,12
+Unterseen,2022,8
+Unterseen,2021,7
+Unterseen,2020,7
+Unterseen,2019,6
 Unterseen,2018,5
 Unterseen,2017,5
 Unterseen,2016,5
@@ -17023,18 +16693,18 @@ Unterägeri,2020,11
 Unterägeri,2019,11
 Unterägeri,2018,11
 Unterägeri,2017,11
-Unterägeri,2016,11
-Unterägeri,2015,10
-Unterägeri,2014,10
+Unterägeri,2016,10
+Unterägeri,2015,9
+Unterägeri,2014,9
 Urdorf,2025,5
 Urdorf,2024,7
 Urdorf,2023,7
-Urdorf,2022,7
-Urdorf,2021,7
-Urdorf,2020,7
-Urdorf,2019,7
-Urdorf,2018,9
-Urdorf,2017,9
+Urdorf,2022,6
+Urdorf,2021,6
+Urdorf,2020,6
+Urdorf,2019,6
+Urdorf,2018,8
+Urdorf,2017,8
 Urdorf,2016,8
 Urdorf,2015,3
 Urdorf,2014,3
@@ -17062,11 +16732,11 @@ Ursy,2022,1
 Ursy,2021,1
 Ursy,2020,1
 Ursy,2019,1
-Ursy,2018,2
-Ursy,2017,2
-Ursy,2016,2
-Ursy,2015,2
-Ursy,2014,2
+Ursy,2018,1
+Ursy,2017,1
+Ursy,2016,1
+Ursy,2015,1
+Ursy,2014,1
 Urtenen-Schönbühl,2025,3
 Urtenen-Schönbühl,2024,3
 Urtenen-Schönbühl,2023,3
@@ -17107,10 +16777,10 @@ Uttwil,2014,2
 Utzenstorf,2025,6
 Utzenstorf,2024,6
 Utzenstorf,2023,7
-Utzenstorf,2022,7
-Utzenstorf,2021,7
-Utzenstorf,2020,6
-Utzenstorf,2019,5
+Utzenstorf,2022,6
+Utzenstorf,2021,6
+Utzenstorf,2020,5
+Utzenstorf,2019,4
 Utzenstorf,2018,2
 Utzenstorf,2017,3
 Utzenstorf,2016,2
@@ -17128,16 +16798,16 @@ Uznach,2017,7
 Uznach,2016,6
 Uznach,2015,6
 Uznach,2014,7
-Uzwil,2025,11
-Uzwil,2024,10
-Uzwil,2023,11
-Uzwil,2022,11
-Uzwil,2021,11
-Uzwil,2020,11
-Uzwil,2019,11
-Uzwil,2018,10
-Uzwil,2017,12
-Uzwil,2016,9
+Uzwil,2025,10
+Uzwil,2024,9
+Uzwil,2023,10
+Uzwil,2022,10
+Uzwil,2021,10
+Uzwil,2020,10
+Uzwil,2019,10
+Uzwil,2018,9
+Uzwil,2017,11
+Uzwil,2016,8
 Uzwil,2015,8
 Uzwil,2014,8
 Vacallo,2025,3
@@ -17162,8 +16832,8 @@ Val Mara,2019,6
 Val Mara,2018,6
 Val Mara,2017,6
 Val Mara,2016,6
-Val Mara,2015,5
-Val Mara,2014,5
+Val Mara,2015,4
+Val Mara,2014,4
 Val Müstair,2025,4
 Val Müstair,2024,7
 Val Müstair,2023,7
@@ -17175,19 +16845,19 @@ Val Müstair,2018,6
 Val Müstair,2017,6
 Val Müstair,2016,5
 Val Müstair,2015,5
-Val Müstair,2014,5
-Val Terbi,2025,3
-Val Terbi,2024,4
-Val Terbi,2023,4
-Val Terbi,2022,4
-Val Terbi,2021,3
-Val Terbi,2020,3
-Val Terbi,2019,3
-Val Terbi,2018,2
-Val Terbi,2017,2
-Val Terbi,2016,2
-Val Terbi,2015,2
-Val Terbi,2014,2
+Val Müstair,2014,4
+Val Terbi,2025,2
+Val Terbi,2024,3
+Val Terbi,2023,3
+Val Terbi,2022,3
+Val Terbi,2021,2
+Val Terbi,2020,2
+Val Terbi,2019,2
+Val Terbi,2018,1
+Val Terbi,2017,1
+Val Terbi,2016,1
+Val Terbi,2015,1
+Val Terbi,2014,1
 Val de Bagnes,2025,62
 Val de Bagnes,2024,61
 Val de Bagnes,2023,59
@@ -17197,21 +16867,21 @@ Val de Bagnes,2020,55
 Val de Bagnes,2019,56
 Val de Bagnes,2018,56
 Val de Bagnes,2017,56
-Val de Bagnes,2016,57
-Val de Bagnes,2015,56
-Val de Bagnes,2014,56
-Val-d'Illiez,2025,8
-Val-d'Illiez,2024,8
-Val-d'Illiez,2023,8
-Val-d'Illiez,2022,8
-Val-d'Illiez,2021,8
-Val-d'Illiez,2020,10
-Val-d'Illiez,2019,10
-Val-d'Illiez,2018,10
-Val-d'Illiez,2017,10
-Val-d'Illiez,2016,10
-Val-d'Illiez,2015,10
-Val-d'Illiez,2014,10
+Val de Bagnes,2016,56
+Val de Bagnes,2015,55
+Val de Bagnes,2014,54
+Val-d'Illiez,2025,7
+Val-d'Illiez,2024,7
+Val-d'Illiez,2023,7
+Val-d'Illiez,2022,7
+Val-d'Illiez,2021,7
+Val-d'Illiez,2020,9
+Val-d'Illiez,2019,9
+Val-d'Illiez,2018,9
+Val-d'Illiez,2017,9
+Val-d'Illiez,2016,9
+Val-d'Illiez,2015,9
+Val-d'Illiez,2014,9
 Val-de-Charmey,2025,7
 Val-de-Charmey,2024,6
 Val-de-Charmey,2023,5
@@ -17226,16 +16896,16 @@ Val-de-Charmey,2015,1
 Val-de-Charmey,2014,3
 Val-de-Ruz,2025,18
 Val-de-Ruz,2024,18
-Val-de-Ruz,2023,18
-Val-de-Ruz,2022,17
-Val-de-Ruz,2021,13
-Val-de-Ruz,2020,12
-Val-de-Ruz,2019,13
-Val-de-Ruz,2018,13
-Val-de-Ruz,2017,14
-Val-de-Ruz,2016,12
-Val-de-Ruz,2015,11
-Val-de-Ruz,2014,10
+Val-de-Ruz,2023,17
+Val-de-Ruz,2022,16
+Val-de-Ruz,2021,12
+Val-de-Ruz,2020,10
+Val-de-Ruz,2019,11
+Val-de-Ruz,2018,11
+Val-de-Ruz,2017,12
+Val-de-Ruz,2016,10
+Val-de-Ruz,2015,9
+Val-de-Ruz,2014,8
 Val-de-Travers,2025,10
 Val-de-Travers,2024,10
 Val-de-Travers,2023,9
@@ -17243,11 +16913,11 @@ Val-de-Travers,2022,7
 Val-de-Travers,2021,7
 Val-de-Travers,2020,6
 Val-de-Travers,2019,6
-Val-de-Travers,2018,5
-Val-de-Travers,2017,6
-Val-de-Travers,2016,5
-Val-de-Travers,2015,3
-Val-de-Travers,2014,2
+Val-de-Travers,2018,4
+Val-de-Travers,2017,4
+Val-de-Travers,2016,3
+Val-de-Travers,2015,1
+Val-de-Travers,2014,1
 Valbirse,2025,3
 Valbirse,2024,2
 Valbirse,2023,2
@@ -17281,7 +16951,7 @@ Valeyres-sous-Rances,2020,1
 Valeyres-sous-Rances,2019,1
 Valeyres-sous-Rances,2018,1
 Valeyres-sous-Rances,2017,1
-Vallorbe,2025,9
+Vallorbe,2025,8
 Vallorbe,2024,8
 Vallorbe,2023,8
 Vallorbe,2022,6
@@ -17291,27 +16961,27 @@ Vallorbe,2019,3
 Vallorbe,2018,3
 Vallorbe,2017,3
 Vallorbe,2016,3
-Vallorbe,2015,3
-Vallorbe,2014,5
+Vallorbe,2015,2
+Vallorbe,2014,4
 Vals,2025,14
 Vals,2024,15
 Vals,2023,16
 Vals,2022,16
 Vals,2021,15
-Vals,2020,14
-Vals,2019,13
-Vals,2018,13
-Vals,2017,13
-Vals,2016,13
-Vals,2015,13
-Vals,2014,13
+Vals,2020,13
+Vals,2019,12
+Vals,2018,12
+Vals,2017,12
+Vals,2016,12
+Vals,2015,12
+Vals,2014,12
 Valsot,2025,3
 Valsot,2024,4
 Valsot,2023,4
 Valsot,2022,4
 Valsot,2021,3
 Valsot,2020,4
-Valsot,2019,5
+Valsot,2019,4
 Valsot,2018,4
 Valsot,2017,5
 Valsot,2016,5
@@ -17339,8 +17009,8 @@ Vaulion,2019,2
 Vaulion,2018,2
 Vaulion,2017,2
 Vaulion,2016,2
-Vaulion,2015,3
-Vaulion,2014,3
+Vaulion,2015,2
+Vaulion,2014,1
 Vaulruz,2025,3
 Vaulruz,2024,3
 Vaulruz,2023,3
@@ -17354,37 +17024,33 @@ Vaulruz,2016,3
 Vaulruz,2015,3
 Vaulruz,2014,3
 Vaz/Obervaz,2025,33
-Vaz/Obervaz,2024,27
-Vaz/Obervaz,2023,25
-Vaz/Obervaz,2022,23
-Vaz/Obervaz,2021,22
-Vaz/Obervaz,2020,23
-Vaz/Obervaz,2019,21
-Vaz/Obervaz,2018,15
-Vaz/Obervaz,2017,13
-Vaz/Obervaz,2016,13
-Vaz/Obervaz,2015,13
-Vaz/Obervaz,2014,13
+Vaz/Obervaz,2024,25
+Vaz/Obervaz,2023,24
+Vaz/Obervaz,2022,22
+Vaz/Obervaz,2021,21
+Vaz/Obervaz,2020,22
+Vaz/Obervaz,2019,20
+Vaz/Obervaz,2018,14
+Vaz/Obervaz,2017,12
+Vaz/Obervaz,2016,12
+Vaz/Obervaz,2015,12
+Vaz/Obervaz,2014,12
 Vechigen,2025,3
 Vechigen,2024,4
-Vechigen,2023,4
-Vechigen,2022,4
-Vechigen,2021,4
-Vechigen,2020,4
-Vechigen,2019,4
-Vechigen,2018,5
-Vechigen,2017,3
+Vechigen,2023,3
+Vechigen,2022,3
+Vechigen,2021,3
+Vechigen,2020,3
+Vechigen,2019,3
+Vechigen,2018,4
+Vechigen,2017,2
 Vechigen,2016,2
 Vechigen,2015,1
-Vechigen,2014,1
 Veltheim (AG),2025,1
 Veltheim (AG),2024,1
 Veltheim (AG),2023,1
 Veltheim (AG),2022,1
 Veltheim (AG),2021,1
-Veltheim (AG),2016,1
-Veltheim (AG),2015,1
-Veltheim (AG),2014,1
 Vendlincourt,2025,1
 Vendlincourt,2024,1
 Vendlincourt,2023,1
@@ -17406,7 +17072,7 @@ Vernayaz,2014,1
 Vernier,2025,26
 Vernier,2024,19
 Vernier,2023,18
-Vernier,2022,18
+Vernier,2022,17
 Vernier,2021,17
 Vernier,2020,18
 Vernier,2019,18
@@ -17415,54 +17081,53 @@ Vernier,2017,17
 Vernier,2016,17
 Vernier,2015,15
 Vernier,2014,15
-Versoix,2025,14
-Versoix,2024,15
-Versoix,2023,15
-Versoix,2022,15
-Versoix,2021,12
-Versoix,2020,8
-Versoix,2019,4
-Versoix,2018,4
-Versoix,2017,4
-Versoix,2016,4
-Versoix,2015,3
-Versoix,2014,2
+Versoix,2025,12
+Versoix,2024,12
+Versoix,2023,12
+Versoix,2022,12
+Versoix,2021,8
+Versoix,2020,4
+Versoix,2019,3
+Versoix,2018,3
+Versoix,2017,3
+Versoix,2016,3
+Versoix,2015,1
 Verzasca,2025,10
 Verzasca,2024,11
-Verzasca,2023,11
-Verzasca,2022,13
+Verzasca,2023,10
+Verzasca,2022,12
 Verzasca,2021,12
-Verzasca,2020,12
-Verzasca,2019,10
-Verzasca,2018,9
-Verzasca,2017,7
-Verzasca,2016,7
-Verzasca,2015,7
-Verzasca,2014,9
-Vevey,2025,71
+Verzasca,2020,11
+Verzasca,2019,9
+Verzasca,2018,7
+Verzasca,2017,6
+Verzasca,2016,6
+Verzasca,2015,6
+Verzasca,2014,8
+Vevey,2025,70
 Vevey,2024,66
-Vevey,2023,66
+Vevey,2023,65
 Vevey,2022,62
 Vevey,2021,61
-Vevey,2020,34
-Vevey,2019,26
+Vevey,2020,32
+Vevey,2019,24
 Vevey,2018,19
 Vevey,2017,19
 Vevey,2016,17
 Vevey,2015,15
 Vevey,2014,15
-Vex,2025,12
-Vex,2024,11
-Vex,2023,11
-Vex,2022,11
-Vex,2021,11
-Vex,2020,10
-Vex,2019,10
-Vex,2018,10
-Vex,2017,7
-Vex,2016,7
-Vex,2015,8
-Vex,2014,8
+Vex,2025,11
+Vex,2024,9
+Vex,2023,9
+Vex,2022,8
+Vex,2021,8
+Vex,2020,7
+Vex,2019,7
+Vex,2018,7
+Vex,2017,4
+Vex,2016,4
+Vex,2015,5
+Vex,2014,5
 Veyrier,2025,7
 Veyrier,2024,8
 Veyrier,2023,8
@@ -17475,22 +17140,22 @@ Veyrier,2017,7
 Veyrier,2016,7
 Veyrier,2015,7
 Veyrier,2014,7
-Veysonnaz,2025,4
-Veysonnaz,2024,4
-Veysonnaz,2023,4
-Veysonnaz,2022,4
-Veysonnaz,2021,4
-Veysonnaz,2020,4
-Veysonnaz,2019,4
-Veysonnaz,2018,4
-Veysonnaz,2017,4
+Veysonnaz,2025,3
+Veysonnaz,2024,3
+Veysonnaz,2023,3
+Veysonnaz,2022,3
+Veysonnaz,2021,3
+Veysonnaz,2020,2
+Veysonnaz,2019,2
+Veysonnaz,2018,2
+Veysonnaz,2017,2
 Veytaux,2025,5
 Veytaux,2024,5
 Veytaux,2023,5
-Veytaux,2022,5
-Veytaux,2021,5
-Veytaux,2020,5
-Veytaux,2019,5
+Veytaux,2022,4
+Veytaux,2021,4
+Veytaux,2020,4
+Veytaux,2019,4
 Veytaux,2018,3
 Veytaux,2017,3
 Veytaux,2016,3
@@ -17528,9 +17193,6 @@ Villars-Sainte-Croix,2020,1
 Villars-Sainte-Croix,2019,1
 Villars-Sainte-Croix,2018,1
 Villars-Sainte-Croix,2017,1
-Villars-Sainte-Croix,2016,1
-Villars-Sainte-Croix,2015,1
-Villars-Sainte-Croix,2014,1
 Villars-le-Terroir,2025,2
 Villars-le-Terroir,2024,2
 Villars-le-Terroir,2023,2
@@ -17612,9 +17274,9 @@ Villmergen,2020,8
 Villmergen,2019,8
 Villmergen,2018,8
 Villmergen,2017,9
-Villmergen,2016,4
-Villmergen,2015,3
-Villmergen,2014,3
+Villmergen,2016,3
+Villmergen,2015,2
+Villmergen,2014,2
 Villnachern,2025,1
 Villnachern,2024,1
 Villnachern,2023,1
@@ -17641,10 +17303,10 @@ Villorsonnens,2015,2
 Villorsonnens,2014,2
 Vilters-Wangs,2025,6
 Vilters-Wangs,2024,6
-Vilters-Wangs,2023,7
-Vilters-Wangs,2022,7
-Vilters-Wangs,2021,8
-Vilters-Wangs,2020,7
+Vilters-Wangs,2023,6
+Vilters-Wangs,2022,6
+Vilters-Wangs,2021,7
+Vilters-Wangs,2020,6
 Vilters-Wangs,2019,5
 Vilters-Wangs,2018,6
 Vilters-Wangs,2017,6
@@ -17670,23 +17332,23 @@ Vinzel,2022,1
 Vinzel,2021,1
 Vinzel,2020,1
 Vinzel,2019,1
-Vionnaz,2025,10
-Vionnaz,2024,10
-Vionnaz,2023,10
-Vionnaz,2022,9
-Vionnaz,2021,7
-Vionnaz,2020,7
-Vionnaz,2019,8
-Vionnaz,2018,8
-Vionnaz,2017,8
-Vionnaz,2016,6
-Vionnaz,2015,6
-Vionnaz,2014,6
-Visp,2025,16
-Visp,2024,13
-Visp,2023,11
-Visp,2022,11
-Visp,2021,11
+Vionnaz,2025,9
+Vionnaz,2024,9
+Vionnaz,2023,9
+Vionnaz,2022,8
+Vionnaz,2021,6
+Vionnaz,2020,6
+Vionnaz,2019,7
+Vionnaz,2018,7
+Vionnaz,2017,6
+Vionnaz,2016,4
+Vionnaz,2015,4
+Vionnaz,2014,4
+Visp,2025,15
+Visp,2024,12
+Visp,2023,10
+Visp,2022,10
+Visp,2021,10
 Visp,2020,9
 Visp,2019,9
 Visp,2018,8
@@ -17712,10 +17374,10 @@ Volken,2023,1
 Volken,2022,1
 Volken,2021,1
 Volken,2020,1
-Volketswil,2025,7
-Volketswil,2024,4
-Volketswil,2023,5
-Volketswil,2022,5
+Volketswil,2025,6
+Volketswil,2024,3
+Volketswil,2023,4
+Volketswil,2022,4
 Volketswil,2021,5
 Volketswil,2020,3
 Volketswil,2019,4
@@ -17770,14 +17432,6 @@ Vuarrens,2025,1
 Vuarrens,2024,1
 Vuarrens,2023,1
 Vuarrens,2022,1
-Vuarrens,2021,1
-Vuarrens,2020,1
-Vuarrens,2019,1
-Vuarrens,2018,1
-Vuarrens,2017,1
-Vuarrens,2016,1
-Vuarrens,2015,1
-Vuarrens,2014,1
 Vucherens,2025,1
 Vucherens,2024,1
 Vucherens,2023,1
@@ -17808,8 +17462,8 @@ Vugelles-La Mothe,2017,1
 Vugelles-La Mothe,2016,1
 Vugelles-La Mothe,2015,1
 Vugelles-La Mothe,2014,1
-Vuisternens-devant-Romont,2025,3
-Vuisternens-devant-Romont,2024,3
+Vuisternens-devant-Romont,2025,2
+Vuisternens-devant-Romont,2024,2
 Vuisternens-devant-Romont,2023,2
 Vuisternens-devant-Romont,2022,1
 Vuisternens-devant-Romont,2021,1
@@ -17823,8 +17477,6 @@ Vuisternens-devant-Romont,2014,1
 Vuiteboeuf,2025,1
 Vuiteboeuf,2024,1
 Vuiteboeuf,2023,1
-Vuiteboeuf,2015,1
-Vuiteboeuf,2014,1
 Vully-les-Lacs,2025,10
 Vully-les-Lacs,2024,10
 Vully-les-Lacs,2023,10
@@ -17834,7 +17486,7 @@ Vully-les-Lacs,2020,10
 Vully-les-Lacs,2019,10
 Vully-les-Lacs,2018,10
 Vully-les-Lacs,2017,10
-Vully-les-Lacs,2016,4
+Vully-les-Lacs,2016,3
 Vétroz,2025,13
 Vétroz,2024,13
 Vétroz,2023,13
@@ -17942,18 +17594,18 @@ Waldenburg,2017,4
 Waldenburg,2016,4
 Waldenburg,2015,4
 Waldenburg,2014,4
-Waldkirch,2025,7
-Waldkirch,2024,7
-Waldkirch,2023,7
-Waldkirch,2022,7
-Waldkirch,2021,7
-Waldkirch,2020,8
-Waldkirch,2019,8
-Waldkirch,2018,8
-Waldkirch,2017,8
-Waldkirch,2016,8
-Waldkirch,2015,7
-Waldkirch,2014,6
+Waldkirch,2025,6
+Waldkirch,2024,5
+Waldkirch,2023,5
+Waldkirch,2022,5
+Waldkirch,2021,5
+Waldkirch,2020,6
+Waldkirch,2019,6
+Waldkirch,2018,6
+Waldkirch,2017,6
+Waldkirch,2016,6
+Waldkirch,2015,5
+Waldkirch,2014,5
 Waldstatt,2025,6
 Waldstatt,2024,6
 Waldstatt,2023,6
@@ -17969,15 +17621,15 @@ Waldstatt,2014,5
 Walenstadt,2025,12
 Walenstadt,2024,10
 Walenstadt,2023,9
-Walenstadt,2022,10
-Walenstadt,2021,10
-Walenstadt,2020,10
-Walenstadt,2019,10
-Walenstadt,2018,6
-Walenstadt,2017,5
-Walenstadt,2016,6
-Walenstadt,2015,6
-Walenstadt,2014,6
+Walenstadt,2022,8
+Walenstadt,2021,8
+Walenstadt,2020,8
+Walenstadt,2019,8
+Walenstadt,2018,5
+Walenstadt,2017,4
+Walenstadt,2016,5
+Walenstadt,2015,5
+Walenstadt,2014,5
 Walkringen,2025,4
 Walkringen,2024,4
 Walkringen,2023,4
@@ -18080,31 +17732,31 @@ Wangen (SZ),2018,9
 Wangen (SZ),2017,9
 Wangen (SZ),2016,9
 Wangen (SZ),2015,9
-Wangen (SZ),2014,10
+Wangen (SZ),2014,9
 Wangen an der Aare,2025,6
 Wangen an der Aare,2024,7
 Wangen an der Aare,2023,6
 Wangen an der Aare,2022,4
 Wangen an der Aare,2021,4
-Wangen an der Aare,2020,4
-Wangen an der Aare,2019,3
-Wangen an der Aare,2018,2
-Wangen an der Aare,2017,2
-Wangen an der Aare,2016,2
-Wangen an der Aare,2015,3
+Wangen an der Aare,2020,2
+Wangen an der Aare,2019,2
+Wangen an der Aare,2018,1
+Wangen an der Aare,2017,1
+Wangen an der Aare,2016,1
+Wangen an der Aare,2015,2
 Wangen an der Aare,2014,2
 Wangen bei Olten,2025,6
 Wangen bei Olten,2024,6
 Wangen bei Olten,2023,4
-Wangen bei Olten,2022,7
-Wangen bei Olten,2021,7
-Wangen bei Olten,2020,7
-Wangen bei Olten,2019,7
-Wangen bei Olten,2018,7
-Wangen bei Olten,2017,7
-Wangen bei Olten,2016,7
-Wangen bei Olten,2015,7
-Wangen bei Olten,2014,7
+Wangen bei Olten,2022,6
+Wangen bei Olten,2021,6
+Wangen bei Olten,2020,6
+Wangen bei Olten,2019,6
+Wangen bei Olten,2018,6
+Wangen bei Olten,2017,6
+Wangen bei Olten,2016,6
+Wangen bei Olten,2015,6
+Wangen bei Olten,2014,6
 Wangen-Brüttisellen,2025,11
 Wangen-Brüttisellen,2024,12
 Wangen-Brüttisellen,2023,12
@@ -18123,12 +17775,12 @@ Wartau,2023,3
 Wartau,2022,3
 Wartau,2021,2
 Wartau,2020,2
-Wartau,2019,8
-Wartau,2018,8
-Wartau,2017,8
-Wartau,2016,5
-Wartau,2015,4
-Wartau,2014,4
+Wartau,2019,7
+Wartau,2018,7
+Wartau,2017,7
+Wartau,2016,4
+Wartau,2015,3
+Wartau,2014,3
 Warth-Weiningen,2025,3
 Warth-Weiningen,2024,3
 Warth-Weiningen,2023,3
@@ -18408,17 +18060,17 @@ Wigoltingen,2014,9
 Wikon,2015,2
 Wikon,2014,2
 Wil (SG),2025,44
-Wil (SG),2024,42
-Wil (SG),2023,40
-Wil (SG),2022,36
-Wil (SG),2021,35
-Wil (SG),2020,35
-Wil (SG),2019,33
-Wil (SG),2018,30
-Wil (SG),2017,27
-Wil (SG),2016,17
+Wil (SG),2024,41
+Wil (SG),2023,39
+Wil (SG),2022,35
+Wil (SG),2021,34
+Wil (SG),2020,33
+Wil (SG),2019,30
+Wil (SG),2018,27
+Wil (SG),2017,23
+Wil (SG),2016,15
 Wil (SG),2015,14
-Wil (SG),2014,6
+Wil (SG),2014,5
 Wila,2025,3
 Wila,2024,3
 Wila,2023,2
@@ -18430,8 +18082,8 @@ Wila,2018,3
 Wila,2017,3
 Wila,2016,3
 Wila,2015,3
-Wila,2014,3
-Wilchingen,2025,4
+Wila,2014,2
+Wilchingen,2025,3
 Wilchingen,2024,3
 Wilchingen,2023,3
 Wilchingen,2022,3
@@ -18466,17 +18118,17 @@ Wilderswil,2016,1
 Wilderswil,2015,1
 Wilderswil,2014,1
 Wildhaus-Alt St. Johann,2025,14
-Wildhaus-Alt St. Johann,2024,15
-Wildhaus-Alt St. Johann,2023,14
-Wildhaus-Alt St. Johann,2022,14
-Wildhaus-Alt St. Johann,2021,16
-Wildhaus-Alt St. Johann,2020,13
-Wildhaus-Alt St. Johann,2019,12
-Wildhaus-Alt St. Johann,2018,12
-Wildhaus-Alt St. Johann,2017,11
-Wildhaus-Alt St. Johann,2016,13
-Wildhaus-Alt St. Johann,2015,11
-Wildhaus-Alt St. Johann,2014,12
+Wildhaus-Alt St. Johann,2024,14
+Wildhaus-Alt St. Johann,2023,13
+Wildhaus-Alt St. Johann,2022,13
+Wildhaus-Alt St. Johann,2021,15
+Wildhaus-Alt St. Johann,2020,12
+Wildhaus-Alt St. Johann,2019,10
+Wildhaus-Alt St. Johann,2018,10
+Wildhaus-Alt St. Johann,2017,10
+Wildhaus-Alt St. Johann,2016,11
+Wildhaus-Alt St. Johann,2015,9
+Wildhaus-Alt St. Johann,2014,10
 Wilen (TG),2025,2
 Wilen (TG),2024,2
 Wilen (TG),2023,2
@@ -18559,7 +18211,7 @@ Winterthur,2018,171
 Winterthur,2017,169
 Winterthur,2016,126
 Winterthur,2015,125
-Winterthur,2014,120
+Winterthur,2014,119
 Wisen (SO),2025,2
 Wisen (SO),2024,2
 Wisen (SO),2023,2
@@ -18627,15 +18279,15 @@ Wohlen (AG),2020,14
 Wohlen (AG),2019,14
 Wohlen (AG),2018,14
 Wohlen (AG),2017,13
-Wohlen (AG),2016,14
-Wohlen (AG),2015,17
-Wohlen (AG),2014,15
-Wohlen bei Bern,2025,6
-Wohlen bei Bern,2024,6
-Wohlen bei Bern,2023,7
-Wohlen bei Bern,2022,7
-Wohlen bei Bern,2021,7
-Wohlen bei Bern,2020,7
+Wohlen (AG),2016,13
+Wohlen (AG),2015,16
+Wohlen (AG),2014,14
+Wohlen bei Bern,2025,5
+Wohlen bei Bern,2024,5
+Wohlen bei Bern,2023,6
+Wohlen bei Bern,2022,6
+Wohlen bei Bern,2021,6
+Wohlen bei Bern,2020,6
 Wohlen bei Bern,2019,5
 Wohlen bei Bern,2018,5
 Wohlen bei Bern,2017,4
@@ -18782,10 +18434,10 @@ Wädenswil,2021,37
 Wädenswil,2020,36
 Wädenswil,2019,36
 Wädenswil,2018,36
-Wädenswil,2017,34
-Wädenswil,2016,34
-Wädenswil,2015,33
-Wädenswil,2014,33
+Wädenswil,2017,33
+Wädenswil,2016,33
+Wädenswil,2015,32
+Wädenswil,2014,32
 Wäldi,2025,5
 Wäldi,2024,5
 Wäldi,2023,5
@@ -18854,10 +18506,10 @@ Würenlos,2021,6
 Würenlos,2020,6
 Würenlos,2019,7
 Würenlos,2018,7
-Würenlos,2017,6
-Würenlos,2016,4
-Würenlos,2015,4
-Würenlos,2014,4
+Würenlos,2017,5
+Würenlos,2016,3
+Würenlos,2015,2
+Würenlos,2014,2
 Yens,2025,1
 Yens,2022,1
 Yens,2021,1
@@ -18878,8 +18530,8 @@ Yverdon-les-Bains,2019,45
 Yverdon-les-Bains,2018,35
 Yverdon-les-Bains,2017,32
 Yverdon-les-Bains,2016,30
-Yverdon-les-Bains,2015,26
-Yverdon-les-Bains,2014,25
+Yverdon-les-Bains,2015,25
+Yverdon-les-Bains,2014,24
 Yvonand,2025,5
 Yvonand,2024,4
 Yvonand,2023,4
@@ -18942,19 +18594,19 @@ Zell (ZH),2017,5
 Zell (ZH),2016,5
 Zell (ZH),2015,5
 Zell (ZH),2014,5
-Zermatt,2025,93
-Zermatt,2024,89
-Zermatt,2023,86
-Zermatt,2022,85
-Zermatt,2021,80
-Zermatt,2020,79
-Zermatt,2019,79
-Zermatt,2018,50
-Zermatt,2017,49
-Zermatt,2016,38
-Zermatt,2015,35
-Zermatt,2014,39
-Zernez,2025,11
+Zermatt,2025,91
+Zermatt,2024,86
+Zermatt,2023,83
+Zermatt,2022,82
+Zermatt,2021,77
+Zermatt,2020,76
+Zermatt,2019,74
+Zermatt,2018,47
+Zermatt,2017,47
+Zermatt,2016,35
+Zermatt,2015,32
+Zermatt,2014,35
+Zernez,2025,10
 Zernez,2024,5
 Zernez,2023,5
 Zernez,2022,4
@@ -18982,13 +18634,10 @@ Zillis-Reischen,2024,2
 Zillis-Reischen,2023,2
 Zillis-Reischen,2022,2
 Zillis-Reischen,2021,2
-Zillis-Reischen,2020,2
-Zillis-Reischen,2019,2
-Zillis-Reischen,2018,2
-Zillis-Reischen,2017,3
-Zillis-Reischen,2016,1
-Zillis-Reischen,2015,1
-Zillis-Reischen,2014,1
+Zillis-Reischen,2020,1
+Zillis-Reischen,2019,1
+Zillis-Reischen,2018,1
+Zillis-Reischen,2017,2
 Zizers,2025,1
 Zizers,2024,1
 Zizers,2023,1
@@ -19011,8 +18660,8 @@ Zofingen,2019,21
 Zofingen,2018,21
 Zofingen,2017,18
 Zofingen,2016,4
-Zofingen,2015,4
-Zofingen,2014,4
+Zofingen,2015,3
+Zofingen,2014,3
 Zollikofen,2025,10
 Zollikofen,2024,12
 Zollikofen,2023,13
@@ -19043,12 +18692,12 @@ Zuchwil,2023,19
 Zuchwil,2022,19
 Zuchwil,2021,18
 Zuchwil,2020,17
-Zuchwil,2019,15
-Zuchwil,2018,15
+Zuchwil,2019,14
+Zuchwil,2018,14
 Zuchwil,2017,12
 Zuchwil,2016,12
-Zuchwil,2015,10
-Zuchwil,2014,6
+Zuchwil,2015,9
+Zuchwil,2014,2
 Zufikon,2025,1
 Zufikon,2024,1
 Zufikon,2023,1
@@ -19061,18 +18710,18 @@ Zufikon,2017,1
 Zufikon,2016,1
 Zufikon,2015,1
 Zufikon,2014,1
-Zug,2025,77
-Zug,2024,72
-Zug,2023,70
-Zug,2022,70
-Zug,2021,70
-Zug,2020,66
-Zug,2019,68
-Zug,2018,63
-Zug,2017,59
-Zug,2016,56
-Zug,2015,55
-Zug,2014,55
+Zug,2025,76
+Zug,2024,71
+Zug,2023,68
+Zug,2022,68
+Zug,2021,68
+Zug,2020,64
+Zug,2019,65
+Zug,2018,61
+Zug,2017,56
+Zug,2016,53
+Zug,2015,53
+Zug,2014,53
 Zumikon,2025,3
 Zumikon,2024,3
 Zumikon,2023,3
@@ -19097,18 +18746,18 @@ Zuoz,2017,2
 Zuoz,2016,2
 Zuoz,2015,2
 Zuoz,2014,2
-Zurzach,2025,5
-Zurzach,2024,6
-Zurzach,2023,7
-Zurzach,2022,8
-Zurzach,2021,8
-Zurzach,2020,9
-Zurzach,2019,9
-Zurzach,2018,9
-Zurzach,2017,9
-Zurzach,2016,9
-Zurzach,2015,5
-Zurzach,2014,3
+Zurzach,2025,4
+Zurzach,2024,5
+Zurzach,2023,6
+Zurzach,2022,7
+Zurzach,2021,7
+Zurzach,2020,8
+Zurzach,2019,8
+Zurzach,2018,8
+Zurzach,2017,8
+Zurzach,2016,8
+Zurzach,2015,4
+Zurzach,2014,2
 Zuzwil (SG),2025,1
 Zuzwil (SG),2024,1
 Zuzwil (SG),2023,1
@@ -19128,20 +18777,20 @@ Zweisimmen,2021,9
 Zweisimmen,2020,8
 Zweisimmen,2019,8
 Zweisimmen,2018,8
-Zweisimmen,2017,6
-Zweisimmen,2016,6
-Zweisimmen,2015,6
-Zweisimmen,2014,4
+Zweisimmen,2017,5
+Zweisimmen,2016,5
+Zweisimmen,2015,5
+Zweisimmen,2014,3
 Zwischbergen,2025,1
 Zwischbergen,2024,1
 Zwischbergen,2021,1
-Zwischbergen,2020,2
-Zwischbergen,2019,2
-Zwischbergen,2018,2
-Zwischbergen,2017,2
-Zwischbergen,2016,2
-Zwischbergen,2015,2
-Zwischbergen,2014,2
+Zwischbergen,2020,1
+Zwischbergen,2019,1
+Zwischbergen,2018,1
+Zwischbergen,2017,1
+Zwischbergen,2016,1
+Zwischbergen,2015,1
+Zwischbergen,2014,1
 Zäziwil,2025,1
 Zäziwil,2024,1
 Zäziwil,2023,1
@@ -19154,17 +18803,17 @@ Zäziwil,2017,2
 Zäziwil,2016,2
 Zäziwil,2015,2
 Zäziwil,2014,2
-Zürich,2025,1101
+Zürich,2025,1100
 Zürich,2024,1089
-Zürich,2023,1074
-Zürich,2022,1046
-Zürich,2021,1039
-Zürich,2020,1037
-Zürich,2019,1005
-Zürich,2018,964
-Zürich,2017,882
-Zürich,2016,793
-Zürich,2015,730
-Zürich,2014,676
+Zürich,2023,1071
+Zürich,2022,1043
+Zürich,2021,1038
+Zürich,2020,1033
+Zürich,2019,1002
+Zürich,2018,960
+Zürich,2017,876
+Zürich,2016,787
+Zürich,2015,720
+Zürich,2014,667
 Zürichsee (ZH),2015,1
 Zürichsee (ZH),2014,1
