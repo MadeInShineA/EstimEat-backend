@@ -52,62 +52,65 @@ def _(localities_df, plt):
     return
 
 
-app._unparsable_cell(
-    r"""
+@app.cell
+def _(data_path, pl):
     import osmium as o
+    import re
+    from pathlib import Path
 
     class AmenityHandler(o.SimpleHandler):
-        def __init__(self):
+        def __init__(self, year: int):
             super().__init__()
+            self.year = year
             self.amenities = []
 
         def node(self, n):
-            if \"amenity\" in n.tags:
-                self.amenities.append(
-                    {
-                        \"id\": n.id,
-                        \"lat\": n.location.lat,
-                        \"lon\": n.location.lon,
-                        \"amenity\": n.tags.get(\"amenity\"),
-                        \"name\": n.tags.get(\"name\", None),
-                    }
-                )
+            if "amenity" in n.tags:
+                # Skip nodes without valid coordinates
+                if not n.location.valid():
+                    return
+                self.amenities.append({
+                    "id": n.id,
+                    "lat": n.location.lat,
+                    "lon": n.location.lon,
+                    "amenity": n.tags.get("amenity"),
+                    "name": n.tags.get("name", None),
+                    "year": self.year,
+                })
 
-    # Parse the .pbf file
-    handler = AmenityHandler()
-    handler.apply_file(data_path + \"switzerland-251020.osm.pbf\", locations=True)
+    osm_dir = Path(data_path) / "osm"
 
-    # Convert to Polars DataFrame
-    osm_df = pl.Dataimport osmium as o
+    osm_files =  [f for f in osm_dir.iterdir() if f.is_file()]
 
-    class AmenityHandler(o.SimpleHandler):
-        def __init__(self):
-            super().__init__()
-            self.amenities = []
 
-        def node(self, n):
-            if \"amenity\" in n.tags:
-                self.amenities.append(
-                    {
-                        \"id\": n.id,
-                        \"lat\": n.location.lat,
-                        \"lon\": n.location.lon,
-                        \"amenity\": n.tags.get(\"amenity\"),
-                        \"name\": n.tags.get(\"name\", None),
-                    }
-                )
+    all_osm_dfs = []
 
-    # Parse the .pbf file
-    handler = AmenityHandler()
-    handler.apply_file(data_path + \"switzerland-251020.osm.pbf\", locations=True)
+    for osm_file in osm_files:
+        filename = Path(osm_file).name
+        match = re.search(r"-(\d{2})", filename)
+        if not match:
+            print(f"⚠️  Could not extract year from filename: {filename}")
+            continue
+        year = 2000 + int(match.group(1))
+        # Parse amenities with fixed year
+        handler = AmenityHandler(year=year)
+        handler.apply_file(osm_file, locations=True)
 
-    # Convert to Polars DataFrame
-    osm_df = pl.DataFrame(handler.amenities)
-    osm_df.head()Frame(handler.amenities)
-    osm_df.head()
-    """,
-    name="_"
-)
+        if handler.amenities:
+            osm_file_df = pl.DataFrame(handler.amenities)
+            all_osm_dfs.append(osm_file_df)
+            print(f"✅ Loaded {len(handler.amenities)} amenities from {filename} (year={year})")
+        else:
+            print(f"ℹ️  No amenities found in {filename}")
+
+    # Combine all into one DataFrame
+    if all_osm_dfs:
+        osm_df = pl.concat(all_osm_dfs, how="vertical")
+        print("\nFinal DataFrame:")
+        print(osm_df.head())
+    else:
+        raise ValueError("No data loaded from any PBF file.")
+    return Path, osm_df
 
 
 @app.cell
@@ -166,7 +169,7 @@ def _(gpd, localities_df, restaurant_gdf_crs):
 
 @app.cell
 def _(joined):
-    result = joined[["id", "lat", "lon", "amenity", "name_right"]]
+    result = joined[["id", "lat", "lon", "amenity", "year", "name_right"]]
     return (result,)
 
 
@@ -175,11 +178,22 @@ def _(pl, result):
     df = (
         pl.from_pandas(result)
         .rename({"name_right": "locality"})
-        .group_by("locality")
-        .agg(pl.len().alias("restaurant_count")).sort("restaurant_count", descending=True)
+        .drop_nulls(subset=["locality"])
+        .group_by("locality", "year")
+        .agg(pl.len().alias("restaurant_count"))
+        .sort(["locality", "year"], descending=[False, True])
     )
 
     df.head()
+    return (df,)
+
+
+@app.cell
+def _(Path, df):
+    output_dir = Path("res")
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    df.write_csv(output_dir / "restaurant_count_by_locality.csv")
     return
 
 
