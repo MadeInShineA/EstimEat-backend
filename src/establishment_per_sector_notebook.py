@@ -8,7 +8,8 @@ app = marimo.App(width="medium")
 def _():
     import polars as pl
     import openpyxl
-    return (pl,)
+    import matplotlib.pyplot as plt
+    return pl, plt
 
 
 @app.cell
@@ -60,12 +61,12 @@ def _(df, pl):
             "Secteur tertiaire": 3
         })
         .cast(pl.Int8),
-    
+
         pl.col("establishments").replace({
             "X": None,
             "0": None
         }).cast(pl.Int64),
-    
+
         pl.col("jobs").replace({
             "X": None,
             "0": None
@@ -189,90 +190,119 @@ def _(df_jobs_cleaned, pl):
     )
 
     df_jobs_growth.head()
-    return
+    return (df_jobs_growth,)
 
 
 @app.cell
-def _(df_establishments_growth):
-    df_establishments_growth.schema
-    return
-
-
-@app.cell
-def _(df_establishments_growth, pl):
-    DECAY = 0.2
-    PRIOR_WEIGHT = 3
-
-    df_with_weights = (
-        df_establishments_growth
-        .with_columns(
-            max_year=pl.col("year").max().over("locality"),
+def _(pl):
+    def compute_bayes_score(df, value_col, decay=0.2, prior_weight=3):
+        df_weighted = (
+            df
+            .with_columns(max_year=pl.col("year").max().over("locality"))
+            .with_columns(weight=(-decay * (pl.col("max_year") - pl.col("year"))).exp())
+            .drop("max_year")
         )
-        .with_columns(
-            weight=(-(DECAY * (pl.col("max_year") - pl.col("year")))).exp()
+    
+        global_avg = (
+            df_weighted
+            .group_by("locality")
+            .agg(ws=(pl.col("weight") * pl.col(value_col)).sum() / pl.col("weight").sum())
+            ["ws"].mean()
         )
-        .drop("max_year")
-    )
 
-    global_avg = (
-        df_with_weights
-        .group_by("locality")
-        .agg(
-            ws=(pl.col("weight") * pl.col("estab_growth")).sum() / pl.col("weight").sum()
-        )["ws"].mean()
-    )
-
-    df_establishment_score = (
-        df_with_weights
-        .group_by("locality")
-        .agg(
-            weight_sum=pl.col("weight").sum(),
-            raw_score=(pl.col("weight") * pl.col("estab_growth")).sum() / pl.col("weight").sum(),
+        print(f"The global average of ${value_col} is: {global_avg}")
+    
+        return (
+            df_weighted
+            .group_by("locality")
+            .agg(
+                weight_sum=pl.col("weight").sum(),
+                raw_score=(pl.col("weight") * pl.col(value_col)).sum() / pl.col("weight").sum(),
+            )
+            .with_columns(
+                bayes_score=(
+                    pl.col("raw_score") * pl.col("weight_sum") + global_avg * prior_weight
+                ) / (pl.col("weight_sum") + prior_weight)
+            )
+            .select("locality", "bayes_score")
+            .sort("bayes_score", descending=True)
         )
-        .with_columns(
-            bayes_score=(
-                pl.col("raw_score") * pl.col("weight_sum") + global_avg * PRIOR_WEIGHT
-            ) / (pl.col("weight_sum") + PRIOR_WEIGHT)
-        )
-        .select("locality", "bayes_score")
-        .sort("bayes_score", descending=True)
-    )
-
-    print("Global average:", global_avg)
-    print(df_establishment_score.head())
-
-    return df_establishment_score, df_with_weights
+    return (compute_bayes_score,)
 
 
 @app.cell
-def _(df_establishment_score, pl):
-    df_establishment_score.filter(pl.col("locality") == "Montet (Glâne) ")
+def _(compute_bayes_score, df_establishments_growth):
+    df_estabs_score = compute_bayes_score(df_establishments_growth, "estab_growth")
+    df_estabs_score.head()
+    return (df_estabs_score,)
 
+
+@app.cell
+def _(compute_bayes_score, df_jobs_growth):
+    df_jobs_score  = compute_bayes_score(df_jobs_growth, "job_growth")
+    df_jobs_score.head()
+    return (df_jobs_score,)
+
+
+@app.cell
+def _(pl, plt):
+    def plot_best_scores(df_plot_values, value_col, df_scores, number=5):
+        # Get top localities
+        best_localities = df_scores.head(number).get_column("locality").to_list()
+
+        # Set up the plot
+        plt.figure(figsize=(10, 6))
+
+        for i, locality in enumerate(best_localities):
+            # Filter data for this locality
+            subset = df_plot_values.filter(pl.col("locality") == locality)
+        
+            # Extract years and values as NumPy arrays (for reliable plotting)
+            years = subset.get_column("year").to_numpy()
+            values = subset.get_column(value_col).to_numpy()
+
+            # Sort by year just in case
+            sorted_idx = years.argsort()
+            years = years[sorted_idx]
+            values = values[sorted_idx]
+
+            # Plot with label for legend
+            plt.plot(years, values, marker='o', linewidth=2, label=locality)
+
+        # Styling
+        plt.title(f"Top {number} Localities by {value_col.replace('_', ' ').title()}", fontsize=14)
+        plt.xlabel("Year", fontsize=12)
+        plt.ylabel(value_col.replace('_', ' ').title(), fontsize=12)
+        plt.legend(title="Locality", bbox_to_anchor=(1.05, 1), loc='upper left')
+        plt.grid(True, linestyle='--', alpha=0.6)
+        plt.tight_layout()  # Prevents label cutoff
+        plt.show()
+
+        
+    return (plot_best_scores,)
+
+
+@app.cell
+def _(df_establishments_cleaned, df_estabs_score, plot_best_scores):
+    plot_best_scores(df_establishments_cleaned, "establishments", df_estabs_score)
     return
 
 
 @app.cell
-def _(df_establishments_cleaned, pl):
-    df_establishments_cleaned.filter(pl.col("locality") == "Montet (Glâne)")
+def _(df_jobs_cleaned, df_jobs_score, plot_best_scores):
+    plot_best_scores(df_jobs_cleaned, "jobs", df_jobs_score)
     return
 
 
 @app.cell
-def _(df_establishments_growth, pl):
-    df_establishments_growth.filter(pl.col("locality") == "Montet (Glâne)")
+def _(df_establishments_growth, df_estabs_score, plot_best_scores):
+    plot_best_scores(df_establishments_growth, "estab_growth", df_estabs_score)
     return
 
 
 @app.cell
-def _(df_with_weights, pl):
-    df_la = df_with_weights.filter(pl.col("locality") == "L'Abergement")
-
-    raw_weighted_score = (
-        (df_la["weight"] * df_la["estab_growth"]).sum() / df_la["weight"].sum()
-    )
-
-    print("Raw weighted score for L'Abergement:", raw_weighted_score)
-
+def _(df_jobs_growth, df_jobs_score, plot_best_scores):
+    plot_best_scores(df_jobs_growth, "job_growth", df_jobs_score)
     return
 
 
