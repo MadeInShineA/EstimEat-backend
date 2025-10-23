@@ -220,12 +220,12 @@ def _(pl):
                 raw_score=(pl.col("weight") * pl.col(value_col)).sum() / pl.col("weight").sum(),
             )
             .with_columns(
-                bayes_score=(
+                trend_score=(
                     pl.col("raw_score") * pl.col("weight_sum") + global_avg * prior_weight
                 ) / (pl.col("weight_sum") + prior_weight)
             )
-            .select("locality", "bayes_score")
-            .sort("bayes_score", descending=True)
+            .select("locality", "trend_score")
+            .sort("trend_score", descending=True)
         )
     return (compute_bayes_score,)
 
@@ -312,7 +312,7 @@ def _(df_estabs_score):
 
 @app.cell
 def _(df_jobs_score):
-    df_jobs_score.write_csv("./res/third_sector_job_score_by_locality.csv")
+    df_jobs_score.write_csv("./res/third_sector_job_score_by_locality.csv", separator=",")
     return
 
 
