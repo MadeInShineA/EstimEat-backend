@@ -30,8 +30,7 @@ def _(data_path, gpd):
 @app.cell
 def _(data_path, gpd):
     localities_df = gpd.read_file(
-        data_path + "localities.gpkg", layer="tlm_hoheitsgebiet"
-    )
+        data_path + "swissboundaries3d_2024-01_2056_5728.shp", layer="swissBOUNDARIES3D_1_5_TLM_HOHEITSGEBIET")
     localities_df.info()
     return (localities_df,)
 
@@ -163,10 +162,16 @@ def _(restaurant_gdf_crs):
 
 
 @app.cell
+def _(localities_df):
+    localities_df.head()
+    return
+
+
+@app.cell
 def _(gpd, localities_df, restaurant_gdf_crs):
     joined = gpd.sjoin(
         restaurant_gdf_crs,
-        localities_df[["name", "geometry"]],  # only keep needed columns
+        localities_df[["NAME", "geometry"]],  # only keep needed columns
         how="left",
         predicate="within",  # or 'intersects' if points may be on borders
     )
@@ -175,7 +180,7 @@ def _(gpd, localities_df, restaurant_gdf_crs):
 
 @app.cell
 def _(joined):
-    result = joined[["id", "lat", "lon", "amenity", "year", "name_right"]]
+    result = joined[["id", "lat", "lon", "amenity", "year", "NAME"]]
     return (result,)
 
 
@@ -183,7 +188,7 @@ def _(joined):
 def _(pl, result):
     df = (
         pl.from_pandas(result)
-        .rename({"name_right": "locality"})
+        .rename({"NAME": "locality"})
         .drop_nulls(subset=["locality"])
         .group_by("locality", "year")
         .agg(pl.len().alias("restaurant_count"))
@@ -192,6 +197,12 @@ def _(pl, result):
 
     df.head()
     return (df,)
+
+
+@app.cell
+def _(df, pl):
+    df.filter(pl.col("locality") == "Staufen")
+    return
 
 
 @app.cell
