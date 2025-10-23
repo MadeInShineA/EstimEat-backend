@@ -195,14 +195,14 @@ def _(df_jobs_cleaned, pl):
 
 @app.cell
 def _(pl):
-    def compute_bayes_score(df, value_col, decay=0.2, prior_weight=3):
+    def compute_bayes_score(df, value_col, decay=0.4, prior_weight=3):
         df_weighted = (
             df
             .with_columns(max_year=pl.col("year").max().over("locality"))
             .with_columns(weight=(-decay * (pl.col("max_year") - pl.col("year"))).exp())
             .drop("max_year")
         )
-    
+
         global_avg = (
             df_weighted
             .group_by("locality")
@@ -211,7 +211,7 @@ def _(pl):
         )
 
         print(f"The global average of ${value_col} is: {global_avg}")
-    
+
         return (
             df_weighted
             .group_by("locality")
@@ -256,7 +256,7 @@ def _(pl, plt):
         for i, locality in enumerate(best_localities):
             # Filter data for this locality
             subset = df_plot_values.filter(pl.col("locality") == locality)
-        
+
             # Extract years and values as NumPy arrays (for reliable plotting)
             years = subset.get_column("year").to_numpy()
             values = subset.get_column(value_col).to_numpy()
@@ -277,8 +277,6 @@ def _(pl, plt):
         plt.grid(True, linestyle='--', alpha=0.6)
         plt.tight_layout()  # Prevents label cutoff
         plt.show()
-
-        
     return (plot_best_scores,)
 
 
@@ -307,7 +305,14 @@ def _(df_jobs_growth, df_jobs_score, plot_best_scores):
 
 
 @app.cell
-def _():
+def _(df_estabs_score):
+    df_estabs_score.write_csv("./res/third_sector_establishment_score_by_locality.csv", separator=",")
+    return
+
+
+@app.cell
+def _(df_jobs_score):
+    df_jobs_score.write_csv("./res/third_sector_job_score_by_locality.csv")
     return
 
 
